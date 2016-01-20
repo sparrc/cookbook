@@ -78,17 +78,27 @@ Lemon roasted chicken
 - 2 portions
 - 30 minutes
 
+#### Ingredients:
+
 - 1 large meyer lemon
 - 2 large chicken breasts
-preheat oven to 425 degrees, and place a cast-iron pan into the oven with a splash of olive oil. Thinly slice the lemons. Lift skin from chicken breasts and stuff the thin lemon slices underneath.
-
--
-aggressively salt and pepper the outside of the chicken. Take cast-iron pan out of the oven and put over high heat. Place chicken breasts into pan skin-side down and fry for a few minutes until golden brown, then flip and fry other side for a few minutes. Place pan back in oven and let bake for 20-30 minutes.
-
 - 1/2 cup white wine
 - 1 tbsp butter
-remove pan from oven, and remove chicken breasts from pan. Put pan over high heat and pour in wine and butter. reduce, scraping up the brown bits and stirring until the sauce is at desired thickness. Pour sauce over chicken breasts and serve.
 
+#### Directions:
+
+1. preheat oven to 425 degrees, and place a cast-iron pan into the oven with a
+splash of olive oil. Thinly slice the lemons. Lift skin from chicken breasts
+and stuff the thin lemon slices underneath.
+1. aggressively salt and pepper the outside of the chicken. Take cast-iron pan
+out of the oven and put over high heat. Place chicken breasts into pan
+skin-side down and fry for a few minutes until golden brown, then flip
+and fry other side for a few minutes. Place pan back in oven and let bake
+for 20-30 minutes.
+1. remove pan from oven, and remove chicken breasts from pan. Put pan over high
+heat and pour in wine and butter. reduce, scraping up the brown bits and
+stirring until the sauce is at desired thickness. Pour sauce over chicken
+breasts and serve.
 
 
 Thai Curry
@@ -97,7 +107,8 @@ Thai Curry
 - 5 portions
 - 45 minutes
 
-Not done yet, general curry recipe. Make jasmine rice as the curry simmers, about 1/2 cup dry per person.
+Not done yet, general curry recipe. Make jasmine rice as the curry simmers,
+about 1/2 cup dry per person.
 
 - 1/4 cup Thai red/yellow/green curry paste
 - 1 14oz can light coconut milk
