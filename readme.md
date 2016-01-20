@@ -72,8 +72,11 @@ risotto rather than a soup.
 1. Season with salt and pepper to taste. Stir in Parmesan and parsley and serve.
 
 
-Lemon roasted chicken -- 2 portions -- 30 minutes
+Lemon roasted chicken
 ================================================================================
+
+- 2 portions
+- 30 minutes
 
 - 1 large meyer lemon
 - 2 large chicken breasts
@@ -88,10 +91,11 @@ remove pan from oven, and remove chicken breasts from pan. Put pan over high hea
 
 
 
-
-
-Thai Curry -- 5 portions -- 45 minutes
+Thai Curry
 ================================================================================
+
+- 5 portions
+- 45 minutes
 
 Not done yet, general curry recipe. Make jasmine rice as the curry simmers, about 1/2 cup dry per person.
 
@@ -115,8 +119,11 @@ Heat a skillet over high heat. Add chicken and sear outside for 1-2 minutes, the
 while the curry simmers, add chicken bouillon, soy sauce, and zest from the three limes.
 
 
-Shakshuka -- 4 portions -- 40 minutes
+Shakshuka
 ================================================================================
+
+- 4 portions
+- 40 minutes
 
 - 3  green bell peppers
 - 3  jalapeno peppers
@@ -140,15 +147,18 @@ crack eggs over the sauce so that they are evenly distributed across sauce's sur
 Serve with crumbled feta and parsley sprinkled on top, along with white french bread or pitas.
 
 
-Mushroom and Sausage Ragu with Polenta -- 4 portions -- less than 45 minutes
+Mushroom and Sausage Ragu with Polenta
 ================================================================================
+
+- 4 portions
+- less than 45 minutes
 
 Cook the polenta while the ragu simmers so everything will be ready and hot at
 the same time. Other mushrooms work great in this recipe too.
 Don't worry about the sauce looking dry before it simmers,
 as it simmers the mushroom juices materialize.
 
-e/eform For the Ragu:
+ For the Ragu:
 
 - 1 lb hot italian sausage (pork, chicken, or turkey)
 Heat 11/2 tsp olive oil in skillet. Remove sausage from casing. Add to pan and saute until browned, stirring with a spatula to crumble, about 4 minutes. Remove sausage from pan.
@@ -159,7 +169,7 @@ Heat 11/2 tsp olive oil in skillet. Remove sausage from casing. Add to pan and s
 - 1 14 oz can diced tomatoes
 Add 1 tblsp olive oil to pan, still over medium-high heat. Add onion and garlic, saute until slightly translucent, about 3 minutes. Add mushrooms; saute until reduced some, about 6 minutes. stir in sausage and tomatoes, salt and pepper generously, and bring to a simmer. Reduce heat to medium and simmer for 15 minutes.
 
-e/eform For the Polenta:
+ For the Polenta:
 
 - 2 cups chicken broth
 - 2 cups water
@@ -169,7 +179,7 @@ e/eform For the Polenta:
 - 1 pinch salt
 Bring broth and water to a boil in a medium saucepan. Add grits, stirring well. Reduce heat to medium and simmer for 25 minutes or until thick, stirring often. Remove from heat and stir in salt, pepper, and butter. Serve with sausage mixture on top.
 
-e/eform Polenta variation:
+ Polenta variation:
 
 - 4 cups water
 - 1 cup corn grits
@@ -180,8 +190,11 @@ e/eform Polenta variation:
 Bring water to a boil in a medium saucepan. Add grits, stirring well. Reduce heat to medium and simmer for 25 minutes or until thick, stirring often. Remove from heat and stir in salt, pepper, cream, and cheese.
 
 
-Hearty Beef Chili -- 8 portions -- 2-3 hours
+Hearty Beef Chili
 ================================================================================
+
+- 8 portions
+- 2-3 hours
 
 3 15 oz cans kidney beans can be substituted for the dry soaked beans in step 4.
 
@@ -210,8 +223,11 @@ Increase heat to medium-high and add half the beef, cooking until browned, break
 add carrots, beans (without juices), tomatoes (with juices), tomato puree, and salt; bring to boil, then reduce heat to low and simmer, covered, stirring occasionally, for 1 hour. Remove cover and continue to simmer 1 hour longer, stirring occasionally.
 
 
-Mom's thanksgiving stuffing -- 6-8 portions -- 1 1/2 hour
+Mom's thanksgiving stuffing
 ================================================================================
+
+- 6-8 portions
+- 1 1/2 hour
 
 -   Turkey liver and heart
 Simmer turkey liver and heart in small saucepan.
@@ -233,10 +249,13 @@ Add stuffing mix, cooked wild rice and almonds. Finely dice Turkey liver and hea
 Heat butter and stock in a small saucepan just until butter melts. Pour over stuffing mixture and add the Brandy. Stuff turkey just before putting it in the oven. Leftover stuffing can be placed in a casserole and baked 1/2 hour to an hour, basting with turkey juices if possible.
 
 
-Green Lentil Curry -- 6-8 portions -- 1 hour
+Green Lentil Curry
 ================================================================================
 
-e/eform These lentils are absurdly healthy, yet still very flavorful.
+- 6-8 portions
+- 1 hour
+
+ These lentils are absurdly healthy, yet still very flavorful.
 This dish is super adaptable, feel free to mix and match any vegetables you want
 for the green beans/carrots/broccoli. Cauliflower works especially well, any
 green will work in place of spinach. This dish keeps well and some may
@@ -273,9 +292,11 @@ by about half.
 Serve with yogurt and rice or naan bread. Garnish with remaining cilantro.
 
 
-Israeli Cous-Cous and Chicken -- 4-5 portions -- 1 hour
+Israeli Cous-Cous and Chicken
 ================================================================================
 
+- 4-5 portions
+- 1 hour
 
 - 11/2 lb Boneless, skinless chicken tenders, cubed
 - 1 tbsp Olive Oil
@@ -298,9 +319,11 @@ Chop vegetables into small pieces. Oil a pan and put over medium-high heat. When
 Chop zucchini into small cubes. Oil a pan and heat over medium-high heat until shimmering. Add zucchini and cook until browned, about 3-5 minutes. Add marinated chicken to pan with all juices and garlic. Cook until chicken is done. Fold cous-cous, chicken, and remaining lemon juice together until thoroughly mixed, Garnish with cilantro and serve.
 
 
-Roasted Dijon Chicken -- 2-3 portions -- 1 hour
+Roasted Dijon Chicken
 ================================================================================
 
+- 2-3 portions
+- 1 hour
 
 - 3 lbs. Chicken parts, bone-in, skin-on
 - 1 tbsp Vegetable Oil
@@ -324,9 +347,11 @@ sauce, garnished with more chives. This dish goes very well with some simple
 roasted baby red potatoes
 
 
-Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds -- 2 portions -- 35-45 minutes
+Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
 ================================================================================
 
+- 2 portions
+- 35-45 minutes
 
 - 1 head Cauliflower
 - 1 tsp Cumin Seeds
@@ -348,13 +373,13 @@ pomegranate seeds, and more feta. Goes well with garam masala chicken
 heat until done).
 
 
-Paella de Mariscos -- 5 large portions -- 1.5 hours
+Paella de Mariscos
 ================================================================================
 
+- 5 large portions
+- 1.5 hours
 
 preheat oven to 400 degrees, with rack in middle.
-
-
 
 - 1  Onion
 - 1 can Diced Tomatoes
