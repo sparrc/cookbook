@@ -36,33 +36,40 @@ about 1 hour.
 for a few more minutes and top with yogurt and dill.
 
 
-Zuppa Arcidossana -- 4 portions -- 30 minutes
+Zuppa Arcidossana
 ================================================================================
+
+- 4 portions
+- 30 minutes
+
+#### Ingredients:
 
 - 2 tbsp olive oil
 - 1 lb sweet italian sausage
-Heat oil over medium heat. When hot, add pepper, then add sausage in balls or crumbled. Cook until browned, about 4 minutes.
-
 - 4  carrots, diced
 - 4  sticks celery, diced
 - 1 large onion, diced
 - 4 cloves garlic, minced
-Add carrots, celery, onion, and garlic to pan. Cook over medium heat until vegetables soften and start to brown, about 15 minutes. Season with salt and pepper.
-
 - 1 can diced tomatoes
 - 3 cups stale french bread, in 1-inch pieces
 - 8 oz chard, kale, or spinach, roughly chopped
-Add tomatoes and cook another 5 minutes. Add Bread and cook a few minutes. Add greens and cook until wilted.
-
 - 2 cups water
-Season with salt and pepper. Add about 2 cups water and cook for another 15 minutes, adding more water if needed. Consistency should be like a loose risotto rather than a soup.
-
 - 1/4 cup chopped parsley
 - 1/4 cup grated parmesan
-Season with salt and pepper to taste. Stir in Parmesan and parsley and serve.
 
+#### Directions:
 
-
+1. Heat oil over medium heat. When hot, add pepper, then add sausage in balls
+or crumbled. Cook until browned, about 4 minutes.
+1. Add carrots, celery, onion, and garlic to pan. Cook over medium heat until
+vegetables soften and start to brown, about 15 minutes. Season with salt and
+pepper.
+1. Add tomatoes and cook another 5 minutes. Add Bread and cook a few minutes.
+Add greens and cook until wilted.
+1. Season with salt and pepper. Add about 2 cups water and cook for another
+15 minutes, adding more water if needed. Consistency should be like a loose
+risotto rather than a soup.
+1. Season with salt and pepper to taste. Stir in Parmesan and parsley and serve.
 
 
 Lemon roasted chicken -- 2 portions -- 30 minutes
