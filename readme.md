@@ -1,30 +1,39 @@
 Borscht
 ================================================================================
 
+#### Ingredients:
+
 - 3/4 lbs beets
-Preheat oven to 400 degrees, wrap beets in foil and roast them until they're easily pierced with a fork, about 1-1.25 hours. Set the beets aside until they are cool enough to handle. Remove any remaining stems. Slip off and discard their skins, peeling any that stick. Dice the beets by hand or grate them in the food processor.
-
-- 11/2 lbs beef chuck roast (or any stewing meat), cubed
-- flour
-Toss meat with a little flour until lightly coated. Remove meat from flour and brown over medium-high heat in a large pot.
-
+- 1 1/2 lbs beef chuck roast (or any stewing meat), cubed
 - 1 28 oz can diced tomatoes
 - 1 quart beef stock or water, or a mixture
-Add water and/or broth and tomatoes. Simmer gently until meat is tender, about 1 hour.
-
-- 2  carrots, diced
+- 2 carrots, diced
 - 1 large onion, chopped
 - 2 ribs celery, diced
-- 31/2 cups cabbage, shredded
-Add the vegetables and the beets, and simmer gently for another 30 minutes (if necessary, add extra water or stock to reach desired texture)
-
-- 6 cloves garlic, mashed
+- 3 1/2 cups cabbage, shredded
+- 6 cloves garlic, smashed
 - 1 tbsp red wine vinegar
-- 1  juice of one lemon
+- 1 juice of one lemon
 - 1 tbsp sugar (optional)
+- flour
 - yogurt
 - dill, chopped
-Season with vinegar, lemon juice, garlic, salt \& pepper, and sugar. Simmer for a few more minutes and top with yogurt and dill.
+
+#### Directions:
+
+1. Preheat oven to 400 degrees, wrap beets in foil and roast them until they're
+easily pierced with a fork, about 1-1.25 hours. Set the beets aside until they
+are cool enough to handle. Remove any remaining stems. Slip off and discard
+their skins, peeling any that stick. Dice the beets by hand or grate them in
+the food processor.
+1. Toss meat with a little flour until lightly coated. Remove meat from flour
+and brown over medium-high heat in a large pot.
+1. Add water and/or broth and tomatoes. Simmer gently until meat is tender,
+about 1 hour.
+1. Add the vegetables and the beets, and simmer gently for another 30 minutes
+(if necessary, add extra water or stock to reach desired texture)
+1. Season with vinegar, lemon juice, garlic, salt & pepper, and sugar. Simmer
+for a few more minutes and top with yogurt and dill.
 
 
 Zuppa Arcidossana -- 4 portions -- 30 minutes
@@ -288,7 +297,7 @@ Roasted Dijon Chicken -- 2-3 portions -- 1 hour
 
 - 3 lbs. Chicken parts, bone-in, skin-on
 - 1 tbsp Vegetable Oil
-Preheat oven to 450\0. Pat chicken dry and season generously with salt and
+Preheat oven to 450. Pat chicken dry and season generously with salt and
 black pepper. Heat oil in an oven-proof skillet (cast iron works great here)
 over medium-high heat until shimmering. Working in 2 batches, brown chicken,
 skin side down first, about 5 minutes per batch. Return all chicken to
@@ -308,36 +317,6 @@ sauce, garnished with more chives. This dish goes very well with some simple
 roasted baby red potatoes
 
 
-Whole Roasted Dijon Chicken with brussel sprouts and potatoes -- 6 portions -- 35 minutes prep, 1:45 total
-================================================================================
-
-e/eform If using baby potatoes you can just half them, if using fingerlings you can probably leave them whole. If you don't want the brussel sprouts super cooked you can add them when you lower the oven temperature.
-
-- 1 4-4.5 lb Whole Chicken
-- 3 cloves smashed garlic
-- 2 tbsp salted butter
-Preheat oven to 475 degrees. Remove innards from chicken. Rub garlic, salt and pepper into cavity. Rub outside of chicken with butter (helpful if it's at room temperature), salt, and pepper, and set aside.
-
-- 1 lb brussel sprouts
-- 4-5 medium red potatoes
-- 1 medium yellow onion
-- 3 cloves smashed garlic
-- 2 tbsp canola oil
-Remove stems from brussel sprouts, quarter the red potatoes, quarter the onion, and place in a roasting pan. Add garlic, oil, and salt and pepper generously, then toss until coated.
-
--
-Place chicken in roasting pan along with vegetables, then place on the middle rack in the oven and roast at 475 for 25 minutes, then reduce heat to 400 and roast an additional 45 minutes or until temperature registers 160 at the thigh.
-
-- 1 cup dry white wine
-- 1 cup chicken broth
-- 2 medium shallots, thinly sliced
-- 2 tbsp dijon mustard
-Remove pan from oven and transfer chicken to a carving board and vegetables to a serving platter (keep in oven with door open to keep warm). Place roasting pan on stove over medium heat and add wine, broth, and shallots to chicken juices. Boil until reduced by about half, and then add mustard.
-
--
-Serve with the dijon sauce drizzled over the top of the chicken and vegetables, along with the wine used for cooking.
-
-
 Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds -- 2 portions -- 35-45 minutes
 ================================================================================
 
@@ -347,16 +326,19 @@ Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds -- 2 portions -- 35-
 - 2 tbsp Olive Oil
 - 1/2 tsp Kosher Salt
 - 1/2 tsp Ground Pepper
-Preheat oven to 425\0. Brush a large baking sheet with half the olive oil. Cut your cauliflower
+Preheat oven to 425. Brush a large baking sheet with half the olive oil. Cut your cauliflower
 into bite-size florets. Toss florets with remaining olive oil, cumin seeds, salt, and pepper and
 spread evenly on tray. Roast for 20-30 minutes, until edges of the cauliflower are toasty.
 
 - 1/4 cup Crumbled Feta
-\ingredient{ Plain or Greek Yogurt
-\ingredient{ Chopped mint leaves
-\ingredient{ Pomegranate Seeds
-Blend yogurt with Feta and a pinch of salt. Dollop onto cauliflower and garnish with mint,
-pomegranate seeds, and more feta. Goes well with garam masala chicken (rub chicken with oil, garam masala, salt, and pepper, then sear over high heat until done).
+- Plain or Greek Yogurt
+- Chopped mint leaves
+- Pomegranate Seeds
+Blend yogurt with Feta and a pinch of salt. Dollop onto cauliflower
+and garnish with mint,
+pomegranate seeds, and more feta. Goes well with garam masala chicken
+(rub chicken with oil, garam masala, salt, and pepper, then sear over high
+heat until done).
 
 
 Paella de Mariscos -- 5 large portions -- 1.5 hours
@@ -371,18 +353,30 @@ preheat oven to 400 degrees, with rack in middle.
 - 1 can Diced Tomatoes
 - 2 tbsp Olive Oil
 - 4 cups Seafood broth
-Heat olive oil in paella pan on medium heat. Roughly blend onion and tomatoes in a blender, and add them to the pan, add salt to taste. In a separate pot, bring seafood broth to a simmer, covered. Cook onion and tomato, stirring occasionally until dark brownish red. This will take around 30-40 minutes.
+Heat olive oil in paella pan on medium heat.
+Roughly blend onion and tomatoes in a blender, and add them to the pan,
+add salt to taste. In a separate pot, bring seafood broth to a simmer, covered.
+Cook onion and tomato, stirring occasionally until dark brownish red.
+This will take around 30-40 minutes.
 
 - 1  Green Bell Pepper
 - 1  Red Bell Pepper
 - 11/4 cup Bomba Rice
 - 3/4 lb Dover Sole, or Halibut
 - 1 pinch saffron
-Chop green and red bell peppers. Chop fish into bite-size pieces. As sofrito finishes cooking, Add bell peppers and cook an additional 5 minutes. Remove seafood broth from heat and stir in fish and saffron. Add rice to sofrito and stir until blended, then add broth to the everything. Let rice cook, stirring occasionally and rotating paella pan for about 15 minutes.
+Chop green and red bell peppers. Chop fish into bite-size pieces.
+As sofrito finishes cooking, Add bell peppers and cook an additional 5 minutes.
+Remove seafood broth from heat and stir in fish and saffron.
+Add rice to sofrito and stir until blended, then add broth to the everything.
+Let rice cook, stirring occasionally and rotating paella pan for about 15 minutes.
 
 - 1 lb Mixed seafood
 - 1/2 lb Shrimp
-Add seafood to paella and stir into mixture, minus shrimp and clams/mussels. Insert any clams and/or mussels into the rice, hinge-side down. Arrange shrimp on top of rice. Cover paella with tin foil and finish in oven for 10-12 minutes. If liquid remains, put oven on low broil and cook away liquid without burning top of paella.
+Add seafood to paella and stir into mixture, minus shrimp and clams/mussels.
+Insert any clams and/or mussels into the rice, hinge-side down.
+Arrange shrimp on top of rice. Cover paella with tin foil and finish in oven
+for 10-12 minutes. If liquid remains, put oven on low broil and cook away
+liquid without burning top of paella.
 
 
 
