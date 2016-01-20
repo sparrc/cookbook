@@ -35,6 +35,7 @@ about 1 hour.
 1. Season with vinegar, lemon juice, garlic, salt & pepper, and sugar. Simmer
 for a few more minutes and top with yogurt and dill.
 
+________________________________________________________________________________
 
 Zuppa Arcidossana
 ================================================================================
@@ -71,6 +72,7 @@ Add greens and cook until wilted.
 risotto rather than a soup.
 1. Season with salt and pepper to taste. Stir in Parmesan and parsley and serve.
 
+________________________________________________________________________________
 
 Lemon roasted chicken
 ================================================================================
@@ -100,6 +102,7 @@ heat and pour in wine and butter. reduce, scraping up the brown bits and
 stirring until the sauce is at desired thickness. Pour sauce over chicken
 breasts and serve.
 
+________________________________________________________________________________
 
 Thai Curry
 ================================================================================
@@ -129,6 +132,7 @@ Heat a skillet over high heat. Add chicken and sear outside for 1-2 minutes, the
 - 3  limes
 while the curry simmers, add chicken bouillon, soy sauce, and zest from the three limes.
 
+________________________________________________________________________________
 
 Shakshuka
 ================================================================================
@@ -157,6 +161,7 @@ crack eggs over the sauce so that they are evenly distributed across sauce's sur
 - 1 tbsp parsley
 Serve with crumbled feta and parsley sprinkled on top, along with white french bread or pitas.
 
+________________________________________________________________________________
 
 Mushroom and Sausage Ragu with Polenta
 ================================================================================
@@ -200,6 +205,7 @@ Bring broth and water to a boil in a medium saucepan. Add grits, stirring well. 
 - 1 tsp salt
 Bring water to a boil in a medium saucepan. Add grits, stirring well. Reduce heat to medium and simmer for 25 minutes or until thick, stirring often. Remove from heat and stir in salt, pepper, cream, and cheese.
 
+________________________________________________________________________________
 
 Hearty Beef Chili
 ================================================================================
@@ -233,6 +239,7 @@ Increase heat to medium-high and add half the beef, cooking until browned, break
 - 1/2 tsp salt
 add carrots, beans (without juices), tomatoes (with juices), tomato puree, and salt; bring to boil, then reduce heat to low and simmer, covered, stirring occasionally, for 1 hour. Remove cover and continue to simmer 1 hour longer, stirring occasionally.
 
+________________________________________________________________________________
 
 Mom's thanksgiving stuffing
 ================================================================================
@@ -259,6 +266,7 @@ Add stuffing mix, cooked wild rice and almonds. Finely dice Turkey liver and hea
 - 2 cups Chicken Broth
 Heat butter and stock in a small saucepan just until butter melts. Pour over stuffing mixture and add the Brandy. Stuff turkey just before putting it in the oven. Leftover stuffing can be placed in a casserole and baked 1/2 hour to an hour, basting with turkey juices if possible.
 
+________________________________________________________________________________
 
 Green Lentil Curry
 ================================================================================
@@ -302,6 +310,7 @@ by about half.
 
 Serve with yogurt and rice or naan bread. Garnish with remaining cilantro.
 
+________________________________________________________________________________
 
 Israeli Cous-Cous and Chicken
 ================================================================================
@@ -329,6 +338,7 @@ Chop vegetables into small pieces. Oil a pan and put over medium-high heat. When
 - 3 cloves Garlic, mashed
 Chop zucchini into small cubes. Oil a pan and heat over medium-high heat until shimmering. Add zucchini and cook until browned, about 3-5 minutes. Add marinated chicken to pan with all juices and garlic. Cook until chicken is done. Fold cous-cous, chicken, and remaining lemon juice together until thoroughly mixed, Garnish with cilantro and serve.
 
+________________________________________________________________________________
 
 Roasted Dijon Chicken
 ================================================================================
@@ -357,6 +367,7 @@ Whisk in Mustard, Chives, and salt and pepper to taste. Serve chicken with
 sauce, garnished with more chives. This dish goes very well with some simple
 roasted baby red potatoes
 
+________________________________________________________________________________
 
 Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
 ================================================================================
@@ -383,6 +394,7 @@ pomegranate seeds, and more feta. Goes well with garam masala chicken
 (rub chicken with oil, garam masala, salt, and pepper, then sear over high
 heat until done).
 
+________________________________________________________________________________
 
 Paella de Mariscos
 ================================================================================
@@ -390,32 +402,34 @@ Paella de Mariscos
 - 5 large portions
 - 1.5 hours
 
-preheat oven to 400 degrees, with rack in middle.
+#### Ingredients:
 
 - 1  Onion
 - 1 can Diced Tomatoes
 - 2 tbsp Olive Oil
 - 4 cups Seafood broth
-Heat olive oil in paella pan on medium heat.
+- 1  Green Bell Pepper
+- 1  Red Bell Pepper
+- 1 1/4 cup Bomba Rice
+- 3/4 lb Dover Sole, or Halibut
+- 1 pinch saffron
+- 1 lb Mixed seafood
+- 1/2 lb Shrimp
+
+#### Directions:
+
+1. Preheat oven to 400 degrees, with rack in middle.
+1. **sofrito:** Heat olive oil in paella pan on medium heat.
 Roughly blend onion and tomatoes in a blender, and add them to the pan,
 add salt to taste. In a separate pot, bring seafood broth to a simmer, covered.
 Cook onion and tomato, stirring occasionally until dark brownish red.
 This will take around 30-40 minutes.
-
-- 1  Green Bell Pepper
-- 1  Red Bell Pepper
-- 11/4 cup Bomba Rice
-- 3/4 lb Dover Sole, or Halibut
-- 1 pinch saffron
-Chop green and red bell peppers. Chop fish into bite-size pieces.
+1. Chop green and red bell peppers. Chop fish into bite-size pieces.
 As sofrito finishes cooking, Add bell peppers and cook an additional 5 minutes.
 Remove seafood broth from heat and stir in fish and saffron.
 Add rice to sofrito and stir until blended, then add broth to the everything.
 Let rice cook, stirring occasionally and rotating paella pan for about 15 minutes.
-
-- 1 lb Mixed seafood
-- 1/2 lb Shrimp
-Add seafood to paella and stir into mixture, minus shrimp and clams/mussels.
+1. Add seafood to paella and stir into mixture, minus shrimp and clams/mussels.
 Insert any clams and/or mussels into the rice, hinge-side down.
 Arrange shrimp on top of rice. Cover paella with tin foil and finish in oven
 for 10-12 minutes. If liquid remains, put oven on low broil and cook away
