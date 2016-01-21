@@ -1,3 +1,19 @@
+
+- [Borscht](https://github.com/sparrc/cookbook#borscht)
+- [Zuppa Arcidossana](https://github.com/sparrc/cookbook#zuppa-arcidossana)
+- [Lemon Roasted Chicken](https://github.com/sparrc/cookbook#lemon-roasted-chicken)
+- [Thai Curry](https://github.com/sparrc/cookbook#thai-curry)
+- [Shakshuka](https://github.com/sparrc/cookbook#shakshuka)
+- [Mushroom and Sausage Ragu with Polenta](https://github.com/sparrc/cookbook#mushroom-and-sausage-ragu-with-polenta)
+- [Hearty Beef Chili](https://github.com/sparrc/cookbook#hearty-beef-chili)
+- [Mom's thanksgiving stuffing](https://github.com/sparrc/cookbook#moms-thanksgiving-stuffing)
+- [Green Lentil Curry](https://github.com/sparrc/cookbook#green-lentil-curry)
+- [Israeli Cous-Cous and Chicken](https://github.com/sparrc/cookbook#israeli-cous-cous-and-chicken)
+- [Roasted Dijon Chicken](https://github.com/sparrc/cookbook#roasted-dijon-chicken)
+- [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](https://github.com/sparrc/cookbook#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
+- [Paella de Mariscos](https://github.com/sparrc/cookbook#paella-de-mariscos)
+
+
 Borscht
 ================================================================================
 
@@ -74,7 +90,7 @@ risotto rather than a soup.
 
 ________________________________________________________________________________
 
-Lemon roasted chicken
+Lemon Roasted Chicken
 ================================================================================
 
 - 2 portions
