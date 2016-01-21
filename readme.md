@@ -197,18 +197,26 @@ the same time. Other mushrooms work great in this recipe too.
 Don't worry about the sauce looking dry before it simmers,
 as it simmers the mushroom juices materialize.
 
- For the Ragu:
+#### Ragu:
 
 - 1 lb hot italian sausage (pork, chicken, or turkey)
-Heat 11/2 tsp olive oil in skillet. Remove sausage from casing. Add to pan and saute until browned, stirring with a spatula to crumble, about 4 minutes. Remove sausage from pan.
-
 - 1 medium onion, chopped
 - 1 lb crimini mushrooms, sliced
 - 4 cloves garlic, smashed
 - 1 14 oz can diced tomatoes
-Add 1 tblsp olive oil to pan, still over medium-high heat. Add onion and garlic, saute until slightly translucent, about 3 minutes. Add mushrooms; saute until reduced some, about 6 minutes. stir in sausage and tomatoes, salt and pepper generously, and bring to a simmer. Reduce heat to medium and simmer for 15 minutes.
 
- For the Polenta:
+##### Directions:
+
+1. Heat 1 1/2 tsp olive oil in skillet. Remove sausage from casing.
+Add to pan and saute until browned, stirring with a spatula to crumble,
+about 4 minutes. Remove sausage from pan.
+1. Add 1 tblsp olive oil to pan, still over medium-high heat.
+Add onion and garlic, saute until slightly translucent, about 3 minutes.
+Add mushrooms; saute until reduced some, about 6 minutes.
+stir in sausage and tomatoes, salt and pepper generously, and bring to a simmer.
+Reduce heat to medium and simmer for 15 minutes.
+
+#### Polenta:
 
 - 2 cups chicken broth
 - 2 cups water
@@ -216,9 +224,16 @@ Add 1 tblsp olive oil to pan, still over medium-high heat. Add onion and garlic,
 - 1 tblsp butter
 - 1/4 tsp black pepper
 - 1 pinch salt
-Bring broth and water to a boil in a medium saucepan. Add grits, stirring well. Reduce heat to medium and simmer for 25 minutes or until thick, stirring often. Remove from heat and stir in salt, pepper, and butter. Serve with sausage mixture on top.
 
- Polenta variation:
+##### Directions:
+
+Bring broth and water to a boil in a medium saucepan.
+Add grits, stirring well. Reduce heat to medium and simmer for 25 minutes
+or until thick, stirring often.
+Remove from heat and stir in salt, pepper, and butter.
+Serve with sausage mixture on top.
+
+#### Polenta variation:
 
 - 4 cups water
 - 1 cup corn grits
@@ -226,7 +241,12 @@ Bring broth and water to a boil in a medium saucepan. Add grits, stirring well. 
 - 2 tblsp grated parmigiano-reggiano
 - 1/4 tsp black pepper
 - 1 tsp salt
-Bring water to a boil in a medium saucepan. Add grits, stirring well. Reduce heat to medium and simmer for 25 minutes or until thick, stirring often. Remove from heat and stir in salt, pepper, cream, and cheese.
+
+##### Directions:
+
+Bring water to a boil in a medium saucepan. Add grits, stirring well.
+Reduce heat to medium and simmer for 25 minutes or until thick, stirring often.
+Remove from heat and stir in salt, pepper, cream, and cheese.
 
 ________________________________________________________________________________
 
