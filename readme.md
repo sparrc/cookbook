@@ -391,25 +391,40 @@ Israeli Cous-Cous and Chicken
 - 4-5 portions
 - 1 hour
 
-- 11/2 lb Boneless, skinless chicken tenders, cubed
+#### Ingredients:
+
+- 1 1/2 lb Boneless, skinless chicken tenders, cubed
 - 1 tbsp Olive Oil
 - 1/2 cup Chopped cilantro
 - 1 pinch Cinnamon
 - 1/2 tsp Ground cumin
-- 1  Lemon, juiced
-Combine all ingredients (save half of the lemon juice for later) in a bag, add salt and pepper generously, massage ingredients until fully mixed and let marinate.
-
+- 1 Lemon, juiced
 - 2 medium Onions
 - 1 lb Carrots
 - 2-3 heads Broccoli
-- 11/2 cups Israeli cous cous
+- 1 1/2 cups Israeli cous cous
 - 2 cups Chicken Broth
 - 1 cups Water
-Chop vegetables into small pieces. Oil a pan and put over medium-high heat. When oil is shimmering, add onion, cooking until translucent and a tiny bit brown. Add Israeli cous-cous until it starts to brown in spots, then add rest of vegetables, chicken broth, and water. Cover and simmer until vegetables are soft, about 15-20 minutes.
-
 - 1 large Zucchini
 - 3 cloves Garlic, mashed
-Chop zucchini into small cubes. Oil a pan and heat over medium-high heat until shimmering. Add zucchini and cook until browned, about 3-5 minutes. Add marinated chicken to pan with all juices and garlic. Cook until chicken is done. Fold cous-cous, chicken, and remaining lemon juice together until thoroughly mixed, Garnish with cilantro and serve.
+
+#### Directions:
+
+1. Combine Chicken, oil, cilantro, cinnamon, cumin,
+and half of the lemon juice in a bag,
+add salt and pepper generously,
+massage ingredients until fully mixed and let marinate.
+1. Chop vegetables into small pieces. Oil a pan and put over medium-high heat.
+When oil is shimmering, add onion,
+cooking until translucent and a tiny bit brown.
+Add Israeli cous-cous until it starts to brown in spots,
+then add rest of vegetables, chicken broth, and water.
+Cover and simmer until vegetables are soft, about 15-20 minutes.
+1. Chop zucchini into small cubes. Oil a pan and heat over medium-high
+heat until shimmering. Add zucchini and cook until browned, about 3-5 minutes.
+Add marinated chicken to pan with all juices and garlic.
+Cook until chicken is done. Fold cous-cous, chicken, and remaining lemon
+juice together until thoroughly mixed, Garnish with cilantro and serve.
 
 ________________________________________________________________________________
 
@@ -419,24 +434,29 @@ Roasted Dijon Chicken
 - 2-3 portions
 - 1 hour
 
+#### Ingredients:
+
 - 3 lbs. Chicken parts, bone-in, skin-on
 - 1 tbsp Vegetable Oil
-Preheat oven to 450. Pat chicken dry and season generously with salt and
-black pepper. Heat oil in an oven-proof skillet (cast iron works great here)
-over medium-high heat until shimmering. Working in 2 batches, brown chicken,
-skin side down first, about 5 minutes per batch. Return all chicken to
-skillet and roast in oven until cooked through, about 20 minutes.
 - 2  Small Shallots, thinly sliced
 - 3/4 cup Dry White Wine
 - 3/4 cup Chicken Broth
 - 1/4 cup Heavy Cream
-Transfer chicken to a platter, then add shallots, wine, and broth to pan juices
-and bring to a boil. Boil until reduced by half, about 5 minutes. Add
-cream and boil until thickened to a consistency you prefer, around 1-5 minutes,
-but it's been known to take up to 15 minutes.
 - 2 tbsp Dijon Mustard
 - 1 tbsp Chives or Green Onions (optional)
-Whisk in Mustard, Chives, and salt and pepper to taste. Serve chicken with
+
+#### Directions:
+
+1. Preheat oven to 450. Pat chicken dry and season generously with salt and
+black pepper. Heat oil in an oven-proof skillet (cast iron works great here)
+over medium-high heat until shimmering. Working in 2 batches, brown chicken,
+skin side down first, about 5 minutes per batch. Return all chicken to
+skillet and roast in oven until cooked through, about 20 minutes.
+1. Transfer chicken to a platter, then add shallots, wine, and broth to pan
+juices and bring to a boil. Boil until reduced by half, about 5 minutes. Add
+cream and boil until thickened to a consistency you prefer, around 1-5 minutes,
+but it's been known to take up to 15 minutes.
+1. Whisk in Mustard, Chives, and salt and pepper to taste. Serve chicken with
 sauce, garnished with more chives. This dish goes very well with some simple
 roasted baby red potatoes
 
@@ -448,20 +468,26 @@ Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
 - 2 portions
 - 35-45 minutes
 
+#### Ingredients:
+
 - 1 head Cauliflower
 - 1 tsp Cumin Seeds
 - 2 tbsp Olive Oil
 - 1/2 tsp Kosher Salt
 - 1/2 tsp Ground Pepper
-Preheat oven to 425. Brush a large baking sheet with half the olive oil. Cut your cauliflower
-into bite-size florets. Toss florets with remaining olive oil, cumin seeds, salt, and pepper and
-spread evenly on tray. Roast for 20-30 minutes, until edges of the cauliflower are toasty.
-
 - 1/4 cup Crumbled Feta
 - Plain or Greek Yogurt
 - Chopped mint leaves
 - Pomegranate Seeds
-Blend yogurt with Feta and a pinch of salt. Dollop onto cauliflower
+
+#### Directions:
+
+1. Preheat oven to 425. Brush a large baking sheet with half the olive oil.
+Cut your cauliflower into bite-size florets.
+Toss florets with remaining olive oil, cumin seeds, salt, and pepper and
+spread evenly on tray.
+Roast for 20-30 minutes, until edges of the cauliflower are toasty.
+1. Blend yogurt with Feta and a pinch of salt. Dollop onto cauliflower
 and garnish with mint,
 pomegranate seeds, and more feta. Goes well with garam masala chicken
 (rub chicken with oil, garam masala, salt, and pepper, then sear over high
