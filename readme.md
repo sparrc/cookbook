@@ -113,24 +113,34 @@ Thai Curry
 Not done yet, general curry recipe. Make jasmine rice as the curry simmers,
 about 1/2 cup dry per person.
 
+#### Ingredients:
+
 - 1/4 cup Thai red/yellow/green curry paste
 - 1 14oz can light coconut milk
 - 1 14oz can regular coconut milk
-combine curry paste and coconut milk in a medium saucepan and heat over low heat, covered.
-
 - 1 medium yellow onion
-- 3  bell peppers (red or orange preferred)
+- 3 bell peppers (red or orange preferred)
 - 2 large heads broccoli
 - 4 large carrots
-chop onions into very small pieces, chop bell peppers into 1/2 inch pieces, cut carrots on the bias into 1/4 inch pieces, and chop broccoli into small florets (also chop stalk cores). Put all vegetables into a dutch oven (or a large stock pot), then add coconut milk and curry paste mixture, and set over medium-low heat, uncovered.
-
 - 1 lb chicken, chopped into bite-size pieces
-Heat a skillet over high heat. Add chicken and sear outside for 1-2 minutes, then add to dutch oven. Salt generously, and simmer curry for 20-30 minutes until vegetables are tender.
-
 - 1 cube chicken bouillon
 - 1 tsp soy sauce
-- 3  limes
-while the curry simmers, add chicken bouillon, soy sauce, and zest from the three limes.
+- 3 limes
+
+#### Directions:
+
+1. combine curry paste and coconut milk in a medium saucepan and
+heat over low heat, covered.
+1. chop onions into very small pieces, chop bell peppers into 1/2 inch
+pieces, cut carrots on the bias into 1/4 inch pieces, and chop broccoli
+into small florets (also chop stalk cores). Put all vegetables into a
+dutch oven (or a large stock pot), then add coconut milk and curry paste
+mixture, and set over medium-low heat, uncovered.
+1. Heat a skillet over high heat. Add chicken and sear outside for
+1-2 minutes, then add to dutch oven. Salt generously, and simmer curry
+for 20-30 minutes until vegetables are tender.
+1. while the curry simmers, add chicken bouillon, soy sauce, and zest from
+the three limes.
 
 ________________________________________________________________________________
 
@@ -140,26 +150,39 @@ Shakshuka
 - 4 portions
 - 40 minutes
 
-- 3  green bell peppers
-- 3  jalapeno peppers
-- 1 medium yellow onion
-Chop onions and pepper into small pieces. Oil a pan and heat over medium-high heat. When hot, add chiles and onion and cook until soft and golden brown, about 6 minutes.
+Israeli vegetarian soup/stew
 
+#### Ingredients:
+
+- 3 green bell peppers
+- 3 jalapeno peppers
+- 1 medium yellow onion
 - 5 cloves garlic, mashed
 - 1 tsp ground cumin
 - 1 tbsp paprika
-Add garlic and spices and cook, stirring frequently, for about 2 minutes.
-
 - 1 28 oz can diced tomatoes
 - 1/2 cup water
-Add tomatoes and water to pan, reduce heat to medium, and simmer, stirring occasionally, until thickened slightly, about 15 minutes. Season with salt and pepper.
-
-- 6 medium eggs
-crack eggs over the sauce so that they are evenly distributed across sauce's surface. Cover skillet and cook until yolks are just set, about 5 minutes. Using a spoon, baste the whites of the eggs with tomatoe mixture, being careful not to disturb the yolk.
-
 - 1/2 cup crumbled feta
 - 1 tbsp parsley
-Serve with crumbled feta and parsley sprinkled on top, along with white french bread or pitas.
+- 6 medium eggs
+
+#### Directions:
+
+1. Chop onions and pepper into small pieces. Oil a pan and heat over
+medium-high heat. When hot, add chiles and onion and cook until soft
+and golden brown, about 6 minutes.
+1. Add garlic and spices and cook, stirring frequently,
+for about 2 minutes.
+1. Add tomatoes and water to pan,
+reduce heat to medium, and simmer,
+stirring occasionally, until thickened slightly, about 15 minutes.
+Season with salt and pepper.
+1. Crack eggs over the sauce so that they are evenly distributed across
+sauce's surface. Cover skillet and cook until yolks are just set, about
+5 minutes. Using a spoon, baste the whites of the eggs with tomatoe mixture,
+being careful not to disturb the yolk.
+1. Serve with crumbled feta and parsley sprinkled on top, along with white
+french bread or pitas.
 
 ________________________________________________________________________________
 
@@ -179,7 +202,7 @@ as it simmers the mushroom juices materialize.
 - 1 lb hot italian sausage (pork, chicken, or turkey)
 Heat 11/2 tsp olive oil in skillet. Remove sausage from casing. Add to pan and saute until browned, stirring with a spatula to crumble, about 4 minutes. Remove sausage from pan.
 
-- 1  medium onion, chopped
+- 1 medium onion, chopped
 - 1 lb crimini mushrooms, sliced
 - 4 cloves garlic, smashed
 - 1 14 oz can diced tomatoes
@@ -225,7 +248,7 @@ Combine spices in a small bowl to make your chili spice mixture.
 
 - 2 tbsp vegetable oil
 - 2 medium onions, chopped fine
-- 1  red bell pepper, chopped into half inch pieces
+- 1 red bell pepper, chopped into half inch pieces
 - 6 cloves garlic, mashed
 Heat oil over medium heat in a large heavy-bottomed pot until shimmering. Add spice mixture, onions, bell pepper, and garlic. Cook, stirring occasionally, until vegetables are softened and beginning to brown, about 10 minutes.
 
@@ -247,7 +270,7 @@ Mom's thanksgiving stuffing
 - 6-8 portions
 - 1 1/2 hour
 
--   Turkey liver and heart
+- Turkey liver and heart
 Simmer turkey liver and heart in small saucepan.
 - 1/2 cup Butter
 - 2 cups Coarsely chopped celery
