@@ -258,29 +258,39 @@ Hearty Beef Chili
 
 3 15 oz cans kidney beans can be substituted for the dry soaked beans in step 4.
 
+#### Ingredients:
+
 - 1/4 cup chili powder
 - 1 tbsp ground cumin
 - 2 tsp ground coriander
 - 1 tsp dried oregano
 - 1/2 tsp cayenne
 - 1/2 tsp red pepper flakes
-Combine spices in a small bowl to make your chili spice mixture.
-
 - 2 tbsp vegetable oil
 - 2 medium onions, chopped fine
 - 1 red bell pepper, chopped into half inch pieces
 - 6 cloves garlic, mashed
-Heat oil over medium heat in a large heavy-bottomed pot until shimmering. Add spice mixture, onions, bell pepper, and garlic. Cook, stirring occasionally, until vegetables are softened and beginning to brown, about 10 minutes.
-
-- 11/2 lb ground beef
-Increase heat to medium-high and add half the beef, cooking until browned, breaking up pieces with a spoon, about 3-4 minutes. Add remaining beef and cook until no longer pink, 3-4 minutes.
-
-- 11/2 cup dry kidney beans, soaked overnight
+- 1 1/2 lb ground beef
+- 1 1/2 cup dry kidney beans, soaked overnight
 - 2 medium carrots
 - 1 28 oz can diced tomatoes
 - 1 15 oz can tomatoe puree
 - 1/2 tsp salt
-add carrots, beans (without juices), tomatoes (with juices), tomato puree, and salt; bring to boil, then reduce heat to low and simmer, covered, stirring occasionally, for 1 hour. Remove cover and continue to simmer 1 hour longer, stirring occasionally.
+
+#### Directions:
+
+1. Combine spices in a small bowl to make your chili spice mixture.
+1. Heat oil over medium heat in a large heavy-bottomed pot until shimmering.
+Add spice mixture, onions, bell pepper, and garlic.
+Cook, stirring occasionally, until vegetables are softened and beginning
+to brown, about 10 minutes.
+1. Increase heat to medium-high and add half the beef,
+cooking until browned, breaking up pieces with a spoon, about 3-4 minutes.
+Add remaining beef and cook until no longer pink, 3-4 minutes.
+1. Add carrots, beans (without juices), tomatoes (with juices),
+tomato puree, and salt; bring to boil,
+then reduce heat to low and simmer, covered, stirring occasionally, for 1 hour.
+Remove cover and continue to simmer 1 hour longer, stirring occasionally.
 
 ________________________________________________________________________________
 
@@ -290,24 +300,36 @@ Mom's thanksgiving stuffing
 - 6-8 portions
 - 1 1/2 hour
 
+#### Ingredients:
+
 - Turkey liver and heart
-Simmer turkey liver and heart in small saucepan.
 - 1/2 cup Butter
 - 2 cups Coarsely chopped celery
 - 1 large Onion
-Melt butter in a large skiller over medium heat. Add celery and onion and saute for 10 minutes. Transfer to a large mixing bowl.
 - 1 lb Ground Sausage
-Cook sausage in skillet until brown, transfer to mixing bowl.
 - 1 lb Herb stuffing mix
 - 1 cup Wild rice, cooked
 - 1 cup Sliced almonds
 - 1/2 tsp Dried thyme
 - 1/2 tsp Black pepper
-Add stuffing mix, cooked wild rice and almonds. Finely dice Turkey liver and heart and add to stuffing mix. Stir. Add thyme and pepper.
 - 1/2 cup Butter
 - 1/2 cup Brandy
 - 2 cups Chicken Broth
-Heat butter and stock in a small saucepan just until butter melts. Pour over stuffing mixture and add the Brandy. Stuff turkey just before putting it in the oven. Leftover stuffing can be placed in a casserole and baked 1/2 hour to an hour, basting with turkey juices if possible.
+
+#### Directions:
+
+1. Simmer turkey liver and heart in small saucepan.
+1. Melt butter in a large skiller over medium heat.
+Add celery and onion and saute for 10 minutes. Transfer to a large mixing bowl.
+1. Cook sausage in skillet until brown, transfer to mixing bowl.
+1. Add stuffing mix, cooked wild rice and almonds.
+Finely dice Turkey liver and heart and add to stuffing mix.
+Stir. Add thyme and pepper.
+1. Heat butter and stock in a small saucepan just until butter melts.
+Pour over stuffing mixture and add the Brandy.
+Stuff turkey just before putting it in the oven.
+Leftover stuffing can be placed in a casserole and baked 1/2 hour to an hour,
+basting with turkey juices if possible.
 
 ________________________________________________________________________________
 
@@ -317,33 +339,41 @@ Green Lentil Curry
 - 6-8 portions
 - 1 hour
 
- These lentils are absurdly healthy, yet still very flavorful.
-This dish is super adaptable, feel free to mix and match any vegetables you want
+This dish is adaptable, mix and match any vegetables you want
 for the green beans/carrots/broccoli. Cauliflower works especially well, any
-green will work in place of spinach. This dish keeps well and some may
-say gets better with time.
+green will work in place of spinach.
+
+#### Lentil & Veggie Ingredients:
 
 - 2 cups Green Lentils
-- 10  Medium Carrots
+- 10 Medium Carrots
 - 1/2 lb. Green Beans
 - 1 head Broccoli
 - 1 bunch Cilantro, finely chopped
 - 1 bunch Spinach, chopped and stems removed
 - 1 tsp Turmeric
 - 1/2 tsp Cayenne Pepper
+
+#### Lentil & Veggie Directions:
+
 Chop vegetables into small pieces. Put lentils into a 5-quart pot with
 6 cups of water and Turmeric. Bring to a boil, cover, and then simmer until lentils
 are just tender, about 15 minutes. Add Vegetables, salt to taste, and
 Cayenne. Simmer until vegetables are tender, 15-20 minutes. Add spice sauce
 (see below), spinach, and half your cilantro, and simmer until fully wilted.
 
-- 1  Large Shallot, finely chopped
+#### Spice Sauce Ingredients:
+
+- 1 Large Shallot, finely chopped
 - 3 tsp Ground Coriander
-- 11/2 tsp Ground Cumin
+- 1 1/2 tsp Ground Cumin
 - 1 tsp Whole Cumin Seeds
 - 3 cloves Crushed Garlic
 - 1 15 oz can Diced Tomatoes
 - 3 tbsp Ghee or Vegetable Oil
+
+#### Spice Sauce Directions:
+
 Combine garlic, ground coriander, and ground cumin in a small bowl, add
 1/4 cup water to form a paste. Heat oil over medium heat in small pan
 until shimmering. Add cumin seeds and fry for a few seconds, then add shallot
