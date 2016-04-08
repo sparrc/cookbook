@@ -17,39 +17,37 @@
 Borscht
 ================================================================================
 
+- 6 portions
+- 1 hour
+- Serve with sour cream or yogurt
+
 #### Ingredients:
 
-- 3/4 lbs beets
+- 3-4 medium beets
 - 1 1/2 lbs beef chuck roast (or any stewing meat), cubed
 - 1 28 oz can diced tomatoes
-- 1 quart beef stock or water, or a mixture
-- 2 carrots, diced
+- 3 cups beef stock or water, or a mixture
 - 1 large onion, chopped
-- 2 ribs celery, diced
-- 3 1/2 cups cabbage, shredded
+- 1 rib celery, diced
+- 4 cups cabbage, shredded
 - 6 cloves garlic, smashed
 - 1 tbsp red wine vinegar
 - 1 juice of one lemon
-- 1 tbsp sugar (optional)
-- flour
-- yogurt
-- dill, chopped
 
 #### Directions:
 
-1. Preheat oven to 400 degrees, wrap beets in foil and roast them until they're
-easily pierced with a fork, about 1-1.25 hours. Set the beets aside until they
-are cool enough to handle. Remove any remaining stems. Slip off and discard
-their skins, peeling any that stick. Dice the beets by hand or grate them in
-the food processor.
+1. Preheat oven to 400 degrees, peel beets and cube. Roast in oven for
+30 minutes.
 1. Toss meat with a little flour until lightly coated. Remove meat from flour
 and brown over medium-high heat in a large pot.
+1. Add onions and celery and cook until translucent.
 1. Add water and/or broth and tomatoes. Simmer gently until meat is tender,
-about 1 hour.
-1. Add the vegetables and the beets, and simmer gently for another 30 minutes
-(if necessary, add extra water or stock to reach desired texture)
-1. Season with vinegar, lemon juice, garlic, salt & pepper, and sugar. Simmer
-for a few more minutes and top with yogurt and dill.
+about 30 minutes.
+1. Remove beets from oven and blend with 1 cup water.
+1. Add the cabbage, garlic, and beets, and simmer gently for another
+30 minutes. (if necessary, add extra water or stock to reach desired texture)
+1. Season with vinegar and lemon juice. Simmer for a few more minutes and top
+with yogurt or sour cream.
 
 ________________________________________________________________________________
 
