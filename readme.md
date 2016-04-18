@@ -1,4 +1,5 @@
 
+- [Chicken Marsala](https://github.com/sparrc/cookbook#chicken-marsala)
 - [Borscht](https://github.com/sparrc/cookbook#borscht)
 - [Zuppa Arcidossana](https://github.com/sparrc/cookbook#zuppa-arcidossana)
 - [Lemon Roasted Chicken](https://github.com/sparrc/cookbook#lemon-roasted-chicken)
@@ -13,6 +14,41 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](https://github.com/sparrc/cookbook#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](https://github.com/sparrc/cookbook#paella-de-mariscos)
 
+
+Chicken Marsala
+================================================================================
+
+- 6 portions
+- 40 minutes
+
+#### Ingredients:
+
+- 1 lb linguine pasta
+- 2 lbs. Chicken Breasts, sliced into large pieces.
+- 3 tablespoons unsalted butter
+- 1 onion, halved and sliced thin
+- 1 pound mushrooms, sliced thin, any variety you like
+- 1/2 cup Marsala
+- 1 cup chicken broth
+- 2 tablespoons minced fresh parsley leaves (optional, for garnish)
+
+#### Directions:
+
+1. Pat chicken dry and coat with flour. In a dutch oven heat 2 tablespoons
+butter over medium high heat until slightly brown.
+1. Brown chicken on both sides then transfer to plate.
+1. Begin preparing pasta.
+1. Sauté onion and mushrooms, stirring occasionally, until liquid mushrooms
+give off is evaporated.
+1. Add Marsala and cook mixture, stirring, until Marsala is almost evaporated.
+1. Add broth and chicken with any juices that have accumulated on plate and
+simmer until cooked through, about 15 minutes. Transfer chicken back to plate.
+1. Simmer mushroom sauce until liquid is reduced to about 1/2 cup.
+Remove skillet from heat and stir in remaining 1 tablespoon butter
+and salt and pepper to taste, stirring until butter is just incorporated.
+Spoon mushroom sauce around chicken and sprinkle with parsley.
+
+________________________________________________________________________________
 
 Borscht
 ================================================================================
