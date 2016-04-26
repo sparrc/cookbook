@@ -54,18 +54,18 @@ Borscht
 ================================================================================
 
 - 6 portions
-- 1 hour
+- 1.25 hours
 - Serve with sour cream or yogurt
 
 #### Ingredients:
 
-- 3-4 medium beets
+- 2-3 medium beets
 - 1 1/2 lbs beef chuck roast (or any stewing meat), cubed
 - 1 28 oz can diced tomatoes
-- 3 cups beef stock or water, or a mixture
+- 3 cups beef stock
 - 1 large onion, chopped
 - 1 rib celery, diced
-- 4 cups cabbage, shredded
+- 4 cups red cabbage, shredded
 - 6 cloves garlic, smashed
 - 1 tbsp red wine vinegar
 - 1 juice of one lemon
@@ -73,15 +73,14 @@ Borscht
 #### Directions:
 
 1. Preheat oven to 400 degrees, peel beets and cube. Roast in oven for
-30 minutes.
+40 minutes.
 1. Toss meat with a little flour until lightly coated. Remove meat from flour
 and brown over medium-high heat in a large pot.
 1. Add onions and celery and cook until translucent.
-1. Add water and/or broth and tomatoes. Simmer gently until meat is tender,
-about 30 minutes.
-1. Remove beets from oven and blend with 1 cup water.
-1. Add the cabbage, garlic, and beets, and simmer gently for another
-30 minutes. (if necessary, add extra water or stock to reach desired texture)
+1. Add stock and tomatoes & simmer until beets are ready.
+1. Remove beets from oven and puree with 1 cup water.
+1. Add the cabbage, garlic, beets, and beef, and simmer gently for another
+15-20 minutes. (if necessary, add extra water or stock to reach desired texture)
 1. Season with vinegar and lemon juice. Simmer for a few more minutes and top
 with yogurt or sour cream.
 
