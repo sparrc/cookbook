@@ -10,6 +10,17 @@ Conversions:
 | 1 tbsp  | 15 ml  |
 | 1 tsp   | 5 ml   |
 
+Rio Stellatto
+================================================================================
+
+|||
+|---|---|
+| 1.5 parts | Gin |
+| 1 part    | Cocchi Americano |
+| 1 part    | Grapefruit Juice |
+
+Method: Shake and strain.
+
 The Last Word
 ================================================================================
 
