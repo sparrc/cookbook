@@ -10,6 +10,19 @@ Conversions:
 | 1 tbsp  | 15 ml  |
 | 1 tsp   | 5 ml   |
 
+Corpse Reviver No. 2
+================================================================================
+
+|||
+|---|---|
+| ¼ parts | Pernod Absinthe |
+| 1 part  | gin |
+| 1 part  | Cointreau |
+| 1 part  | Lillet Blanc |
+| 1 part  | fresh lemon juice |
+
+Method: Shake and strain.
+
 Rio Stellatto
 ================================================================================
 
