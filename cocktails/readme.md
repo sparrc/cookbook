@@ -4,8 +4,10 @@
 - [Corpse Reviver No. 2](https://github.com/sparrc/cookbook/tree/master/cocktails#corpse-reviver-no-2)
 - [The Gypsy](https://github.com/sparrc/cookbook/tree/master/cocktails#the-gypsy)
 - [The Last Word](https://github.com/sparrc/cookbook/tree/master/cocktails#the-last-word)
+- [The Necromancer](https://github.com/sparrc/cookbook/tree/master/cocktails#the-necromancer)
 - [New York Sour](https://github.com/sparrc/cookbook/tree/master/cocktails#new-york-sour)
 - [Nomayo](https://github.com/sparrc/cookbook/tree/master/cocktails#nomayo)
+- [The Paper Plane](https://github.com/sparrc/cookbook/tree/master/cocktails#the-paper-lane)
 - [Rio Stellatto](https://github.com/sparrc/cookbook/tree/master/cocktails#rio-stellatto)
 - [Le Roi Robert](https://github.com/sparrc/cookbook/tree/master/cocktails#le-roi-robert)
 - [The Sherman](https://github.com/sparrc/cookbook/tree/master/cocktails#the-sherman)
@@ -73,6 +75,17 @@ The Last Word
 
 Method: Shake and strain.
 
+The Necromancer
+================================================================================
+
+|||
+|---|---|
+| 0.75 oz | Tenneyson Absinthe |
+| 0.75 oz | Lillet Blanc |
+| 0.75 oz | Elderflower Liqueur |
+| 0.75 oz | Lemon juice |
+| 1 dash  | Gin |
+
 New York Sour
 ================================================================================
 
@@ -107,6 +120,16 @@ Combine all ingredients in a shaker, sans Champagne.
 Add ice and shake, but be sure to do so with savoir faire.
 Strain into a chilled coupe,
 ﬁnish with a ﬂoat of Champagne and garnish with an orange peel
+
+The Paper Plane
+================================================================================
+
+|||
+|---|---|
+| 0.75 oz | Bourbon |
+| 0.75 oz | Aperol |
+| 0.75 oz | Amaro Nonino |
+| 0.75 oz | Lemon juice |
 
 Rio Stellatto
 ================================================================================
