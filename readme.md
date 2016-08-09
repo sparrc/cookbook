@@ -1,4 +1,4 @@
-
+- [Sausage and Lentil One-pot](https://github.com/sparrc/cookbook#sausage-and-lentil-one-pot)
 - [Chicken Marsala](https://github.com/sparrc/cookbook#chicken-marsala)
 - [Borscht](https://github.com/sparrc/cookbook#borscht)
 - [Zuppa Arcidossana](https://github.com/sparrc/cookbook#zuppa-arcidossana)
@@ -14,6 +14,31 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](https://github.com/sparrc/cookbook#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](https://github.com/sparrc/cookbook#paella-de-mariscos)
 
+
+Sausage and Lentil One-pot
+================================================================================
+
+- 4 portions
+- 50 minutes
+
+#### Ingredients:
+
+- 300g pack sausages
+- 1 onion, chopped
+- 2 garlic cloves, crushed
+- 1 red pepper, sliced
+- 250g green or puy lentils
+- 500ml vegetable stock
+- 100ml red wine or extra stock
+
+#### Directions:
+
+1. Heat oil in a pan, cook the sausages until browned, then remove.
+1. Add onion, garlic and pepper & cook about 5 mins until softened.
+1. Add lentils to the pan with the stock and wine. Bring up to the
+boil, then cover & simmer for 20 mins.
+1. Add sausage back to pot, and add more liquid if necessary and continue to
+simmer for another 20 minutes (uncovered), until lentils are soft.
 
 Chicken Marsala
 ================================================================================
