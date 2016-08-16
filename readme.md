@@ -1,3 +1,4 @@
+- [Spanish Fish Stew One-pot](https://github.com/sparrc/cookbook#spanish-fish-stew-one-pot)
 - [Sausage and Lentil One-pot](https://github.com/sparrc/cookbook#sausage-and-lentil-one-pot)
 - [Chicken Marsala](https://github.com/sparrc/cookbook#chicken-marsala)
 - [Borscht](https://github.com/sparrc/cookbook#borscht)
@@ -14,6 +15,41 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](https://github.com/sparrc/cookbook#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](https://github.com/sparrc/cookbook#paella-de-mariscos)
 
+
+Spanish Fish Stew One-pot
+================================================================================
+
+- 4 portions
+- 50 minutes
+
+#### Ingredients:
+
+- 1 rounded tsp paprika
+- 1 tsp dried parsley
+- 2 garlic cloves, crushed
+- 1 onion, chopped
+- 1 medium potato
+- 400g can chopped tomato
+- 400g can chickpeas
+- 1 fish stock cube
+- 200g raw peeled king prawn
+- 500g skinless fish fillets, cut into very large chunks
+
+#### Directions:
+
+1. Heat 2 tbsp oil in a large sauté pan.
+Throw in the onion and potatoes, cover the pan, then cook everything for
+about 5 mins until the onion has softened. Add the garlic and spices,
+then cook for 2 mins more.
+2. Add the tomatoes, 1 can of water and crumble in the stock.
+Season with a little salt, then cover the pan.
+Simmer everything for 20-25 mins until the potatoes are just cooked.
+3. Stir through the prawns, chickpeas, and fish chunks into the stew.
+Reduce the heat and recover the pan, then cook for about 8 mins,
+stirring very gently once or twice.
+4. When the fish is just cooked through, remove from the heat, then bring the dish
+to the table with the bottle of olive oil for drizzling over and some crusty bread,
+if you want.
 
 Sausage and Lentil One-pot
 ================================================================================
@@ -35,8 +71,8 @@ Sausage and Lentil One-pot
 
 1. Heat oil in a pan, cook the sausages until browned, then remove.
 1. Add onion, garlic and pepper & cook about 5 mins until softened.
-1. Add lentils to the pan with the stock and wine. Bring up to the
-boil, then cover & simmer for 20 mins.
+1. Add lentils to the pan with the stock and wine. Bring up to boil,
+then cover & simmer for 20 mins.
 1. Add sausage back to pot, and add more liquid if necessary and continue to
 simmer for another 20 minutes (uncovered), until lentils are soft.
 
