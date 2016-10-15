@@ -9,9 +9,7 @@
 - [Thai Curry](#thai-curry)
 - [Shakshuka](#shakshuka)
 - [Mushroom and Sausage Ragu with Polenta](#mushroom-and-sausage-ragu-with-polenta)
-- [Hearty Beef Chili](#hearty-beef-chili)
 - [Mom's thanksgiving stuffing](#moms-thanksgiving-stuffing)
-- [Green Lentil Curry](#green-lentil-curry)
 - [Israeli Cous-Cous and Chicken](#israeli-cous-cous-and-chicken)
 - [Roasted Dijon Chicken](#roasted-dijon-chicken)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
@@ -180,7 +178,6 @@ Remove skillet from heat and stir in remaining 1 tablespoon butter
 and salt and pepper to taste, stirring until butter is just incorporated.
 Spoon mushroom sauce around chicken and sprinkle with parsley.
 
-________________________________________________________________________________
 
 Borscht
 ================================================================================
@@ -216,7 +213,6 @@ and brown over medium-high heat in a large pot.
 1. Season with vinegar and lemon juice. Simmer for a few more minutes and top
 with yogurt or sour cream.
 
-________________________________________________________________________________
 
 Zuppa Arcidossana
 ================================================================================
@@ -253,7 +249,6 @@ Add greens and cook until wilted.
 risotto rather than a soup.
 1. Season with salt and pepper to taste. Stir in Parmesan and parsley and serve.
 
-________________________________________________________________________________
 
 Lemon Roasted Chicken
 ================================================================================
@@ -283,7 +278,6 @@ heat and pour in wine and butter. reduce, scraping up the brown bits and
 stirring until the sauce is at desired thickness. Pour sauce over chicken
 breasts and serve.
 
-________________________________________________________________________________
 
 Thai Curry
 ================================================================================
@@ -323,7 +317,6 @@ for 20-30 minutes until vegetables are tender.
 1. while the curry simmers, add chicken bouillon, soy sauce, and zest from
 the three limes.
 
-________________________________________________________________________________
 
 Shakshuka
 ================================================================================
@@ -365,7 +358,6 @@ being careful not to disturb the yolk.
 1. Serve with crumbled feta and parsley sprinkled on top, along with white
 french bread or pitas.
 
-________________________________________________________________________________
 
 Mushroom and Sausage Ragu with Polenta
 ================================================================================
@@ -429,51 +421,6 @@ Bring water to a boil in a medium saucepan. Add grits, stirring well.
 Reduce heat to medium and simmer for 25 minutes or until thick, stirring often.
 Remove from heat and stir in salt, pepper, cream, and cheese.
 
-________________________________________________________________________________
-
-Hearty Beef Chili
-================================================================================
-
-- 8 portions
-- 2-3 hours
-
-3 15 oz cans kidney beans can be substituted for the dry soaked beans in step 4.
-
-#### Ingredients:
-
-- 1/4 cup chili powder
-- 1 tbsp ground cumin
-- 2 tsp ground coriander
-- 1 tsp dried oregano
-- 1/2 tsp cayenne
-- 1/2 tsp red pepper flakes
-- 2 tbsp vegetable oil
-- 2 medium onions, chopped fine
-- 1 red bell pepper, chopped into half inch pieces
-- 6 cloves garlic, mashed
-- 1 1/2 lb ground beef
-- 1 1/2 cup dry kidney beans, soaked overnight
-- 2 medium carrots
-- 1 28 oz can diced tomatoes
-- 1 15 oz can tomatoe puree
-- 1/2 tsp salt
-
-#### Directions:
-
-1. Combine spices in a small bowl to make your chili spice mixture.
-1. Heat oil over medium heat in a large heavy-bottomed pot until shimmering.
-Add spice mixture, onions, bell pepper, and garlic.
-Cook, stirring occasionally, until vegetables are softened and beginning
-to brown, about 10 minutes.
-1. Increase heat to medium-high and add half the beef,
-cooking until browned, breaking up pieces with a spoon, about 3-4 minutes.
-Add remaining beef and cook until no longer pink, 3-4 minutes.
-1. Add carrots, beans (without juices), tomatoes (with juices),
-tomato puree, and salt; bring to boil,
-then reduce heat to low and simmer, covered, stirring occasionally, for 1 hour.
-Remove cover and continue to simmer 1 hour longer, stirring occasionally.
-
-________________________________________________________________________________
 
 Mom's thanksgiving stuffing
 ================================================================================
@@ -512,59 +459,6 @@ Stuff turkey just before putting it in the oven.
 Leftover stuffing can be placed in a casserole and baked 1/2 hour to an hour,
 basting with turkey juices if possible.
 
-________________________________________________________________________________
-
-Green Lentil Curry
-================================================================================
-
-- 6-8 portions
-- 1 hour
-
-This dish is adaptable, mix and match any vegetables you want
-for the green beans/carrots/broccoli. Cauliflower works especially well, any
-green will work in place of spinach.
-
-#### Lentil & Veggie Ingredients:
-
-- 2 cups Green Lentils
-- 10 Medium Carrots
-- 1/2 lb. Green Beans
-- 1 head Broccoli
-- 1 bunch Cilantro, finely chopped
-- 1 bunch Spinach, chopped and stems removed
-- 1 tsp Turmeric
-- 1/2 tsp Cayenne Pepper
-
-#### Lentil & Veggie Directions:
-
-Chop vegetables into small pieces. Put lentils into a 5-quart pot with
-6 cups of water and Turmeric. Bring to a boil, cover, and then simmer until lentils
-are just tender, about 15 minutes. Add Vegetables, salt to taste, and
-Cayenne. Simmer until vegetables are tender, 15-20 minutes. Add spice sauce
-(see below), spinach, and half your cilantro, and simmer until fully wilted.
-
-#### Spice Sauce Ingredients:
-
-- 1 Large Shallot, finely chopped
-- 3 tsp Ground Coriander
-- 1 1/2 tsp Ground Cumin
-- 1 tsp Whole Cumin Seeds
-- 3 cloves Crushed Garlic
-- 1 15 oz can Diced Tomatoes
-- 3 tbsp Ghee or Vegetable Oil
-
-#### Spice Sauce Directions:
-
-Combine garlic, ground coriander, and ground cumin in a small bowl, add
-1/4 cup water to form a paste. Heat oil over medium heat in small pan
-until shimmering. Add cumin seeds and fry for a few seconds, then add shallot
-and fry until translucent, about 2-3 minutes. Add spice paste and cook for
-1-2 minutes, then add can of tomatoes. Lower heat and simmer until reduced
-by about half.
-
-Serve with yogurt and rice or naan bread. Garnish with remaining cilantro.
-
-________________________________________________________________________________
 
 Israeli Cous-Cous and Chicken
 ================================================================================
@@ -607,7 +501,6 @@ Add marinated chicken to pan with all juices and garlic.
 Cook until chicken is done. Fold cous-cous, chicken, and remaining lemon
 juice together until thoroughly mixed, Garnish with cilantro and serve.
 
-________________________________________________________________________________
 
 Roasted Dijon Chicken
 ================================================================================
@@ -641,7 +534,6 @@ but it's been known to take up to 15 minutes.
 sauce, garnished with more chives. This dish goes very well with some simple
 roasted baby red potatoes
 
-________________________________________________________________________________
 
 Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
 ================================================================================
@@ -674,7 +566,6 @@ pomegranate seeds, and more feta. Goes well with garam masala chicken
 (rub chicken with oil, garam masala, salt, and pepper, then sear over high
 heat until done).
 
-________________________________________________________________________________
 
 Paella de Mariscos
 ================================================================================
