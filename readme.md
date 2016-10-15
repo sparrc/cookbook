@@ -59,22 +59,24 @@ Sausage and Lentil One-pot
 
 #### Ingredients:
 
-- 300g pack sausages
-- 1 onion, chopped
-- 2 garlic cloves, crushed
+- 400g pack sausages or chorizo
+- 2 red onions, chopped
+- 3 garlic cloves, crushed
 - 1 red pepper, sliced
-- 250g green or puy lentils
-- 500ml vegetable stock
-- 100ml red wine or extra stock
+- 350g green puy lentils
+- 750ml vegetable stock
+- 150ml red or white wine
+- 200g Bulgur wheat or rice
 
 #### Directions:
 
 1. Heat oil in a pan, cook the sausages until browned, then remove.
 1. Add onion, garlic and pepper & cook about 5 mins until softened.
 1. Add lentils to the pan with the stock and wine. Bring up to boil,
-then cover & simmer for 20 mins.
-1. Add sausage back to pot, and add more liquid if necessary and continue to
-simmer for another 20 minutes (uncovered), until lentils are soft.
+then cover & simmer for 30 mins, adding sausage back for the last 10 minutes.
+1. While the lentils are cooking, prepare the bulgur wheat. Add the bulgur to
+400ml of water and bring to boil. When boiling, remove from heat and cover, let
+sit for 10-15 minutes.
 
 Chicken Marsala
 ================================================================================
