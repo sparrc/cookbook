@@ -1,20 +1,53 @@
-- [Squash Chili](https://github.com/sparrc/cookbook#butternut-squash-chilli)
-- [Spanish Fish Stew One-pot](https://github.com/sparrc/cookbook#spanish-fish-stew-one-pot)
-- [Sausage and Lentil One-pot](https://github.com/sparrc/cookbook#sausage-and-lentil-one-pot)
-- [Chicken Marsala](https://github.com/sparrc/cookbook#chicken-marsala)
-- [Borscht](https://github.com/sparrc/cookbook#borscht)
-- [Zuppa Arcidossana](https://github.com/sparrc/cookbook#zuppa-arcidossana)
-- [Lemon Roasted Chicken](https://github.com/sparrc/cookbook#lemon-roasted-chicken)
-- [Thai Curry](https://github.com/sparrc/cookbook#thai-curry)
-- [Shakshuka](https://github.com/sparrc/cookbook#shakshuka)
-- [Mushroom and Sausage Ragu with Polenta](https://github.com/sparrc/cookbook#mushroom-and-sausage-ragu-with-polenta)
-- [Hearty Beef Chili](https://github.com/sparrc/cookbook#hearty-beef-chili)
-- [Mom's thanksgiving stuffing](https://github.com/sparrc/cookbook#moms-thanksgiving-stuffing)
-- [Green Lentil Curry](https://github.com/sparrc/cookbook#green-lentil-curry)
-- [Israeli Cous-Cous and Chicken](https://github.com/sparrc/cookbook#israeli-cous-cous-and-chicken)
-- [Roasted Dijon Chicken](https://github.com/sparrc/cookbook#roasted-dijon-chicken)
-- [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](https://github.com/sparrc/cookbook#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
-- [Paella de Mariscos](https://github.com/sparrc/cookbook#paella-de-mariscos)
+- [Lamb, Squash and Apricot tagine](#lamb-squash-and-apricot-tagine)
+- [Butternut Squash Chilli](#butternut-squash-chilli)
+- [Spanish Fish Stew One-pot](#spanish-fish-stew-one-pot)
+- [Sausage and Lentil One-pot](#sausage-and-lentil-one-pot)
+- [Chicken Marsala](#chicken-marsala)
+- [Borscht](#borscht)
+- [Zuppa Arcidossana](#zuppa-arcidossana)
+- [Lemon Roasted Chicken](#lemon-roasted-chicken)
+- [Thai Curry](#thai-curry)
+- [Shakshuka](#shakshuka)
+- [Mushroom and Sausage Ragu with Polenta](#mushroom-and-sausage-ragu-with-polenta)
+- [Hearty Beef Chili](#hearty-beef-chili)
+- [Mom's thanksgiving stuffing](#moms-thanksgiving-stuffing)
+- [Green Lentil Curry](#green-lentil-curry)
+- [Israeli Cous-Cous and Chicken](#israeli-cous-cous-and-chicken)
+- [Roasted Dijon Chicken](#roasted-dijon-chicken)
+- [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
+- [Paella de Mariscos](#paella-de-mariscos)
+
+Lamb, Squash and Apricot Tagine
+================================================================================
+
+- 5 portions
+- 50 minutes
+
+#### Ingredients:
+
+- 1 large onion, finely chopped
+- 2 garlic cloves, finely chopped
+- 1 tbsp ras-el-hanout
+- 1 tsp ground coriander
+- 600g lamb leg, diced into 2cm pieces, excess fat trimmed
+- 400g butternut squash, diced
+- 150g soft dried apricots
+- 400g can chopped tomatoes
+- 500ml lamb or beef stock
+- small bunch coriander
+- 200g bulgur wheat
+- yogurt, to serve
+
+#### Directions:
+
+1. Heat oven to 180/160C fan/gas 6.
+2. Heat the oil in a casserole dish, add the onion and cook for 5 mins until softened.
+Add the garlic and spices and cook for a couple mins more, stirring to prevent them catching and burning.
+3. Add the lamb, squash and apricots to the casserole,
+pour over the tomatoes and stock, season well and bring to the boil.
+Put the lid on and transfer to the oven.
+4. After 1 hr, stir the tagine and return to the oven, uncovered, for a further 30 mins.
+Check the seasoning. Sprinkle over the coriander, and serve with bulgur wheat and yogurt.
 
 Butternut Squash Chilli
 ================================================================================
