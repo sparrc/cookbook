@@ -1,3 +1,4 @@
+- [Squash Chili](https://github.com/sparrc/cookbook#butternut-squash-chilli)
 - [Spanish Fish Stew One-pot](https://github.com/sparrc/cookbook#spanish-fish-stew-one-pot)
 - [Sausage and Lentil One-pot](https://github.com/sparrc/cookbook#sausage-and-lentil-one-pot)
 - [Chicken Marsala](https://github.com/sparrc/cookbook#chicken-marsala)
@@ -15,6 +16,41 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](https://github.com/sparrc/cookbook#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](https://github.com/sparrc/cookbook#paella-de-mariscos)
 
+Butternut Squash Chilli
+================================================================================
+
+- 4-5 portions
+- 50 minutes
+
+#### Ingredients:
+
+- 400g can chopped tomatoes
+- 2 red onions, coarsely chopped
+- 2 large garlic cloves, chopped
+- 1 tsp cayenne pepper
+- 1 tsp oregano
+- 1/2 tsp red chili flakes
+- 1 bay leaf
+- 1 medium butternut squash (about 750g)
+- 150ml red wine
+- 1 vegetable or beef stock cube
+- 200g jar roasted peppers, drained of any oil.
+- 400g can red kidney beans, drained and rinsed.
+- 200ml soured cream
+- 200g rice
+
+#### Directions:
+
+1. Heat oil in a casserole and add the onions and garlic.
+Soften gently, stirring occasionally.
+2. Stir the cayenne, oregano and bay leaf into the onions.
+Stir-fry for 1 min, then stir in the squash, wine, tomatoes & 250ml water.
+3. Crumble in the stock cube and stir.
+Bring to a simmer, cover and cook for 30 mins, stirring occasionally.
+4. Start cooking rice for serving.
+4. Add the peppers to the pan. Add extra water if it’s looking dry.
+Cover and cook for a further 10 mins until the squash is tender.
+Add the beans to the pan and heat. Serve with chives and soured cream on the side.
 
 Spanish Fish Stew One-pot
 ================================================================================
