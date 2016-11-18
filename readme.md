@@ -99,8 +99,7 @@ Spanish Fish Stew One-pot
 - 400g can chopped tomato
 - 400g can chickpeas
 - 1 fish stock cube
-- 200g raw peeled king prawn
-- 500g skinless fish fillets, cut into very large chunks
+- 400-500g skinless fish fillets, cut into very large chunks
 
 #### Directions:
 
@@ -111,7 +110,7 @@ then cook for 2 mins more.
 2. Add the tomatoes, 1 can of water and crumble in the stock.
 Season with a little salt, then cover the pan.
 Simmer everything for 20-25 mins until the potatoes are just cooked.
-3. Stir through the prawns, chickpeas, and fish chunks into the stew.
+3. Stir through the chickpeas and fish chunks into the stew.
 Reduce the heat and recover the pan, then cook for about 8 mins,
 stirring very gently once or twice.
 4. When the fish is just cooked through, remove from the heat, then bring the dish
