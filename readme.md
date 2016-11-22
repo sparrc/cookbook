@@ -117,32 +117,33 @@ stirring very gently once or twice.
 to the table with the bottle of olive oil for drizzling over and some crusty bread,
 if you want.
 
-Sausage and Lentil One-pot
+Chorizo and Lentil One-pot
 ================================================================================
 
-- 4 portions
+- 6 portions
 - 50 minutes
 
 #### Ingredients:
 
-- 400g pack sausages or chorizo
-- 2 red onions, chopped
+- 400g Spanish chorizo, sliced
+- 3 red onions, chopped
 - 3 garlic cloves, crushed
 - 1 red pepper, sliced
-- 350g green puy lentils
-- 750ml vegetable stock
-- 150ml red or white wine
-- 200g Bulgur wheat or rice
+- 500g green puy lentils
+- 1000ml vegetable stock
+- 250ml white wine or very dry cider
+- 300g rice
 
 #### Directions:
 
-1. Heat oil in a pan, cook the sausages until browned, then remove.
-1. Add onion, garlic and pepper & cook about 5 mins until softened.
-1. Add lentils to the pan with the stock and wine. Bring up to boil,
-then cover & simmer for 30 mins, adding sausage back for the last 10 minutes.
-1. While the lentils are cooking, prepare the bulgur wheat. Add the bulgur to
-400ml of water and bring to boil. When boiling, remove from heat and cover, let
-sit for 10-15 minutes.
+1. Soak the chorizo in the cider or wine for at least 2-3 hours before cooking.
+1. Heat oil in a heavy pot, cook the red onions on medium-low heat until
+they begin sticking to the bottom of the pot.
+1. garlic and pepper & cook about 5 mins until softened.
+1. Add wine/cider to the back and deglaze for about 1 minute.
+1. Add lentils & stock to the pan, bring up to boil,
+then cover & simmer for 30 mins, adding chorizo for the last 10 minutes.
+1. While the lentils are cooking, prepare the rice.
 
 Chicken Marsala
 ================================================================================
