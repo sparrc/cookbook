@@ -1,3 +1,4 @@
+- [Beef & Red Wine Stew](#beef-and-red-wine-stew)
 - [Lamb, Squash and Apricot tagine](#lamb-squash-and-apricot-tagine)
 - [Butternut Squash Chilli](#butternut-squash-chilli)
 - [Spanish Fish Stew One-pot](#spanish-fish-stew-one-pot)
@@ -14,6 +15,44 @@
 - [Roasted Dijon Chicken](#roasted-dijon-chicken)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Beef and Red Wine Stew
+================================================================================
+
+- 4 portions
+- 2-3 hours
+
+#### Ingredients:
+
+- 400g wide egg noodles
+- 800g cubed stewing beef
+- 4 cloves garlic, chopped
+- 1 onion, chopped
+- 4 medium carrots
+- 300g baby cremini or chestnut mushrooms
+- 3 tablespoons flour
+- 350ml red wine
+- 350ml water
+- 1 beef stock cube (enough for about 500ml)
+- 1 whole clove
+- 1 bay leaf
+- 1 rounded tsp parsley
+
+#### Directions:
+
+1. Heat oil in a dutch oven.
+Add beef, onion, garlic, and parsley, and cook for 10 minutes.
+Sprinkle with flour and stir to coat the meat evenly.
+2. Add the wine and stir until the mixture boils and thickens.
+Stir in the water & beef stock cube. Add the clove & bay leaf.
+Cover closely and simmer very low for one hour.
+3. Meanwhile, cut the carrots into one-inch lengths.
+Add them to the stew.
+Cover and continue cooking for 1 hour, or until the carrots are tender.
+4. While carrots are cooking, heat oil in a frying pan and add mushrooms.
+Use whole baby mushrooms or quartered adult mushrooms.
+Cook mushrooms down until soft, then add to stew with 15 minutes left to cook.
+5. Cook egg noodles as the stew finishes, then serve stew over the noodles.
 
 Lamb, Squash and Apricot Tagine
 ================================================================================
