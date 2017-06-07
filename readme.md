@@ -1,8 +1,11 @@
+- [Asparagus and Sausage with Orzo](#asparagus-and-sausage-with-orzo)
+- [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
+- [Tuna Pasta Bake](#tuna-pasta-bake)
 - [Beef & Red Wine Stew](#beef-and-red-wine-stew)
 - [Lamb, Squash and Apricot tagine](#lamb-squash-and-apricot-tagine)
 - [Butternut Squash Chilli](#butternut-squash-chilli)
 - [Spanish Fish Stew One-pot](#spanish-fish-stew-one-pot)
-- [Sausage and Lentil One-pot](#sausage-and-lentil-one-pot)
+- [Chorizo and Lentil One-pot](#chorizo-and-lentil-one-pot)
 - [Chicken Marsala](#chicken-marsala)
 - [Borscht](#borscht)
 - [Zuppa Arcidossana](#zuppa-arcidossana)
@@ -15,6 +18,101 @@
 - [Roasted Dijon Chicken](#roasted-dijon-chicken)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Asparagus and Sausage with Orzo
+================================================================================
+
+- 4 portions
+- 25 minutes
+
+#### Ingredients:
+
+- 200g Creme Fraiche
+- 400g Orzo
+- 500g Asparagus
+- 12 Pork Meatballs
+- Parmesan
+
+#### Directions:
+
+1. Heat oven to 180C/160C fan. Put meatballs on a tray and bake for 20 minutes
+until cooked through.
+2. Meanwhile, bring a pan of salted water to the boil, add the orzo and cook
+for 4 minutes, then add the asparagus and simmer for 4 minutes more.
+3. Drain, then tip back into the pan along with the meatballs and creme fraiche.
+4. Season with parmesan to taste.
+
+
+Palak Paneer and Cardamom Rice
+================================================================================
+
+- 4 portions
+- 30 minutes
+
+#### Ingredients:
+
+- 300g Basmati Rice
+- 500g Paneer
+- 300g Baby Spinach
+- 2 Tomatoes
+- 2 tbsp Tomato Paste
+- 2 Red Onions
+- 2 Vegetable Stock Cubes (enough for 1l of stock)
+- 2 tbsp Garam Masala
+- 1/2 tsp Chili Pepper
+- 12 Cardamom Pods
+
+#### Directions:
+
+1. Add the basmati rice, cardamom pods, a pinch of salt and 700ml
+cold water to a pot with a lid and bring to the boil over a high heat.
+Once boiling, reduce the heat to very low and cook, covered, for 10-15 min or
+until the water has absorbed and the rice is cooked
+Once cooked, remove from the heat and keep covered
+2. Meanwhile, peel and dice the red onions. Chop the tomatoes roughly.
+Boil a kettle.
+3. Meanwhile, chop the paneer into bite-sized pieces.
+Heat a large, wide-based pan (preferably non-stick) with a drizzle of vegetable oil over a medium heat.
+Once hot, add the chopped paneer and cook for 2-3 min until it's browned on all sides.
+Once browned, transfer the paneer to a plate, season with a pinch of salt and reserve the pan for later.
+4. Return the pan to a medium heat.
+Add the diced onion and cook for 3-4 min or until starting to soften.
+Once softened, add the chopped tomatoes, garam masala and the chilli (can't handle the heat? Go easy!) and cook for 1 min or until fragrant.
+
+
+Tuna Pasta Bake
+================================================================================
+
+- 4-6 portions
+- 1 hour
+
+#### Ingredients:
+
+- 400g pasta
+- 200g canned tuna packed in oil (undrained weight) ? maybe more ?
+- 200g can sweetcorn (undrained weight)
+- 400g can chopped tomatoes
+- 2 medium onions, chopped
+- 400ml milk
+- 2 tbsp flour
+- 150g extra mature cheddar, grated
+- 1/2 tsp mustard powder
+- 1 tsp parsley
+- 1 cube of vegetable stock (enough for 500ml of broth)
+
+#### Directions:
+
+1. Put the pasta in a large pot of boiling water.
+2. Meanwhile, put the oil from the can of tuna in a dutch oven and fry the
+onion for 10-15 minutes.
+3. Sprinkle flour onto the onions and stir together.
+4. Stir in the milk, spices and tomatoe, and keep stirring until the milk begins
+to boil and thicken, then stir in 100g of the cheese.
+5. When the pasta is cooked, drain it and tip into the sauce along with the
+sweetcorn.
+6. Scatter the remaining cheese over the top.
+Broil for 5-10 minutes until golden & crispy.
+
 
 Beef and Red Wine Stew
 ================================================================================
@@ -30,9 +128,9 @@ Beef and Red Wine Stew
 - 1 onion, chopped
 - 4 medium carrots
 - 300g baby cremini or chestnut mushrooms
-- 3 tablespoons flour
-- 350ml red wine
-- 350ml water
+- 2 tablespoons flour
+- 250ml red wine
+- 250ml water
 - 1 beef stock cube (enough for about 500ml)
 - 1 whole clove
 - 1 bay leaf
@@ -41,11 +139,11 @@ Beef and Red Wine Stew
 #### Directions:
 
 1. Heat oil in a dutch oven.
-Add beef, onion, garlic, and parsley, and cook for 10 minutes.
-Sprinkle with flour and stir to coat the meat evenly.
+Add onion, garlic, and parsley, and cook for 10 minutes.
+Sprinkle with flour and stir to coat meat evenly.
 2. Add the wine and stir until the mixture boils and thickens.
 Stir in the water & beef stock cube. Add the clove & bay leaf.
-Cover closely and simmer very low for one hour.
+Cover closely and simmer very low for 1 hour.
 3. Meanwhile, cut the carrots into one-inch lengths.
 Add them to the stew.
 Cover and continue cooking for 1 hour, or until the carrots are tender.
@@ -53,6 +151,7 @@ Cover and continue cooking for 1 hour, or until the carrots are tender.
 Use whole baby mushrooms or quartered adult mushrooms.
 Cook mushrooms down until soft, then add to stew with 15 minutes left to cook.
 5. Cook egg noodles as the stew finishes, then serve stew over the noodles.
+
 
 Lamb, Squash and Apricot Tagine
 ================================================================================
@@ -85,6 +184,7 @@ pour over the tomatoes and stock, season well and bring to the boil.
 Put the lid on and transfer to the oven.
 4. After 1 hr, stir the tagine and return to the oven, uncovered, for a further 30 mins.
 Check the seasoning. Sprinkle over the coriander, and serve with bulgur wheat and yogurt.
+
 
 Butternut Squash Chilli
 ================================================================================
@@ -122,11 +222,12 @@ Bring to a simmer, cover and cook for 30 mins, stirring occasionally.
 Cover and cook for a further 10 mins until the squash is tender.
 Add the beans to the pan and heat. Serve with chives and soured cream on the side.
 
+
 Spanish Fish Stew One-pot
 ================================================================================
 
-- 4 portions
-- 50 minutes
+- 3 portions
+- 40 minutes
 
 #### Ingredients:
 
@@ -156,6 +257,7 @@ stirring very gently once or twice.
 to the table with the bottle of olive oil for drizzling over and some crusty bread,
 if you want.
 
+
 Chorizo and Lentil One-pot
 ================================================================================
 
@@ -164,9 +266,9 @@ Chorizo and Lentil One-pot
 
 #### Ingredients:
 
-- 400g Spanish chorizo, sliced
-- 3 red onions, chopped
-- 3 garlic cloves, crushed
+- 300g Spanish chorizo, sliced
+- 2 red onions, chopped
+- 2 garlic cloves, crushed
 - 1 red pepper, sliced
 - 500g green puy lentils
 - 1000ml vegetable stock
@@ -175,14 +277,14 @@ Chorizo and Lentil One-pot
 
 #### Directions:
 
-1. Soak the chorizo in the cider or wine for at least 2-3 hours before cooking.
-1. Heat oil in a heavy pot, cook the red onions on medium-low heat until
+1. Heat oil in a heavy pot, cook the onions on medium-low heat until
 they begin sticking to the bottom of the pot.
 1. garlic and pepper & cook about 5 mins until softened.
-1. Add wine/cider to the back and deglaze for about 1 minute.
+1. Add wine/cider to the pan and deglaze for about 1 minute.
 1. Add lentils & stock to the pan, bring up to boil,
 then cover & simmer for 30 mins, adding chorizo for the last 10 minutes.
 1. While the lentils are cooking, prepare the rice.
+
 
 Chicken Marsala
 ================================================================================
