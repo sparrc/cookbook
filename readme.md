@@ -59,7 +59,7 @@ Palak Paneer and Cardamom Rice
 - 2 Red Onions
 - 2 Vegetable Stock Cubes (enough for 1l of stock)
 - 2 tbsp Garam Masala
-- 1/2 tsp Chili Pepper
+- 1/2 tsp Cayenne Pepper
 - 12 Cardamom Pods
 
 #### Directions:
@@ -78,7 +78,14 @@ Once browned, transfer the paneer to a plate, season with a pinch of salt and re
 4. Return the pan to a medium heat.
 Add the diced onion and cook for 3-4 min or until starting to soften.
 Once softened, add the chopped tomatoes, garam masala and the chilli (can't handle the heat? Go easy!) and cook for 1 min or until fragrant.
-
+5. Meanwhile, add the spinach to a colander and pour over the boiled water so that it starts to wilt.
+Rinse the wilted spinach under cold water until cool.
+Squeeze the water out of the spinach and chop it roughly.
+Re-boil a kettle.
+6. Add the tomato paste and chopped spinach to the pan and cook for 1 min.
+Meanwhile, dissolve the vegetable stock cubes in 450ml boiled water.
+7. Add the stock to the pan and cook for 3 min or until the sauce resembles a thick curry.
+Return the browned paneer to the pan and cook for a final min to warm it through - this is your palak paneer.
 
 Tuna Pasta Bake
 ================================================================================
