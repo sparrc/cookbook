@@ -51,7 +51,7 @@ Palak Paneer and Cardamom Rice
 
 #### Ingredients:
 
-- 300g Basmati Rice
+- 250g Basmati Rice
 - 500g Paneer
 - 300g Baby Spinach
 - 2 Tomatoes
@@ -60,7 +60,7 @@ Palak Paneer and Cardamom Rice
 - 2 Vegetable Stock Cubes (enough for 1l of stock)
 - 2 tbsp Garam Masala
 - 1/2 tsp Cayenne Pepper
-- 12 Cardamom Pods
+- 8 Cardamom Pods
 
 #### Directions:
 
