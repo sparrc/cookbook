@@ -1,4 +1,4 @@
-- [Asparagus and Sausage with Orzo](#asparagus-and-sausage-with-orzo)
+- [Chicken Marsala One-pot](#chicken-marsala-one-pot)
 - [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
 - [Tuna Pasta Bake](#tuna-pasta-bake)
 - [Beef & Red Wine Stew](#beef-and-red-wine-stew)
@@ -6,7 +6,6 @@
 - [Butternut Squash Chilli](#butternut-squash-chilli)
 - [Spanish Fish Stew One-pot](#spanish-fish-stew-one-pot)
 - [Chorizo and Lentil One-pot](#chorizo-and-lentil-one-pot)
-- [Chicken Marsala](#chicken-marsala)
 - [Borscht](#borscht)
 - [Zuppa Arcidossana](#zuppa-arcidossana)
 - [Lemon Roasted Chicken](#lemon-roasted-chicken)
@@ -19,29 +18,47 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
 
-Asparagus and Sausage with Orzo
+
+Chicken Marsala one-pot
 ================================================================================
 
 - 4 portions
-- 25 minutes
+- 40 minutes
 
 #### Ingredients:
 
-- 200g Creme Fraiche
-- 400g Orzo
-- 500g Asparagus
-- 12 Pork Meatballs
-- Parmesan
+- 4 Boneless Skinless Chicken Breasts (about 600g)
+- Kosher Salt, to taste
+- Ground Black Pepper, to taste
+- 2 Tablespoons Butter
+- 1 Tablespoon Olive Oil
+- 500g Sliced Mushrooms
+- 3 cloves Garlic, minced
+- 200 ml Marsala Wine
+- 1 cube Chicken Stock (enough for 500ml)
+- 150 ml Heavy Cream (double cream)
+- Chopped Fresh Parsley (Optional) (garnish)
+- 300g Tagliatelle Pasta
 
 #### Directions:
 
-1. Heat oven to 180C/160C fan. Put meatballs on a tray and bake for 20 minutes
-until cooked through.
-2. Meanwhile, bring a pan of salted water to the boil, add the orzo and cook
-for 4 minutes, then add the asparagus and simmer for 4 minutes more.
-3. Drain, then tip back into the pan along with the meatballs and creme fraiche.
-4. Season with parmesan to taste.
-
+1. Place the chicken breast halves between two sheets of plastic wrap or in a resealable freezer bag on a solid, level surface.
+Use the smooth side of a meat mallet or a rolling pin to pound the chicken into an even ½-inch thickness.
+Season the chicken with salt and ground black pepper.
+2. In a cast-iron pot over medium heat, heat 1 tablespoon of butter and 1 tablespoon of olive oil.
+Add the chicken and cook it for 2-4 minutes per side, or until it's golden brown and cooked through.
+Remove the chicken and set it aside.
+3. Increase the heat to medium high and add the butter and olive oil to the pan.
+Sauté the mushrooms for 5-10 minutes until most liquid has evaporated.
+4. Begin cooking pasta on another burner.
+5. Add the minced garlic and cook for about 1 minute or until it's fragrant.
+Put on a kettle.
+6. Add the Marsala wine, bring it to a simmer, and cook for 2-4 minutes.
+7. Add the Stock cube with 300ml boiling water and cream and bring to a simmer.
+Reduce the sauce for 5-10 minutes, or until it starts to thicken.
+8. Add the chicken back into the pan, coat each side with sauce,
+and cook it for 1-2 minutes until it's heated through.
+Serve the Marsala chicken warm with pasta, mashed potatoes, or veggies.
 
 Palak Paneer and Cardamom Rice
 ================================================================================
@@ -284,47 +301,14 @@ Chorizo and Lentil One-pot
 
 #### Directions:
 
-1. Heat oil in a heavy pot, cook the onions on medium-low heat until
-they begin sticking to the bottom of the pot.
+1. Fry chorizo in a heavy pot until oils have released, remove and set chorizo aside.
+1. Cook the onions in the chorizo oil on medium-low heat until they begin sticking to the bottom of the pot.
 1. garlic and pepper & cook about 5 mins until softened.
 1. Add wine/cider to the pan and deglaze for about 1 minute.
-1. Add lentils & stock to the pan, bring up to boil,
-then cover & simmer for 30 mins, adding chorizo for the last 10 minutes.
+1. Add lentils & stock to the pan, bring up to boil, then cover & simmer for 30 mins.
+1. Add chorizo and cook for 10 more minutes, covered.
 1. While the lentils are cooking, prepare the rice.
 
-
-Chicken Marsala
-================================================================================
-
-- 6 portions
-- 40 minutes
-
-#### Ingredients:
-
-- 1 lb linguine pasta
-- 2 lbs. Chicken Breasts, sliced into large pieces.
-- 3 tablespoons unsalted butter
-- 1 onion, halved and sliced thin
-- 1 pound mushrooms, sliced thin, any variety you like
-- 1/2 cup Marsala
-- 1 cup chicken broth
-- 2 tablespoons minced fresh parsley leaves (optional, for garnish)
-
-#### Directions:
-
-1. Pat chicken dry and coat with flour. In a dutch oven heat 2 tablespoons
-butter over medium high heat until slightly brown.
-1. Brown chicken on both sides then transfer to plate.
-1. Begin preparing pasta.
-1. Sauté onion and mushrooms, stirring occasionally, until liquid mushrooms
-give off is evaporated.
-1. Add Marsala and cook mixture, stirring, until Marsala is almost evaporated.
-1. Add broth and chicken with any juices that have accumulated on plate and
-simmer until cooked through, about 15 minutes. Transfer chicken back to plate.
-1. Simmer mushroom sauce until liquid is reduced to about 1/2 cup.
-Remove skillet from heat and stir in remaining 1 tablespoon butter
-and salt and pepper to taste, stirring until butter is just incorporated.
-Spoon mushroom sauce around chicken and sprinkle with parsley.
 
 
 Borscht
