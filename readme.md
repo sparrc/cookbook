@@ -71,11 +71,11 @@ Palak Paneer and Cardamom Rice
 - 250g Basmati Rice
 - 500g Paneer
 - 300g Baby Spinach
-- 2 Tomatoes
+- 2 Large Tomatoes (about 150-200g)
 - 2 tbsp Tomato Paste
 - 2 Red Onions
 - 2 Vegetable Stock Cubes (enough for 1l of stock)
-- 2 tbsp Garam Masala
+- 1.5 tbsp Garam Masala
 - 1/2 tsp Cayenne Pepper
 - 8 Cardamom Pods
 
@@ -99,9 +99,9 @@ Once softened, add the chopped tomatoes, garam masala and the chilli (can't hand
 Rinse the wilted spinach under cold water until cool.
 Squeeze the water out of the spinach and chop it roughly.
 Re-boil a kettle.
-6. Add the tomato paste and chopped spinach to the pan and cook for 1 min.
-Meanwhile, dissolve the vegetable stock cubes in 450ml boiled water.
-7. Add the stock to the pan and cook for 3 min or until the sauce resembles a thick curry.
+6. Add the chopped spinach to the pan and cook for 1 min.
+Meanwhile, dissolve the vegetable stock cubes and tomato paste in 450ml boiled water.
+7. Add the stock to the pan and cook for about 5 minutes or until the sauce resembles a thick curry.
 Return the browned paneer to the pan and cook for a final min to warm it through - this is your palak paneer.
 
 Tuna Pasta Bake
