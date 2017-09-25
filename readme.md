@@ -1,3 +1,4 @@
+- [Tortilla](#tortilla)
 - [Chicken Marsala One-pot](#chicken-marsala-one-pot)
 - [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
 - [Tuna Pasta Bake](#tuna-pasta-bake)
@@ -18,6 +19,17 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
 
+Tortilla
+================================================================================
+
+- 2 portions
+- 30 minutes
+
+#### Ingredients:
+
+- 6 eggs
+- 300-350g potatoes
+- 1/2 onion
 
 Chicken Marsala one-pot
 ================================================================================
