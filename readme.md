@@ -271,7 +271,7 @@ Spanish Fish Stew One-pot
 - 1 tsp dried parsley
 - 2 garlic cloves, crushed
 - 1 onion, chopped
-- 1 medium potato
+- 350g potato, cubed
 - 400g can chopped tomato
 - 400g can chickpeas
 - 1 fish stock cube
