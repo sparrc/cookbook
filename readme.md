@@ -302,25 +302,22 @@ Chorizo and Lentil One-pot
 
 #### Ingredients:
 
-- 300g Spanish chorizo, sliced
+- 200g Spanish chorizo, sliced
 - 2 red onions, chopped
 - 2 garlic cloves, crushed
 - 1 red pepper, sliced
-- 500g green puy lentils
+- 400g green puy lentils
 - 1000ml vegetable stock
 - 250ml white wine or very dry cider
-- 300g rice
+- 200g rice
 
 #### Directions:
 
-1. Fry chorizo in a heavy pot until oils have released, remove and set chorizo aside.
-1. Cook the onions in the chorizo oil on medium-low heat until they begin sticking to the bottom of the pot.
-1. garlic and pepper & cook about 5 mins until softened.
+1. Fry chorizo in a heavy pot for a few minutes, until oils have released.
+1. Add onions, garlic and pepper and continue cooking over medium-low heat until they begin sticking to the bottom of the pot.
 1. Add wine/cider to the pan and deglaze for about 1 minute.
-1. Add lentils & stock to the pan, bring up to boil, then cover & simmer for 30 mins.
-1. Add chorizo and cook for 10 more minutes, covered.
+1. Add lentils & stock to the pan, bring up to boil, then cover & simmer for 45 mins, stirring halfway through.
 1. While the lentils are cooking, prepare the rice.
-
 
 
 Borscht
