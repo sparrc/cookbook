@@ -13,6 +13,7 @@
 - [Thai Curry](#thai-curry)
 - [Shakshuka](#shakshuka)
 - [Mushroom and Sausage Ragu with Polenta](#mushroom-and-sausage-ragu-with-polenta)
+- [Cranberry Sauce](#cranberry-sauce)
 - [Mom's thanksgiving stuffing](#moms-thanksgiving-stuffing)
 - [Israeli Cous-Cous and Chicken](#israeli-cous-cous-and-chicken)
 - [Roasted Dijon Chicken](#roasted-dijon-chicken)
@@ -562,6 +563,23 @@ Bring water to a boil in a medium saucepan. Add grits, stirring well.
 Reduce heat to medium and simmer for 25 minutes or until thick, stirring often.
 Remove from heat and stir in salt, pepper, cream, and cheese.
 
+Cranberry Sauce
+================================================================================
+
+- 4 portions
+- 30 minutes
+
+#### Ingredients:
+
+- 300 g Cranberries
+- 250 ml Water
+- 100-125 g Sugar
+
+#### Directions:
+
+1. Add sugar to boiling water and combine. Mix in Cranberries and simmer with
+an open lid for 20-30 minutes.
+
 
 Mom's thanksgiving stuffing
 ================================================================================
@@ -571,30 +589,29 @@ Mom's thanksgiving stuffing
 
 #### Ingredients:
 
-- Turkey liver and heart
-- 1/2 cup Butter
-- 2 cups Coarsely chopped celery
+- Turkey Liver and Heart
+- 1 cup Butter
+- 2 large Stocks Celery, Coarsely Chopped
 - 1 large Onion
-- 1 lb Ground Sausage
-- 1 lb Herb stuffing mix
-- 1 cup Wild rice, cooked
-- 1 cup Sliced almonds
+- 1 lb (400 g) Ground Sausage
+- 12 oz (340 g) Pepperidge Farm Herb-Seasoned Cubed Stuffing
+- 1 cup (240 ml) Wild rice, cooked
+- 1 cup (100 g) Sliced almonds
 - 1/2 tsp Dried thyme
 - 1/2 tsp Black pepper
-- 1/2 cup Butter
-- 1/2 cup Brandy
-- 2 cups Chicken Broth
+- 1/2 cup (120 ml) Brandy
+- 2 cups (500 ml) Chicken Broth
 
 #### Directions:
 
 1. Simmer turkey liver and heart in small saucepan.
-1. Melt butter in a large skiller over medium heat.
+1. Melt half the butter in a large skillet over medium heat.
 Add celery and onion and saute for 10 minutes. Transfer to a large mixing bowl.
 1. Cook sausage in skillet until brown, transfer to mixing bowl.
 1. Add stuffing mix, cooked wild rice and almonds.
 Finely dice Turkey liver and heart and add to stuffing mix.
 Stir. Add thyme and pepper.
-1. Heat butter and stock in a small saucepan just until butter melts.
+1. Heat rest of butter and stock in a small saucepan just until butter melts.
 Pour over stuffing mixture and add the Brandy.
 Stuff turkey just before putting it in the oven.
 Leftover stuffing can be placed in a casserole and baked 1/2 hour to an hour,
