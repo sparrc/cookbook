@@ -1,3 +1,4 @@
+- [Puy Lentil and Aubergine Stew](#puy-lentil-and-aubergine-stew)
 - [Tortilla](#tortilla)
 - [Chicken Marsala One-pot](#chicken-marsala-one-pot)
 - [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
@@ -19,6 +20,38 @@
 - [Roasted Dijon Chicken](#roasted-dijon-chicken)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Puy Lentil and Aubergine Stew
+================================================================================
+
+- 4 portions
+- 1 hour
+- Adapted from [The Guardian](https://www.theguardian.com/lifeandstyle/2017/nov/25/lentil-recipes-curried-coconut-soup-aubergine-stew-sweet-potato-croquettes-fritters-yotam-ottolenghi)
+
+#### Ingredients:
+
+- 4 tbsp olive oil
+- 3 garlic cloves, crushed
+- 1 medium red onion, peeled and finely diced
+- 2 small aubergines (about 450g in total), cut into rough chunks
+- 200g cherry tomatoes
+- 200g puy lentils
+- 500ml vegetable stock
+- 100ml dry white wine
+- 100g creme fraiche
+- 1/2 tsp oregano
+- 1/2 tsp chilli flakes
+- Salt and black pepper
+
+#### Directions:
+
+1. Add oil to put and wait for it to get hot. Add onion, garlic, and salt and
+fry for 5 minutes, then add aubergine and tomato. Add oregano and chili flakes,
+then add salt and pepper generously.
+1. Fry for 10 minutes until aubergine is soft and has released most moisture.
+1. Add lentils, stock, wine, and 500ml water and bring to a boil.
+1. Simmer for 40 minutes uncovered.
+1. Serve the stew warm topped with a spoonful of creme fraiche.
 
 Tortilla
 ================================================================================
