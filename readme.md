@@ -1,3 +1,4 @@
+- [Pancakes](#pancakes)
 - [Puy Lentil and Aubergine Stew](#puy-lentil-and-aubergine-stew)
 - [Tortilla](#tortilla)
 - [Chicken Marsala One-pot](#chicken-marsala-one-pot)
@@ -20,6 +21,32 @@
 - [Roasted Dijon Chicken](#roasted-dijon-chicken)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Pancakes
+================================================================================
+
+- 2-3 portions
+- 30 minutes
+- Note: Kefir or buttermilk can be used in place of milk+lemon.
+
+#### Ingredients:
+
+- 1 cup (240g) milk
+- 1/2 tbsp lemon juice, about a quarter of one lemon (vinegar could substitute)
+- 1 egg
+- 150g flour
+- 1 tsp baking powder
+- 1/2 tsp baking soda
+- 1 tbsp sugar
+- dash salt
+
+#### Directions:
+
+1. Mix milk and lemon juice and set aside to thicken for about 10 minutes.
+1. Combine dry ingredients (flour, baking powder, baking soda, sugar, and salt) in large bowl.
+1. Mix milk and egg into dry ingredients roughly, leaving lumps.
+1. Let batter sit for 10 minutes.
+1. Heat up pan with butter and cook pancakes once butter begins to brown.
 
 Puy Lentil and Aubergine Stew
 ================================================================================
