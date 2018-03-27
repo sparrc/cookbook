@@ -35,8 +35,8 @@ Pancakes
 - 1/2 tbsp lemon juice, about a quarter of one lemon (vinegar could substitute)
 - 1 egg
 - 150g flour
-- 1 tsp baking powder
-- 1/2 tsp baking soda
+- 1/2 tsp baking powder
+- 1 tsp baking soda
 - 1 tbsp sugar
 - dash salt
 
@@ -60,12 +60,12 @@ Puy Lentil and Aubergine Stew
 - 4 tbsp olive oil
 - 3 garlic cloves, crushed
 - 1 medium red onion, peeled and finely diced
-- 2 small aubergines (about 450g in total), cut into rough chunks
+- 2 small eggplants (about 450g in total), cut into rough chunks
 - 200g cherry tomatoes
 - 200g puy lentils
 - 500ml vegetable stock
-- 100ml dry white wine
-- 100g creme fraiche
+- 100ml white wine
+- 100-200ml creme fraiche or sour cream
 - 1/2 tsp oregano
 - 1/2 tsp chilli flakes
 - Salt and black pepper
@@ -73,11 +73,12 @@ Puy Lentil and Aubergine Stew
 #### Directions:
 
 1. Add oil to put and wait for it to get hot. Add onion, garlic, and salt and
-fry for 5 minutes, then add aubergine and tomato. Add oregano and chili flakes,
+fry for 5 minutes and tomato. Add oregano and chili flakes,
 then add salt and pepper generously.
-1. Fry for 10 minutes until aubergine is soft and has released most moisture.
+1. Meanwhile, slice and roast eggplant in the oven.
 1. Add lentils, stock, wine, and 500ml water and bring to a boil.
 1. Simmer for 40 minutes uncovered.
+1. Stir back in roasted eggplant.
 1. Serve the stew warm topped with a spoonful of creme fraiche.
 
 Tortilla
