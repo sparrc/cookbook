@@ -53,7 +53,6 @@ Puy Lentil and Aubergine Stew
 
 - 4 portions
 - 1 hour
-- Adapted from [The Guardian](https://www.theguardian.com/lifeandstyle/2017/nov/25/lentil-recipes-curried-coconut-soup-aubergine-stew-sweet-potato-croquettes-fritters-yotam-ottolenghi)
 
 #### Ingredients:
 
@@ -61,22 +60,22 @@ Puy Lentil and Aubergine Stew
 - 3 garlic cloves, crushed
 - 1 medium red onion, peeled and finely diced
 - 2 small eggplants (about 450g in total), cut into rough chunks
-- 200g cherry tomatoes
-- 200g puy lentils
+- 250g cherry tomatoes
+- 250g puy lentils
 - 500ml vegetable stock
-- 100ml white wine
+- 100ml marsala or red wine
 - 100-200ml creme fraiche or sour cream
+- 1/2 tsp cayenne
 - 1/2 tsp oregano
-- 1/2 tsp chilli flakes
+- 1 tbsp sweet paprika
 - Salt and black pepper
 
 #### Directions:
 
-1. Add oil to put and wait for it to get hot. Add onion, garlic, and salt and
-fry for 5 minutes and tomato. Add oregano and chili flakes,
-then add salt and pepper generously.
-1. Meanwhile, slice and roast eggplant in the oven.
-1. Add lentils, stock, wine, and 500ml water and bring to a boil.
+1. Slice and roast eggplant in the oven.
+1. Add oil to pot and wait for it to get hot. Add onion, garlic, and salt and
+fry for 5 minutes. Add tomato. Add cayenne and oregano and fry, then fry paprika very briefly.
+1. Add stock, wine, and 500ml water and bring to a boil, then add lentils.
 1. Simmer for 40 minutes uncovered.
 1. Stir back in roasted eggplant.
 1. Serve the stew warm topped with a spoonful of creme fraiche.
