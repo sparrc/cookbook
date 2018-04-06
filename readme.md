@@ -1,3 +1,4 @@
+- [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
 - [Puy Lentil and Aubergine Stew](#puy-lentil-and-aubergine-stew)
 - [Tortilla](#tortilla)
@@ -21,6 +22,34 @@
 - [Roasted Dijon Chicken](#roasted-dijon-chicken)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Creamy Mushroom Soup
+================================================================================
+
+- 4 portions
+- 45 minutes
+- Goes well with cheddar and bread
+
+#### Ingredients:
+
+- 30g dried porcini mushrooms (ceps)
+- 40g butter
+- 1 regular onion, chopped
+- 1 garlic clove, roughly sliced
+- 1 tsp dried thyme
+- 500g mushrooms, quartered
+- 850ml vegetable stock
+- 200ml tub creme fraiche or sour cream (reduced fat works fine)
+
+#### Directions:
+
+1. Bring a kettle to the boil, then pour the water over the dried porcinis just to cover.
+1. Heat the butter in a saucepan, then gently sizzle the onion, garlic and thyme for 5 mins until softened and starting to brown.
+1. Add the mushrooms and cook until liquid has released and somewhat reduced, about 10 minutes.
+1. Pour in porcinis (with water) and veggie stock and simmer uncovered for 25 minutes.
+1. Remove from heat and add creme fraiche.
+1. Blend with immersion blender until chunky-smooth.
+1. Serve with toasted bread and cheese.
 
 Pancakes
 ================================================================================
