@@ -1,3 +1,4 @@
+- [Matar Paneer](#matar-paneer)
 - [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
 - [Puy Lentil and Aubergine Stew](#puy-lentil-and-aubergine-stew)
@@ -23,7 +24,34 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
 
-Creamy Mushroom Soup
+Matar Paneer
+================================================================================
+
+- 2-3 portions
+- 30 minutes
+
+#### Ingredients:
+
+- 150g rice
+- 1 can (400g) chopped tomatoes
+- 2 tbsp cashew butter
+- 70g balti spice paste
+- 2 cloves garlic
+- 1 tsp honey
+- 100ml milk (nut milks work great)
+- 200g frozen peas
+- 225g paneer
+- 25g butter
+
+#### Directions:
+
+1. Start cooking rice (optional: add 5 cardamom pods).
+1. Blend together: tomatoes, cashew butter, garlic, spice paste, and honey and set aside.
+1. Melt butter in pan and add blended sauce. Cook for about 10 minutes.
+1. Add milk and cook for another 5 minutes.
+1. Add peas and paneer to pan and bring back to boil.
+
+Mushroom Soup
 ================================================================================
 
 - 4 portions
