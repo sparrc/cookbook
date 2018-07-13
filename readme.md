@@ -1,7 +1,7 @@
 - [Matar Paneer](#matar-paneer)
 - [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
-- [Puy Lentil and Aubergine Stew](#puy-lentil-and-aubergine-stew)
+- [Lentil and bell pepper stew](#lentil-and-bell-pepper-stew)
 - [Tortilla](#tortilla)
 - [Chicken Marsala One-pot](#chicken-marsala-one-pot)
 - [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
@@ -105,7 +105,7 @@ Pancakes
 1. Let batter sit for 10 minutes.
 1. Heat up pan with butter and cook pancakes once butter begins to brown.
 
-Puy Lentil and Aubergine Stew
+Lentil and Bell Pepper Stew
 ================================================================================
 
 - 4 portions
@@ -113,28 +113,26 @@ Puy Lentil and Aubergine Stew
 
 #### Ingredients:
 
-- 4 tbsp olive oil
+- 60g butter
 - 3 garlic cloves, crushed
-- 1 medium red onion, peeled and finely diced
-- 2 small eggplants (about 450g in total), cut into rough chunks
-- 250g cherry tomatoes
+- 2 medium red onions, peeled and finely diced
+- 2 red bell peppers, chopped
+- 250g tomatoes, chopped (any type)
 - 250g puy lentils
-- 500ml vegetable stock
+- 750ml vegetable stock
 - 100ml marsala or red wine
 - 100-200ml creme fraiche or sour cream
 - 1/2 tsp cayenne
-- 1/2 tsp oregano
-- 1 tbsp sweet paprika
+- 1 tsp sweet paprika
 - Salt and black pepper
 
 #### Directions:
 
-1. Slice and roast eggplant in the oven.
-1. Add oil to pot and wait for it to get hot. Add onion, garlic, and salt and
-fry for 5 minutes. Add tomato. Add cayenne and oregano and fry, then fry paprika very briefly.
-1. Add stock, wine, and 500ml water and bring to a boil, then add lentils.
-1. Simmer for 40 minutes uncovered.
-1. Stir back in roasted eggplant.
+1. Melt butter in a heavy pot, then add onions and garlic and fry for about 10 minutes, til it's sticking and browning.
+1. Add cayenne and lentils and cook for 5-10 more minutes.
+1. Add tomatoes, stock, wine, 250ml water, and paprika and bring to a boil.
+1. Simmer for 30 minutes uncovered.
+1. Add bell peppers and simmer 10 more minutes.
 1. Serve the stew warm topped with a spoonful of creme fraiche.
 
 Tortilla
