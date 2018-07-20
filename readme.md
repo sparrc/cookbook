@@ -1,3 +1,5 @@
+- [Veggie Moussaka](#veggie-moussaka)
+- [Avocado Black Bean Salad](#avocado-black-bean-salad)
 - [Matar Paneer](#matar-paneer)
 - [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
@@ -23,6 +25,67 @@
 - [Roasted Dijon Chicken](#roasted-dijon-chicken)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Veggie Moussaka
+================================================================================
+
+- 3 portions
+- 45 minutes
+
+#### Ingredients:
+
+- 400g can chopped tomatoes
+- 1 zucchini, cubed
+- 1 onion, diced
+- 2 small eggplant, sliced in rounds
+- 1 yellow pepper, cubed
+- 2 garlic cloves
+- 100g sour cream or creme fraiche
+- 100g red lentils
+- 1 stick cinnamon
+- 20g worcester sauce
+- 1/2 cube veggie stock
+- 40g hard italian cheese
+- toasted garlic bread (optional)
+
+#### Directions:
+
+1. Add the onion, zucchini, and pepper to a hot pan and cook for 8 minutes, salt to taste.
+1. Add 300ml water and the cinnamon, red lentils, worcester sauce, veggie stock, and chopped tomatoes.
+1. Simmer for about 30 minutes until lentils are tender but still have some bite. Add more water if necessary.
+1. Meanwhile, oil a flat pan and spread out the eggplant slices. Drizzle with oil and put under the broiler for about 9 minutes each side.
+1. When the sauce is done, transfer to an oven dish and layer the eggplant on top. Spread the sour cream on top then sprinkle with the cheese.
+1. Broil until the cheese is gold and bubbling, about 5 minutes.
+1. (optional) broil slices of bread spread with olive oil and some garlic.
+
+Avocado Black Bean Salad
+================================================================================
+
+- 2 portions
+
+#### Ingredients:
+
+- 400g can black beans
+- 1 medium tomato
+- 1 avocado
+- 50g feta cheese
+- small can sweet corn
+- 1 head romaine lettuce (optional)
+
+#### Chimichurri Ingredients:
+
+- 1 bunch cilantro
+- 1 bunch parsley
+- 2 tbsp white wine or sherry vinegar
+- 3 tbsp olive oil
+- 1/2 garlic clove
+- pinch red pepper flakes
+- pinch cumin
+
+#### Directions:
+
+1. Blitz chimichurri ingredients.
+1. Mix salad ingredients and douse in the sauce.
 
 Matar Paneer
 ================================================================================
