@@ -1,28 +1,18 @@
 - [Veggie Moussaka](#veggie-moussaka)
 - [Avocado Black Bean Salad](#avocado-black-bean-salad)
-- [Matar Paneer](#matar-paneer)
+- [Matar Gobi](#matar-gobi)
 - [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
 - [Lentil and bell pepper stew](#lentil-and-bell-pepper-stew)
 - [Tortilla](#tortilla)
-- [Chicken Marsala One-pot](#chicken-marsala-one-pot)
 - [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
-- [Tuna Pasta Bake](#tuna-pasta-bake)
-- [Beef & Red Wine Stew](#beef-and-red-wine-stew)
 - [Lamb, Squash and Apricot tagine](#lamb-squash-and-apricot-tagine)
 - [Butternut Squash Chilli](#butternut-squash-chilli)
 - [Spanish Fish Stew One-pot](#spanish-fish-stew-one-pot)
 - [Chorizo and Lentil One-pot](#chorizo-and-lentil-one-pot)
-- [Borscht](#borscht)
-- [Zuppa Arcidossana](#zuppa-arcidossana)
-- [Lemon Roasted Chicken](#lemon-roasted-chicken)
 - [Thai Curry](#thai-curry)
-- [Shakshuka](#shakshuka)
-- [Mushroom and Sausage Ragu with Polenta](#mushroom-and-sausage-ragu-with-polenta)
 - [Cranberry Sauce](#cranberry-sauce)
 - [Mom's thanksgiving stuffing](#moms-thanksgiving-stuffing)
-- [Israeli Cous-Cous and Chicken](#israeli-cous-cous-and-chicken)
-- [Roasted Dijon Chicken](#roasted-dijon-chicken)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
 
@@ -68,7 +58,6 @@ Avocado Black Bean Salad
 - 400g can black beans
 - 1 medium tomato
 - 1 avocado
-- 50g feta cheese
 - small can sweet corn
 - 1 head romaine lettuce (optional)
 
@@ -87,10 +76,10 @@ Avocado Black Bean Salad
 1. Blitz chimichurri ingredients.
 1. Mix salad ingredients and douse in the sauce.
 
-Matar Paneer
+Matar Gobi
 ================================================================================
 
-- 2-3 portions
+- 2 portions
 - 30 minutes
 
 #### Ingredients:
@@ -98,21 +87,21 @@ Matar Paneer
 - 150g rice
 - 1 can (400g) chopped tomatoes
 - 2 tbsp cashew butter
+- 1 tbsp nutritional yeast
 - 70g balti spice paste
 - 2 cloves garlic
-- 1 tsp honey
-- 100ml milk (nut milks work great)
-- 200g frozen peas
-- 225g paneer
-- 25g butter
+- 150-200ml plant milk
+- 150g frozen peas
+- 1 small cauliflower (around 200-250g florets)
+- 1 tbsp oil
 
 #### Directions:
 
 1. Start cooking rice (optional: add 5 cardamom pods).
-1. Blend together: tomatoes, cashew butter, garlic, spice paste, and honey and set aside.
-1. Melt butter in pan and add blended sauce. Cook for about 10 minutes.
-1. Add milk and cook for another 5 minutes.
-1. Add peas and paneer to pan and bring back to boil.
+1. Blend together: tomatoes, yeast, cashew butter, garlic, spice paste and set aside.
+1. Heat oil in pan and add cauliflower and blended sauce. Cook for about 10 minutes.
+1. Add milk and cook for another 10 minutes.
+1. Add peas and bring back to boil.
 
 Mushroom Soup
 ================================================================================
@@ -210,47 +199,6 @@ Tortilla
 - 300-350g potatoes
 - 1/2 onion
 
-Chicken Marsala one-pot
-================================================================================
-
-- 4 portions
-- 40 minutes
-
-#### Ingredients:
-
-- 4 Boneless Skinless Chicken Breasts (about 600g)
-- Kosher Salt, to taste
-- Ground Black Pepper, to taste
-- 2 Tablespoons Butter
-- 1 Tablespoon Olive Oil
-- 500g Sliced Mushrooms
-- 3 cloves Garlic, minced
-- 200 ml Marsala Wine
-- 1 cube Chicken Stock (enough for 500ml)
-- 150 ml Heavy Cream (double cream)
-- Chopped Fresh Parsley (Optional) (garnish)
-- 300g Tagliatelle Pasta
-
-#### Directions:
-
-1. Place the chicken breast halves between two sheets of plastic wrap or in a resealable freezer bag on a solid, level surface.
-Use the smooth side of a meat mallet or a rolling pin to pound the chicken into an even ½-inch thickness.
-Season the chicken with salt and ground black pepper.
-2. In a cast-iron pot over medium heat, heat 1 tablespoon of butter and 1 tablespoon of olive oil.
-Add the chicken and cook it for 2-4 minutes per side, or until it's golden brown and cooked through.
-Remove the chicken and set it aside.
-3. Increase the heat to medium high and add the butter and olive oil to the pan.
-Sauté the mushrooms for 5-10 minutes until most liquid has evaporated.
-4. Begin cooking pasta on another burner.
-5. Add the minced garlic and cook for about 1 minute or until it's fragrant.
-Put on a kettle.
-6. Add the Marsala wine, bring it to a simmer, and cook for 2-4 minutes.
-7. Add the Stock cube with 300ml boiling water and cream and bring to a simmer.
-Reduce the sauce for 5-10 minutes, or until it starts to thicken.
-8. Add the chicken back into the pan, coat each side with sauce,
-and cook it for 1-2 minutes until it's heated through.
-Serve the Marsala chicken warm with pasta, mashed potatoes, or veggies.
-
 Palak Paneer and Cardamom Rice
 ================================================================================
 
@@ -293,79 +241,6 @@ Re-boil a kettle.
 Meanwhile, dissolve the vegetable stock cubes and tomato paste in 400ml boiled water.
 8. Add the stock to the pan and cook for about 5 minutes or until the sauce resembles a thick curry.
 Return the browned paneer to the pan and cook for a final min to warm it through - this is your palak paneer.
-
-Tuna Pasta Bake
-================================================================================
-
-- 4-6 portions
-- 1 hour
-
-#### Ingredients:
-
-- 400g pasta
-- 200g canned tuna packed in oil (undrained weight) ? maybe more ?
-- 200g can sweetcorn (undrained weight)
-- 400g can chopped tomatoes
-- 2 medium onions, chopped
-- 400ml milk
-- 2 tbsp flour
-- 150g extra mature cheddar, grated
-- 1/2 tsp mustard powder
-- 1 tsp parsley
-- 1 cube of vegetable stock (enough for 500ml of broth)
-
-#### Directions:
-
-1. Put the pasta in a large pot of boiling water.
-2. Meanwhile, put the oil from the can of tuna in a dutch oven and fry the
-onion for 10-15 minutes.
-3. Sprinkle flour onto the onions and stir together.
-4. Stir in the milk, spices and tomatoe, and keep stirring until the milk begins
-to boil and thicken, then stir in 100g of the cheese.
-5. When the pasta is cooked, drain it and tip into the sauce along with the
-sweetcorn.
-6. Scatter the remaining cheese over the top.
-Broil for 5-10 minutes until golden & crispy.
-
-
-Beef and Red Wine Stew
-================================================================================
-
-- 4 portions
-- 2-3 hours
-
-#### Ingredients:
-
-- 400g wide egg noodles
-- 800g cubed stewing beef
-- 4 cloves garlic, chopped
-- 1 onion, chopped
-- 4 medium carrots
-- 300g baby cremini or chestnut mushrooms
-- 2 tablespoons flour
-- 250ml red wine
-- 250ml water
-- 1 beef stock cube (enough for about 500ml)
-- 1 whole clove
-- 1 bay leaf
-- 1 rounded tsp parsley
-
-#### Directions:
-
-1. Heat oil in a dutch oven.
-Add onion, garlic, and parsley, and cook for 10 minutes.
-Sprinkle with flour and stir to coat meat evenly.
-2. Add the wine and stir until the mixture boils and thickens.
-Stir in the water & beef stock cube. Add the clove & bay leaf.
-Cover closely and simmer very low for 1 hour.
-3. Meanwhile, cut the carrots into one-inch lengths.
-Add them to the stew.
-Cover and continue cooking for 1 hour, or until the carrots are tender.
-4. While carrots are cooking, heat oil in a frying pan and add mushrooms.
-Use whole baby mushrooms or quartered adult mushrooms.
-Cook mushrooms down until soft, then add to stew with 15 minutes left to cook.
-5. Cook egg noodles as the stew finishes, then serve stew over the noodles.
-
 
 Lamb, Squash and Apricot Tagine
 ================================================================================
@@ -498,106 +373,6 @@ Chorizo and Lentil One-pot
 1. While the lentils are cooking, prepare the rice.
 
 
-Borscht
-================================================================================
-
-- 6 portions
-- 1.25 hours
-- Serve with sour cream or yogurt
-
-#### Ingredients:
-
-- 2-3 medium beets
-- 1 1/2 lbs beef chuck roast (or any stewing meat), cubed
-- 1 28 oz can diced tomatoes
-- 3 cups beef stock
-- 1 large onion, chopped
-- 1 rib celery, diced
-- 4 cups red cabbage, shredded
-- 6 cloves garlic, smashed
-- 1 tbsp red wine vinegar
-- 1 juice of one lemon
-
-#### Directions:
-
-1. Preheat oven to 400 degrees, peel beets and cube. Roast in oven for
-40 minutes.
-1. Toss meat with a little flour until lightly coated. Remove meat from flour
-and brown over medium-high heat in a large pot.
-1. Add onions and celery and cook until translucent.
-1. Add stock and tomatoes & simmer until beets are ready.
-1. Remove beets from oven and puree with 1 cup water.
-1. Add the cabbage, garlic, beets, and beef, and simmer gently for another
-15-20 minutes. (if necessary, add extra water or stock to reach desired texture)
-1. Season with vinegar and lemon juice. Simmer for a few more minutes and top
-with yogurt or sour cream.
-
-
-Zuppa Arcidossana
-================================================================================
-
-- 4 portions
-- 30 minutes
-
-#### Ingredients:
-
-- 2 tbsp olive oil
-- 1 lb sweet italian sausage
-- 4  carrots, diced
-- 4  sticks celery, diced
-- 1 large onion, diced
-- 4 cloves garlic, minced
-- 1 can diced tomatoes
-- 3 cups stale french bread, in 1-inch pieces
-- 8 oz chard, kale, or spinach, roughly chopped
-- 2 cups water
-- 1/4 cup chopped parsley
-- 1/4 cup grated parmesan
-
-#### Directions:
-
-1. Heat oil over medium heat. When hot, add pepper, then add sausage in balls
-or crumbled. Cook until browned, about 4 minutes.
-1. Add carrots, celery, onion, and garlic to pan. Cook over medium heat until
-vegetables soften and start to brown, about 15 minutes. Season with salt and
-pepper.
-1. Add tomatoes and cook another 5 minutes. Add Bread and cook a few minutes.
-Add greens and cook until wilted.
-1. Season with salt and pepper. Add about 2 cups water and cook for another
-15 minutes, adding more water if needed. Consistency should be like a loose
-risotto rather than a soup.
-1. Season with salt and pepper to taste. Stir in Parmesan and parsley and serve.
-
-
-Lemon Roasted Chicken
-================================================================================
-
-- 2 portions
-- 30 minutes
-
-#### Ingredients:
-
-- 1 large meyer lemon
-- 2 large chicken breasts
-- 1/2 cup white wine
-- 1 tbsp butter
-
-#### Directions:
-
-1. preheat oven to 425 degrees, and place a cast-iron pan into the oven with a
-splash of olive oil. Thinly slice the lemons. Lift skin from chicken breasts
-and stuff the thin lemon slices underneath.
-1. aggressively salt and pepper the outside of the chicken. Take cast-iron pan
-out of the oven and put over high heat. Place chicken breasts into pan
-skin-side down and fry for a few minutes until golden brown, then flip
-and fry other side for a few minutes. Place pan back in oven and let bake
-for 20-30 minutes.
-1. remove pan from oven, and remove chicken breasts from pan. Put pan over high
-heat and pour in wine and butter. reduce, scraping up the brown bits and
-stirring until the sauce is at desired thickness. Pour sauce over chicken
-breasts and serve.
-
-
 Thai Curry
 ================================================================================
 
@@ -636,109 +411,6 @@ for 20-30 minutes until vegetables are tender.
 1. while the curry simmers, add chicken bouillon, soy sauce, and zest from
 the three limes.
 
-
-Shakshuka
-================================================================================
-
-- 4 portions
-- 40 minutes
-
-Israeli vegetarian soup/stew
-
-#### Ingredients:
-
-- 3 green bell peppers
-- 3 jalapeno peppers
-- 1 medium yellow onion
-- 5 cloves garlic, mashed
-- 1 tsp ground cumin
-- 1 tbsp paprika
-- 1 28 oz can diced tomatoes
-- 1/2 cup water
-- 1/2 cup crumbled feta
-- 1 tbsp parsley
-- 6 medium eggs
-
-#### Directions:
-
-1. Chop onions and pepper into small pieces. Oil a pan and heat over
-medium-high heat. When hot, add chiles and onion and cook until soft
-and golden brown, about 6 minutes.
-1. Add garlic and spices and cook, stirring frequently,
-for about 2 minutes.
-1. Add tomatoes and water to pan,
-reduce heat to medium, and simmer,
-stirring occasionally, until thickened slightly, about 15 minutes.
-Season with salt and pepper.
-1. Crack eggs over the sauce so that they are evenly distributed across
-sauce's surface. Cover skillet and cook until yolks are just set, about
-5 minutes. Using a spoon, baste the whites of the eggs with tomatoe mixture,
-being careful not to disturb the yolk.
-1. Serve with crumbled feta and parsley sprinkled on top, along with white
-french bread or pitas.
-
-
-Mushroom and Sausage Ragu with Polenta
-================================================================================
-
-- 4 portions
-- less than 45 minutes
-
-Cook the polenta while the ragu simmers so everything will be ready and hot at
-the same time. Other mushrooms work great in this recipe too.
-Don't worry about the sauce looking dry before it simmers,
-as it simmers the mushroom juices materialize.
-
-#### Ragu:
-
-- 1 lb hot italian sausage (pork, chicken, or turkey)
-- 1 medium onion, chopped
-- 1 lb crimini mushrooms, sliced
-- 4 cloves garlic, smashed
-- 1 14 oz can diced tomatoes
-
-##### Directions:
-
-1. Heat 1 1/2 tsp olive oil in skillet. Remove sausage from casing.
-Add to pan and saute until browned, stirring with a spatula to crumble,
-about 4 minutes. Remove sausage from pan.
-1. Add 1 tblsp olive oil to pan, still over medium-high heat.
-Add onion and garlic, saute until slightly translucent, about 3 minutes.
-Add mushrooms; saute until reduced some, about 6 minutes.
-stir in sausage and tomatoes, salt and pepper generously, and bring to a simmer.
-Reduce heat to medium and simmer for 15 minutes.
-
-#### Polenta:
-
-- 2 cups chicken broth
-- 2 cups water
-- 1 cup corn grits
-- 1 tblsp butter
-- 1/4 tsp black pepper
-- 1 pinch salt
-
-##### Directions:
-
-Bring broth and water to a boil in a medium saucepan.
-Add grits, stirring well. Reduce heat to medium and simmer for 25 minutes
-or until thick, stirring often.
-Remove from heat and stir in salt, pepper, and butter.
-Serve with sausage mixture on top.
-
-#### Polenta variation:
-
-- 4 cups water
-- 1 cup corn grits
-- 1/4 cup heavy cream
-- 2 tblsp grated parmigiano-reggiano
-- 1/4 tsp black pepper
-- 1 tsp salt
-
-##### Directions:
-
-Bring water to a boil in a medium saucepan. Add grits, stirring well.
-Reduce heat to medium and simmer for 25 minutes or until thick, stirring often.
-Remove from heat and stir in salt, pepper, cream, and cheese.
 
 Cranberry Sauce
 ================================================================================
@@ -794,80 +466,6 @@ Stuff turkey just before putting it in the oven.
 Leftover stuffing can be placed in a casserole and baked 1/2 hour to an hour,
 basting with turkey juices if possible.
 
-
-Israeli Cous-Cous and Chicken
-================================================================================
-
-- 4-5 portions
-- 1 hour
-
-#### Ingredients:
-
-- 1 1/2 lb Boneless, skinless chicken tenders, cubed
-- 1 tbsp Olive Oil
-- 1/2 cup Chopped cilantro
-- 1 pinch Cinnamon
-- 1/2 tsp Ground cumin
-- 1 Lemon, juiced
-- 2 medium Onions
-- 1 lb Carrots
-- 2-3 heads Broccoli
-- 1 1/2 cups Israeli cous cous
-- 2 cups Chicken Broth
-- 1 cups Water
-- 1 large Zucchini
-- 3 cloves Garlic, mashed
-
-#### Directions:
-
-1. Combine Chicken, oil, cilantro, cinnamon, cumin,
-and half of the lemon juice in a bag,
-add salt and pepper generously,
-massage ingredients until fully mixed and let marinate.
-1. Chop vegetables into small pieces. Oil a pan and put over medium-high heat.
-When oil is shimmering, add onion,
-cooking until translucent and a tiny bit brown.
-Add Israeli cous-cous until it starts to brown in spots,
-then add rest of vegetables, chicken broth, and water.
-Cover and simmer until vegetables are soft, about 15-20 minutes.
-1. Chop zucchini into small cubes. Oil a pan and heat over medium-high
-heat until shimmering. Add zucchini and cook until browned, about 3-5 minutes.
-Add marinated chicken to pan with all juices and garlic.
-Cook until chicken is done. Fold cous-cous, chicken, and remaining lemon
-juice together until thoroughly mixed, Garnish with cilantro and serve.
-
-
-Roasted Dijon Chicken
-================================================================================
-
-- 2-3 portions
-- 1 hour
-
-#### Ingredients:
-
-- 3 lbs. Chicken parts, bone-in, skin-on
-- 1 tbsp Vegetable Oil
-- 2  Small Shallots, thinly sliced
-- 3/4 cup Dry White Wine
-- 3/4 cup Chicken Broth
-- 1/4 cup Heavy Cream
-- 2 tbsp Dijon Mustard
-- 1 tbsp Chives or Green Onions (optional)
-
-#### Directions:
-
-1. Preheat oven to 450. Pat chicken dry and season generously with salt and
-black pepper. Heat oil in an oven-proof skillet (cast iron works great here)
-over medium-high heat until shimmering. Working in 2 batches, brown chicken,
-skin side down first, about 5 minutes per batch. Return all chicken to
-skillet and roast in oven until cooked through, about 20 minutes.
-1. Transfer chicken to a platter, then add shallots, wine, and broth to pan
-juices and bring to a boil. Boil until reduced by half, about 5 minutes. Add
-cream and boil until thickened to a consistency you prefer, around 1-5 minutes,
-but it's been known to take up to 15 minutes.
-1. Whisk in Mustard, Chives, and salt and pepper to taste. Serve chicken with
-sauce, garnished with more chives. This dish goes very well with some simple
-roasted baby red potatoes
 
 
 Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
