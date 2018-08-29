@@ -6,9 +6,8 @@
 - [Lentil and bell pepper stew](#lentil-and-bell-pepper-stew)
 - [Tortilla](#tortilla)
 - [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
-- [Lamb, Squash and Apricot tagine](#lamb-squash-and-apricot-tagine)
+- [Squash and Apricot tagine](#squash-and-apricot-tagine)
 - [Butternut Squash Chilli](#butternut-squash-chilli)
-- [Spanish Fish Stew One-pot](#spanish-fish-stew-one-pot)
 - [Chorizo and Lentil One-pot](#chorizo-and-lentil-one-pot)
 - [Thai Curry](#thai-curry)
 - [Cranberry Sauce](#cranberry-sauce)
@@ -242,7 +241,7 @@ Meanwhile, dissolve the vegetable stock cubes and tomato paste in 400ml boiled w
 8. Add the stock to the pan and cook for about 5 minutes or until the sauce resembles a thick curry.
 Return the browned paneer to the pan and cook for a final min to warm it through - this is your palak paneer.
 
-Lamb, Squash and Apricot Tagine
+Squash and Apricot Tagine
 ================================================================================
 
 - 5 portions
@@ -254,11 +253,12 @@ Lamb, Squash and Apricot Tagine
 - 2 garlic cloves, finely chopped
 - 1 tbsp ras-el-hanout
 - 1 tsp ground coriander
-- 600g lamb leg, diced into 2cm pieces, excess fat trimmed
+- 3 portobello mushrooms (about 250-300g), chopped
+- 200g cavolo nero, chopped
 - 400g butternut squash, diced
 - 150g soft dried apricots
 - 400g can chopped tomatoes
-- 500ml lamb or beef stock
+- 500ml veggie stock
 - small bunch coriander
 - 200g bulgur wheat
 - yogurt, to serve
@@ -268,7 +268,7 @@ Lamb, Squash and Apricot Tagine
 1. Heat oven to 180/160C fan/gas 6.
 2. Heat the oil in a casserole dish, add the onion and cook for 5 mins until softened.
 Add the garlic and spices and cook for a couple mins more, stirring to prevent them catching and burning.
-3. Add the lamb, squash and apricots to the casserole,
+3. Add the mushrooms, cavolo nero, squash and apricots to the casserole,
 pour over the tomatoes and stock, season well and bring to the boil.
 Put the lid on and transfer to the oven.
 4. After 1 hr, stir the tagine and return to the oven, uncovered, for a further 30 mins.
@@ -312,41 +312,6 @@ Cover and cook for a further 10 mins until the squash is tender.
 Add the beans to the pan and heat. Serve with chives and soured cream on the side.
 
 
-Spanish Fish Stew One-pot
-================================================================================
-
-- 3 portions
-- 40 minutes
-
-#### Ingredients:
-
-- 1 rounded tsp paprika
-- 1 tsp dried parsley
-- 2 garlic cloves, crushed
-- 1 onion, chopped
-- 350g potato, cubed
-- 400g can chopped tomato
-- 400g can chickpeas
-- 1 fish stock cube
-- 400-500g skinless fish fillets, cut into very large chunks
-
-#### Directions:
-
-1. Heat 2 tbsp oil in a large sauté pan.
-Throw in the onion and potatoes, cover the pan, then cook everything for
-about 5 mins until the onion has softened. Add the garlic and spices,
-then cook for 2 mins more.
-2. Add the tomatoes, 1 can of water and crumble in the stock.
-Season with a little salt, then cover the pan.
-Simmer everything for 20-25 mins until the potatoes are just cooked.
-3. Stir through the chickpeas and fish chunks into the stew.
-Reduce the heat and recover the pan, then cook for about 8 mins,
-stirring very gently once or twice.
-4. When the fish is just cooked through, remove from the heat, then bring the dish
-to the table with the bottle of olive oil for drizzling over and some crusty bread,
-if you want.
-
-
 Chorizo and Lentil One-pot
 ================================================================================
 
@@ -379,7 +344,7 @@ Thai Curry
 - 5 portions
 - 45 minutes
 
-Not done yet, general curry recipe. Make jasmine rice as the curry simmers,
+general curry recipe. Make jasmine rice as the curry simmers,
 about 1/2 cup dry per person.
 
 #### Ingredients:
@@ -391,9 +356,9 @@ about 1/2 cup dry per person.
 - 3 bell peppers (red or orange preferred)
 - 2 large heads broccoli
 - 4 large carrots
-- 1 lb chicken, chopped into bite-size pieces
-- 1 cube chicken bouillon
-- 1 tsp soy sauce
+- 250g firm tofu
+- 1 cube veggie bouillon
+- 1 tsp soy/tamari sauce
 - 3 limes
 
 #### Directions:
@@ -405,10 +370,10 @@ pieces, cut carrots on the bias into 1/4 inch pieces, and chop broccoli
 into small florets (also chop stalk cores). Put all vegetables into a
 dutch oven (or a large stock pot), then add coconut milk and curry paste
 mixture, and set over medium-low heat, uncovered.
-1. Heat a skillet over high heat. Add chicken and sear outside for
+1. Heat a skillet over high heat. Add tofu and sear outside for
 1-2 minutes, then add to dutch oven. Salt generously, and simmer curry
 for 20-30 minutes until vegetables are tender.
-1. while the curry simmers, add chicken bouillon, soy sauce, and zest from
+1. while the curry simmers, add veggie bouillon, soy sauce, and zest from
 the three limes.
 
 
