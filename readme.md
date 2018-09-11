@@ -1,3 +1,4 @@
+- [Baked Miso Eggplant](#baked-miso-eggplant)
 - [Veggie Moussaka](#veggie-moussaka)
 - [Avocado Black Bean Salad](#avocado-black-bean-salad)
 - [Matar Gobi](#matar-gobi)
@@ -14,6 +15,49 @@
 - [Mom's thanksgiving stuffing](#moms-thanksgiving-stuffing)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Baked Miso Eggplant
+================================================================================
+
+- 2 portions
+- 40 minutes
+- Adapted from https://thehappypear.ie/recipe/baked-miso-aubergine/
+
+#### Eggplant Ingredients:
+
+- 2 eggplants
+- 2 tbsp miso (~30g)
+- 1 tsp tamari
+- 1 tsp chilli powder (to taste)
+- 25-40g oil (~2-3 tbsp)
+- sprinkle cumin seeds
+
+#### Spinach Ingedients:
+
+- 200g spinach
+- 1 tbsp oil
+- 1 clove garlic, chopped
+- thumb size piece ginger (about 2 tsp frozen ginger)
+
+#### Couscous Ingredients:
+
+- 160g wholemeal couscous
+- 200g boiling water
+- ~60g sultanas
+- 1 tsp turmeric
+- 1/4 tsp salt
+
+#### Directions:
+
+1. Preheat the oven to 180 Celsius (360F)
+1. Cut your aubergines in half lengthwise and score the inside
+1. To make your dressing, mix together the miso, tamari, chilli powder and oil into a paste
+1. Massage the paste into the aubergine to enable it to permeate the aubergine
+1. Sprinkle with cumin seeds
+1. Bake in oven for 30 mins
+1. Meanwhile, add 1 tbsp oil to a heated pan along with your garlic and ginger. Cook for one minute before adding into the spinach and cooking until wilted
+1. Mix couscous, sultanas, turmeric and salt together, then pour over boiling water and cover.
+1. Serve the aubergine along with the spinach and couscous
 
 Veggie Moussaka
 ================================================================================
