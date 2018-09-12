@@ -503,10 +503,7 @@ Toss florets with remaining olive oil, cumin seeds, salt, and pepper and
 spread evenly on tray.
 Roast for 20-30 minutes, until edges of the cauliflower are toasty.
 1. Blend yogurt with Feta and a pinch of salt. Dollop onto cauliflower
-and garnish with mint,
-pomegranate seeds, and more feta. Goes well with garam masala chicken
-(rub chicken with oil, garam masala, salt, and pepper, then sear over high
-heat until done).
+and garnish with mint, pomegranate seeds, and more feta.
 
 
 Paella de Mariscos
