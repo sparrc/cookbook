@@ -1,3 +1,4 @@
+- [Ethiopian Cabbage](#ethiopian-cabbage)
 - [Baked Miso Eggplant](#baked-miso-eggplant)
 - [Veggie Moussaka](#veggie-moussaka)
 - [Avocado Black Bean Salad](#avocado-black-bean-salad)
@@ -15,6 +16,34 @@
 - [Mom's thanksgiving stuffing](#moms-thanksgiving-stuffing)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Ethiopian Cabbage
+================================================================================
+
+- 5 side dishes or 2-3 as a main
+- 40 minutes
+
+#### Ingredients
+
+- 4 tbsp oil
+- 5 carrots, thinly sliced
+- 1 onion, thinly sliced
+- 1/2 large head cabbage, shredded (about 400g)
+- 250-300g baby potatoes, diced into small pieces
+- 1 veggie stock cube (enough for 500ml, can substitute 1 tsp salt)
+- 1 teaspoon ground black pepper
+- 1/2 teaspoon ground cumin
+- 1/2 teaspoon frozen ginger (optional)
+- 1/2 teaspoon ground turmeric
+- dash garlic powder
+
+#### Directions:
+
+1. Heat the oil in a heavy pot over medium heat.
+1. Cook the carrots and onion in the hot oil about 10 minutes.
+1. Stir in the salt, pepper, cumin, turmeric, and cabbage and cook another 5 minutes.
+1. Add the potatoes; cover.
+1. Reduce heat to medium-low and cook until potatoes are soft, 20 to 30 minutes, deglazing/scraping the pot every 5 minutes. 
 
 Baked Miso Eggplant
 ================================================================================
