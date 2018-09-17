@@ -1,3 +1,4 @@
+- [Vegan Chocolate Milkshake](#vegan-chocolate-milkshake)
 - [Ethiopian Cabbage](#ethiopian-cabbage)
 - [Baked Miso Eggplant](#baked-miso-eggplant)
 - [Veggie Moussaka](#veggie-moussaka)
@@ -6,7 +7,6 @@
 - [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
 - [Lentil and bell pepper stew](#lentil-and-bell-pepper-stew)
-- [Tortilla](#tortilla)
 - [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
 - [Squash and Apricot tagine](#squash-and-apricot-tagine)
 - [Butternut Squash Chilli](#butternut-squash-chilli)
@@ -17,6 +17,24 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
 
+Vegan Chocolate Milkshake
+================================================================================
+
+- serves 2
+
+#### Ingredients
+
+- 20g chia seeds
+- 10g cocoa powder
+- 1/2 frozen banana
+- 1 date, pitted
+- 300ml plant milk
+- 2 ice cubes
+
+#### Directions
+
+1. blend all ingredients on high for 2 minutes
+
 Ethiopian Cabbage
 ================================================================================
 
@@ -26,11 +44,11 @@ Ethiopian Cabbage
 #### Ingredients
 
 - 4 tbsp oil
-- 5 carrots, thinly sliced
+- 4 carrots, thinly sliced
 - 1 onion, thinly sliced
 - 1/2 large head cabbage, shredded (about 400g)
 - 250-300g baby potatoes, diced into small pieces
-- 1 veggie stock cube (enough for 500ml, can substitute 1 tsp salt)
+- 2 tsp veggie bouillon or 1 tsp salt
 - 1 teaspoon ground black pepper
 - 1/2 teaspoon ground cumin
 - 1/2 teaspoon frozen ginger (optional)
@@ -259,17 +277,6 @@ Lentil and Bell Pepper Stew
 1. Add bell peppers and simmer 10 more minutes.
 1. Serve the stew warm.
 
-Tortilla
-================================================================================
-
-- 2 portions
-- 30 minutes
-
-#### Ingredients:
-
-- 6 eggs
-- 300-350g potatoes
-- 1/2 onion
 
 Palak Paneer and Cardamom Rice
 ================================================================================
