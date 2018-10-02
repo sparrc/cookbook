@@ -7,7 +7,7 @@
 - [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
 - [Lentil and bell pepper stew](#lentil-and-bell-pepper-stew)
-- [Palak Paneer and Cardamom Rice](#palak-paneer-and-cardamom-rice)
+- [Saag Channa and Cardamom Rice](#saag-channa-and-cardamom-rice)
 - [Squash and Apricot tagine](#squash-and-apricot-tagine)
 - [Butternut Squash Chilli](#butternut-squash-chilli)
 - [Chorizo and Lentil One-pot](#chorizo-and-lentil-one-pot)
@@ -278,48 +278,41 @@ Lentil and Bell Pepper Stew
 1. Serve the stew warm.
 
 
-Palak Paneer and Cardamom Rice
+Saag Channa and Cardamom Rice
 ================================================================================
 
 - 4 portions
-- 30 minutes
+- 40 minutes
 
 #### Ingredients:
 
-- 250g Basmati Rice
-- 2 Red Onions
-- 2 Large Tomatoes (about 200g)
-- 2 Cloves Garlic
-- 500g Paneer
-- 300g Baby Spinach
-- 1 tbsp Tomato Paste (optional?)
-- 2 Vegetable Stock Cubes (enough for 1l of stock)
-- 1 tbsp Garam Masala
-- 1/2 tsp Cayenne Pepper
-- 8 Cardamom Pods
+- 200g basmati rice
+- 4 cardamom pods
+- 2 cans chickpeas, drained
+- 1 onion
+- 3 cloves garlic
+- 3 large tomatoes (about 300g), (or 1 can diced tomatoes)
+- 1 tsp frozen ginger
+- 500g spinach
+- 2 veg stock cubes (enough for 1l of stock)
+- 1 tsp garam masala
+- 1 tsp coriander
+- 1/2 tsp cumin (maybe?)
+- 1/2 tsp turmeric
+- 1/4 tsp cayenne (or 1/2 tsp chili powder)
 
 #### Directions:
 
-1. Add the basmati rice, cardamom pods, a pinch of salt and 700ml
-cold water to a pot with a lid and bring to the boil over a high heat.
-Once boiling, reduce the heat to very low and cook for 10-15m until rice is done.
-2. Meanwhile, blend together the onions, tomatoes, and garlic to a paste, you might need to add water.
-Boil a kettle.
-3. Meanwhile, chop the paneer into bite-sized pieces.
-Heat a large, wide-based pan (preferably non-stick) with a drizzle of vegetable oil over a medium heat.
-Once hot, add the chopped paneer and cook for 2-3 min until it's browned on all sides.
-Once browned, transfer the paneer to a plate, season with a pinch of salt and reserve the pan for later.
-4. Return the pan to a medium heat.
-Add the onion and tomatoe base and cook for 10-15 min or until starting to brown.
-5. Once brown, add the garam masala and the cayenne and cook for 1 min or until fragrant.
-6. Meanwhile, add the spinach to a colander and pour over the boiled water so that it starts to wilt.
-Rinse the wilted spinach under cold water until cool.
-Squeeze the water out of the spinach and chop it roughly.
-Re-boil a kettle.
-7. Add the chopped spinach to the pan and cook for 1 min.
-Meanwhile, dissolve the vegetable stock cubes and tomato paste in 400ml boiled water.
-8. Add the stock to the pan and cook for about 5 minutes or until the sauce resembles a thick curry.
-Return the browned paneer to the pan and cook for a final min to warm it through - this is your palak paneer.
+1. Preheat the oven to 400F (200C).
+1. Start cooking the rice with 500ml water and the cardamom pods.
+1. Blend together the onion, tomatoes, ginger and garlic to a paste, you might need to add water.
+1. Add the paste to a deep pot with oil and cook over low heat for 15-20 minutes.
+1. Mix the chickpeas with oil and salt, roast in the oven until lightly browned, ~20 minutes.
+1. Meanwhile, pour boiling water over the spinach in a colander to wilt it, then chop finely.
+1. Once the paste is brown, add the spices and cook 1 minute more.
+1. Add the chopped spinach, stock cubes, and 500ml to the pot, bring to a boil and simmer for 10-15 minutes, until the sauce resembles a thick curry.
+1. Add the roasted chickpeas to the curry and heat through. Serve with the cardamom rice.
+
 
 Squash and Apricot Tagine
 ================================================================================
