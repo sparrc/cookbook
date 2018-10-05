@@ -1,3 +1,4 @@
+- [Vegan Pad Thai](#vegan-pad-thai)
 - [Vegan Chocolate Milkshake](#vegan-chocolate-milkshake)
 - [Ethiopian Cabbage](#ethiopian-cabbage)
 - [Baked Miso Eggplant](#baked-miso-eggplant)
@@ -16,6 +17,43 @@
 - [Mom's thanksgiving stuffing](#moms-thanksgiving-stuffing)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Vegan Pad Thai
+================================================================================
+
+- serves 3-4
+- 30 minutes
+
+#### Sauce Ingredients
+
+- 3 tbsp roasted (unsalted) peanuts (~32g)
+- 2 tbsp light cooking oil
+- 4 tbsp pomegranate molasses or tamarind sauce*
+- 2 tbsp maple or agave syrup
+- 1 tbsp tamari sauce
+- 2 tbsp vegan fish sauce or more tamari
+
+#### Stir-Fry Ingredients
+
+- 300g whole-wheat noodles
+- 750g chopped stir-fry veggies (cabbage, beansprouts, carrot, broccoli, mushroom, etc.)
+- 1 large sweet potato (about 300g)
+- 1 leek
+- 2 cloves garlic
+
+### Directions:
+
+1. Put on a large pot of water to boil.
+1. Put 2 tbsp oil into a frying pan/wok over medium heat.
+1. Add peanuts and fry a few minutes until browned.
+1. Add peanuts, oil, and rest of sauce ingredients to a blender. Blitz, adjust sweetness to taste, and set aside.
+1. When water is boiling, cook noodles and drain, then add noodles back to dry pot.
+1. Working in batches, fry up the rest of the vegetables and add them to the noodles as they finish. Each batch should only take about 4 minutes to cook.
+1. Once all vegetables are done, add sauce to pot and mix everything together.
+
+```
+* To make tamarind sauce from tamarind paste, use 1:1:1 ratio paste:water:maple syrup.
+```
 
 Vegan Chocolate Milkshake
 ================================================================================
