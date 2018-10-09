@@ -1,3 +1,4 @@
+- [Bean and Veg Coconut Curry](#bean-and-veg-coconut-curry)
 - [Vegan Pad Thai](#vegan-pad-thai)
 - [Vegan Chocolate Milkshake](#vegan-chocolate-milkshake)
 - [Ethiopian Cabbage](#ethiopian-cabbage)
@@ -18,6 +19,46 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
 
+Bean and Veg Coconut Curry
+================================================================================
+
+- serves 3
+- 30 minutes
+
+#### Curry Paste Ingredients
+
+- 1 tbsp cumin seeds
+- 1 tbsp coriander seeds
+- 1 tbsp frozen ginger (or thumb-size piece fresh)
+- 1 heaped tsp garam masala
+- 1/2 tsp smoked paprika
+- 1/2 tsp black pepper
+- 1/2 tsp chili powder (or 1 tsp?)
+- 1 cube veg stock (enough for 500ml)
+- 1 can chopped tomatoes
+- 2 cloves of garlic
+- 1 bunch of fresh cilantro (~40g)
+
+#### Veg Ingredients
+
+- 1 tbsp oil
+- 1 leek, chopped (or 3 scallions)
+- 1/2 head cauliflower, diced into small pieces
+- 1 can garbanzo beans, drained
+- 1 can black beans, drained
+- 1 can light coconut milk
+- 1/2 juice of a lime
+- 100g spinach (optional)
+- soy yogurt to serve
+
+#### Directions
+
+1. Start cooking rice.
+1. Toast the cumin and coriander seeds in oil in a fry pan over medium heat for ~2 minutes.
+1. Put all of the paste ingredients into a blender and blitz until smooth.
+1. Add leeks and cauliflower to a deep pan over medium-high heat.
+1. Once veg are a bit soft (~5 minutes), add coconut milk, beans, curry paste and lime juice and cook until veg are tender and desired consistency is reached.
+
 Vegan Pad Thai
 ================================================================================
 
@@ -37,11 +78,11 @@ Vegan Pad Thai
 
 - 300g whole-wheat noodles
 - 750g chopped stir-fry veggies (cabbage, beansprouts, carrot, broccoli, mushroom, etc.)
-- 1 large sweet potato (about 300g)
+- 1 large sweet potato, grated (about 300g)
 - 1 leek
 - 2 cloves garlic
 
-### Directions:
+#### Directions:
 
 1. Put on a large pot of water to boil.
 1. Put 2 tbsp oil into a frying pan/wok over medium heat.
