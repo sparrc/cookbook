@@ -9,13 +9,13 @@
 - [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
 - [Lentil and bell pepper stew](#lentil-and-bell-pepper-stew)
-- [Saag Channa and Cardamom Rice](#saag-channa-and-cardamom-rice)
+- [Channa Saag and Cardamom Rice](#channa-saag-and-cardamom-rice)
 - [Squash and Apricot tagine](#squash-and-apricot-tagine)
 - [Butternut Squash Chilli](#butternut-squash-chilli)
 - [Chorizo and Lentil One-pot](#chorizo-and-lentil-one-pot)
 - [Thai Curry](#thai-curry)
 - [Cranberry Sauce](#cranberry-sauce)
-- [Mom's thanksgiving stuffing](#moms-thanksgiving-stuffing)
+- [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
 
@@ -277,7 +277,6 @@ Mushroom Soup
 
 - 4 portions
 - 45 minutes
-- Goes well with cheddar and bread
 
 #### Ingredients:
 
@@ -288,7 +287,7 @@ Mushroom Soup
 - 1 tsp dried thyme
 - 500g mushrooms, quartered
 - 850ml vegetable stock
-- 200ml tub creme fraiche or sour cream (reduced fat works fine)
+- 200ml tub oat creme fraiche or soya yogurt
 
 #### Directions:
 
@@ -298,7 +297,7 @@ Mushroom Soup
 1. Pour in porcinis (with water) and veggie stock and simmer uncovered for 25 minutes.
 1. Remove from heat and add creme fraiche.
 1. Blend with immersion blender until chunky-smooth.
-1. Serve with toasted bread and cheese.
+1. Serve with toasted bread.
 
 Pancakes
 ================================================================================
@@ -357,7 +356,7 @@ Lentil and Bell Pepper Stew
 1. Serve the stew warm.
 
 
-Saag Channa and Cardamom Rice
+Channa Saag and Cardamom Rice
 ================================================================================
 
 - 4 portions
@@ -371,12 +370,14 @@ Saag Channa and Cardamom Rice
 - 1 onion
 - 3 cloves garlic
 - 3 large tomatoes (about 300g), (or 1 can diced tomatoes)
-- 1 tsp frozen ginger
-- 500g spinach
-- 2 veg stock cubes (enough for 1l of stock)
+- 2 tsp frozen ginger
+- 400g spinach, chopped roughly
+- 1 veg stock cubes (enough for 500ml of stock)
+- 1-2 tbsp maple syrup, to taste
+- 400ml water (NOTE try alternatives: plant milk; 1 can light coconut milk; 2 tbsp cashew butter)
 - 1 tsp garam masala
 - 1 tsp coriander
-- 1/2 tsp cumin (maybe?)
+- 1/2 tsp cumin
 - 1/2 tsp turmeric
 - 1/4 tsp cayenne (or 1/2 tsp chili powder)
 
@@ -387,9 +388,9 @@ Saag Channa and Cardamom Rice
 1. Blend together the onion, tomatoes, ginger and garlic to a paste, you might need to add water.
 1. Add the paste to a deep pot with oil and cook over low heat for 15-20 minutes.
 1. Mix the chickpeas with oil and salt, roast in the oven until lightly browned, ~20 minutes.
-1. Meanwhile, pour boiling water over the spinach in a colander to wilt it, then chop finely.
-1. Once the paste is brown, add the spices and cook 1 minute more.
-1. Add the chopped spinach, stock cubes, and 500ml to the pot, bring to a boil and simmer for 10-15 minutes, until the sauce resembles a thick curry.
+1. Once the paste is dark and thick, add the spices and cook 1 minute more.
+1. Add the chopped spinach, stock cube, maple syrup, and 400ml water to the pot, cover and cook, stirring occasionally, until spinach is wilted.
+1. Use an immersion blender to roughly blend the spinach into the sauce, then bring back to a simmer for 10-15 minutes. Salt to taste.
 1. Add the roasted chickpeas to the curry and heat through. Serve with the cardamom rice.
 
 
@@ -510,7 +511,7 @@ about 1/2 cup dry per person.
 - 4 large carrots
 - 250g firm tofu
 - 1 cube veggie bouillon
-- 1 tsp soy/tamari sauce
+- 1 tbsp soy/tamari sauce
 - 3 limes
 
 #### Directions:
@@ -547,7 +548,7 @@ Cranberry Sauce
 an open lid for 20-30 minutes.
 
 
-Mom's thanksgiving stuffing
+Mom's (veganized) thanksgiving stuffing
 ================================================================================
 
 - 6-8 portions
@@ -555,34 +556,26 @@ Mom's thanksgiving stuffing
 
 #### Ingredients:
 
-- Turkey Liver and Heart
-- 1 cup Butter
+- 1 cup vegan butter
 - 2 large Stocks Celery, Coarsely Chopped
 - 1 large Onion
-- 1 lb (400 g) Ground Sausage
+- 1 lb (400 g) Vegan Sausage
 - 12 oz (340 g) Pepperidge Farm Herb-Seasoned Cubed Stuffing
 - 1 cup (240 ml) Wild rice, cooked
 - 1 cup (100 g) Sliced almonds
 - 1/2 tsp Dried thyme
 - 1/2 tsp Black pepper
 - 1/2 cup (120 ml) Brandy
-- 2 cups (500 ml) Chicken Broth
+- 2 cups (500 ml) Veg Broth
 
 #### Directions:
 
-1. Simmer turkey liver and heart in small saucepan.
-1. Melt half the butter in a large skillet over medium heat.
-Add celery and onion and saute for 10 minutes. Transfer to a large mixing bowl.
+1. Melt half the butter in a large skillet over medium heat. Add celery and onion and saute for 10 minutes. Transfer to a large mixing bowl.
 1. Cook sausage in skillet until brown, transfer to mixing bowl.
-1. Add stuffing mix, cooked wild rice and almonds.
-Finely dice Turkey liver and heart and add to stuffing mix.
-Stir. Add thyme and pepper.
-1. Heat rest of butter and stock in a small saucepan just until butter melts.
-Pour over stuffing mixture and add the Brandy.
-Stuff turkey just before putting it in the oven.
-Leftover stuffing can be placed in a casserole and baked 1/2 hour to an hour,
-basting with turkey juices if possible.
-
+1. Add stuffing mix, cooked wild rice and almonds. Finely dice Turkey liver and heart and add to stuffing mix.
+1. Stir. Add thyme and pepper.
+1. Heat rest of butter and stock in a small saucepan just until butter melts. Pour over stuffing mixture and add the Brandy.
+1. Stuffing can be placed in a casserole and baked 1/2 hour to an hour.
 
 
 Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
