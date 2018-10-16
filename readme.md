@@ -1,7 +1,9 @@
 - [Bean and Veg Coconut Curry](#bean-and-veg-coconut-curry)
 - [Vegan Pad Thai](#vegan-pad-thai)
 - [Vegan Chocolate Milkshake](#vegan-chocolate-milkshake)
-- [Ethiopian Cabbage](#ethiopian-cabbage)
+- [Ethiopian Turmeric Yellow Split Peas (Yekik Alicha)](#ethiopian-turmeric-yellow-split-peas-yekik-alicha)
+- [Ethiopian Berbere Lentils (Yemisir Wot)](#ethiopian-berbere-lentils-yemisir-wot)
+- [Ethiopian Cabbage (Tikil Gomen)](#ethiopian-cabbage-tikil-gomen)
 - [Baked Miso Eggplant](#baked-miso-eggplant)
 - [Veggie Moussaka](#veggie-moussaka)
 - [Avocado Black Bean Salad](#avocado-black-bean-salad)
@@ -114,30 +116,77 @@ Vegan Chocolate Milkshake
 
 1. blend all ingredients on high for 2 minutes
 
-Ethiopian Cabbage
+Ethiopian Turmeric Yellow Split Peas (Yekik Alicha)
 ================================================================================
 
-- 5 side dishes or 2-3 as a main
+- 5 side dishes or 2 as a main
+- 60 minutes
+
+#### Ingredients
+
+- 4 tbsp light oil
+- 2 small to medium onions, chopped
+- 2 cloves garlic, chopped finely
+- 1.5 tbsp fresh or frozen ginger, chopped finely
+- 2 tsp turmeric
+- 200g yellow split peas
+- 750g water
+- 1 tsp salt
+
+#### Directions:
+
+1. In a large pot, heat the oil over medium-high heat. Add in the onions, garlic, and ginger. Cover and cook, stirring occasionally, for about 10 minutes.
+1. Add the turmeric and peas and cook 1-2 minutes more.
+1. Add in the water and salt and bring to a boil. Simmer uncovered for about 40 minutes, until the peas are tender.
+
+Ethiopian Berbere Lentils (Yemisir Wot)
+================================================================================
+
+- 5 side dishes or 2 as a main
+- 40 minutes
+
+#### Ingredients
+
+- 4 tbsp light oil
+- 2 small to medium onions, chopped
+- 2 cloves garlic, chopped finely
+- 1 tbsp fresh or frozen ginger, chopped finely
+- 1 tbsp berbere or ras-el-hanout (possibly could substitute 1:1 ratio garam masala:paprika)
+- 1/2 tsp smoked paprika
+- 200g red lentils
+- 600g water
+- 1 tsp veggie bouillon (1/2 cube)
+
+#### Directions:
+
+1. In a large pot, heat the oil over medium-high heat. Add in the onions, garlic, and ginger. Cover and cook, stirring occasionally, for about 10 minutes.
+1. Add the berbere, paprika, and lentils and cook 1-2 minutes more.
+1. Add in the water and bouillon and bring to a boil. Simmer uncovered for 20-30 minutes, until the lentils have broken down a bit and are tender.
+
+Ethiopian Cabbage (Tikil Gomen)
+================================================================================
+
+- 5 side dishes or 2 as a main
 - 40 minutes
 
 #### Ingredients
 
 - 4 tbsp oil
-- 4 carrots, thinly sliced
+- 3 carrots, thinly sliced
 - 1 onion, thinly sliced
 - 1/2 large head cabbage, shredded (about 400g)
-- 250-300g baby potatoes, diced into small pieces
+- 300-350g potatoes, diced into small pieces
+- 2 cloves garlic, chopped
 - 2 tsp veggie bouillon or 1 tsp salt
-- 1 teaspoon ground black pepper
-- 1/2 teaspoon ground cumin
-- 1/2 teaspoon frozen ginger (optional)
-- 1/2 teaspoon ground turmeric
-- dash garlic powder
+- 1 tsp fresh or frozen ginger
+- 1/2 tsp ground cumin
+- 1/2 tsp ground turmeric
+- 1/2 tsp ground black pepper
 
 #### Directions:
 
 1. Heat the oil in a heavy pot over medium heat.
-1. Cook the carrots and onion in the hot oil about 10 minutes.
+1. Cook the carrots, onion, and garlic in the hot oil about 10 minutes.
 1. Stir in the salt, pepper, cumin, turmeric, and cabbage and cook another 5 minutes.
 1. Add the potatoes; cover.
 1. Reduce heat to medium-low and cook until potatoes are soft, 20 to 30 minutes, deglazing/scraping the pot every 5 minutes. 
