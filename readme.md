@@ -69,9 +69,9 @@ Vegan Pad Thai
 
 #### Sauce Ingredients
 
-- 3 tbsp roasted (unsalted) peanuts (~32g)
+- 3 tbsp roasted (unsalted) peanuts (25-30g)
 - 2 tbsp light cooking oil
-- 4 tbsp pomegranate molasses or tamarind sauce*
+- 3-4 tbsp pomegranate molasses or tamarind sauce*
 - 2 tbsp maple or agave syrup
 - 1 tbsp tamari sauce
 - 2 tbsp vegan fish sauce or more tamari
@@ -89,7 +89,7 @@ Vegan Pad Thai
 1. Put on a large pot of water to boil.
 1. Put 2 tbsp oil into a frying pan/wok over medium heat.
 1. Add peanuts and fry a few minutes until browned.
-1. Add peanuts, oil, and rest of sauce ingredients to a blender. Blitz, adjust sweetness to taste, and set aside.
+1. Add peanuts, oil, and rest of sauce ingredients to a blender. Blitz until smooth, adjust sweetness to taste, and set aside.
 1. When water is boiling, cook noodles and drain, then add noodles back to dry pot.
 1. Working in batches, fry up the rest of the vegetables and add them to the noodles as they finish. Each batch should only take about 4 minutes to cook.
 1. Once all vegetables are done, add sauce to pot and mix everything together.
@@ -411,24 +411,31 @@ Channa Saag and Cardamom Rice
 - 4 portions
 - 40 minutes
 
-#### Ingredients:
+#### Rice Ingredients
 
 - 200g basmati rice
 - 4 cardamom pods
-- 2 cans chickpeas, drained
+- 500ml water
+
+#### Paste Ingredients
+
 - 1 onion
 - 3 cloves garlic
 - 3 large tomatoes (about 300g), (or 1 can diced tomatoes)
 - 2 tsp frozen ginger
-- 400g spinach, chopped roughly
-- 1 veg stock cubes (enough for 500ml of stock)
-- 1-2 tbsp maple syrup, to taste
-- 400ml water (NOTE try alternatives: plant milk; 1 can light coconut milk; 2 tbsp cashew butter)
 - 1 tsp garam masala
 - 1 tsp coriander
 - 1/2 tsp cumin
 - 1/2 tsp turmeric
 - 1/4 tsp cayenne (or 1/2 tsp chili powder)
+
+#### Ingredients
+
+- 2 cans chickpeas, drained
+- 400g spinach, chopped roughly
+- 1 veg stock cubes (enough for 500ml of stock)
+- 1-2 tbsp maple syrup, to taste
+- 400ml water (NOTE try alternatives: plant milk; 1 can light coconut milk; 2 tbsp cashew butter)
 
 #### Directions:
 
