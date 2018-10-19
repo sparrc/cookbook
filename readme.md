@@ -219,8 +219,8 @@ Baked Miso Eggplant
 - 160g wholemeal couscous
 - 200g boiling water
 - ~60g sultanas
-- 1 tsp turmeric
-- 1/4 tsp salt
+- 1/4 tsp turmeric
+- 1 tsp veg bouillon (1/2 cube)
 
 #### Directions:
 
