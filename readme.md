@@ -408,44 +408,43 @@ Lentil and Bell Pepper Stew
 Channa Saag and Cardamom Rice
 ================================================================================
 
-- 4 portions
+- 2 portions
 - 40 minutes
 
 #### Rice Ingredients
 
-- 200g basmati rice
-- 4 cardamom pods
-- 500ml water
+- 150g basmati rice
+- 3 cardamom pods
+- 350ml water
 
 #### Paste Ingredients
 
-- 1 onion
-- 3 cloves garlic
+- 4 cloves garlic
 - 3 large tomatoes (about 300g), (or 1 can diced tomatoes)
-- 2 tsp frozen ginger
+- 1 tbsp frozen ginger
 - 1 tsp garam masala
 - 1 tsp coriander
 - 1/2 tsp cumin
 - 1/2 tsp turmeric
+- 1/2 tsp mustard seeds
 - 1/4 tsp cayenne (or 1/2 tsp chili powder)
 
 #### Ingredients
 
 - 2 cans chickpeas, drained
-- 400g spinach, chopped roughly
+- 350g spinach or chard (or mix), chopped roughly
 - 1 veg stock cubes (enough for 500ml of stock)
-- 1-2 tbsp maple syrup, to taste
-- 400ml water (NOTE try alternatives: plant milk; 1 can light coconut milk; 2 tbsp cashew butter)
+- 1 tbsp maple syrup, to taste
+- 1 can light coconut milk OR 2 tbsp cashew butter + 300ml plant milk
 
 #### Directions:
 
 1. Preheat the oven to 400F (200C).
-1. Start cooking the rice with 500ml water and the cardamom pods.
-1. Blend together the onion, tomatoes, ginger and garlic to a paste, you might need to add water.
-1. Add the paste to a deep pot with oil and cook over low heat for 15-20 minutes.
+1. Start cooking the rice with the cardamom pods.
+1. Blend together all paste ingredients.
+1. Add the paste to a deep pot with 1 tbsp oil and cook over low heat for 15-20 minutes.
 1. Mix the chickpeas with oil and salt, roast in the oven until lightly browned, ~20 minutes.
-1. Once the paste is dark and thick, add the spices and cook 1 minute more.
-1. Add the chopped spinach, stock cube, maple syrup, and 400ml water to the pot, cover and cook, stirring occasionally, until spinach is wilted.
+1. Add the chopped spinach, stock cube, maple syrup, and coconut milk to the pot, cover and cook, stirring occasionally, until spinach is wilted.
 1. Use an immersion blender to roughly blend the spinach into the sauce, then bring back to a simmer for 10-15 minutes. Salt to taste.
 1. Add the roasted chickpeas to the curry and heat through. Serve with the cardamom rice.
 
