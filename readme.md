@@ -1,4 +1,5 @@
 - [Dishoom Black Dal](#dishoom-black-dal)
+- [Banana Bread](#banana-bread)
 - [Bean and Veg Coconut Curry](#bean-and-veg-coconut-curry)
 - [Vegan Pad Thai](#vegan-pad-thai)
 - [Vegan Chocolate Milkshake](#vegan-chocolate-milkshake)
@@ -21,6 +22,7 @@
 - [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
 
 Dishoom Black Dal
 ================================================================================
@@ -60,6 +62,27 @@ Dishoom Black Dal
 1. Add oil and onion to a pot and carmelize, covered, for 10-20 minutes.
 1. Quickly toast the whole spices in a hot pan, then blend together with rest of spice paste ingredients.
 1. When onions are ready, add lentils, water, and spice paste to pot. Simmer covered for 45-60 minutes, until lentils are tender.
+
+Banana Bread
+================================================================================
+
+- serves 5-6
+- 1 hour
+
+#### Ingredients
+
+- 3-4 very ripe bananas
+- 55g vegetable oil
+- 45ml (3 tbsp) plant milk
+- 1 tbsp brandy or bourbon
+- 75g brown sugar
+- 225g plain flour
+- 1 tsp baking soda OR 3 tsp baking powder
+- 1 tsp cinnamon
+- 1/4 tsp nutmeg
+- 1/2 tsp salt
+- 1 tsp vanilla extract
+- (add 1 tbsp chia seeds?)
 
 Bean and Veg Coconut Curry
 ================================================================================
