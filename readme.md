@@ -420,7 +420,7 @@ Channa Saag and Cardamom Rice
 #### Paste Ingredients
 
 - 4 cloves garlic
-- 3 large tomatoes (about 300g), (or 1 can diced tomatoes)
+- 3 small tomatoes (about 200g), (canned tomatoes can be used if drained)
 - 1 tbsp frozen ginger
 - 1 tsp garam masala
 - 1 tsp coriander
@@ -432,10 +432,10 @@ Channa Saag and Cardamom Rice
 #### Ingredients
 
 - 2 cans chickpeas, drained
-- 350g spinach or chard (or mix), chopped roughly
+- 300g spinach or chard (or mix), chopped roughly
 - 1 veg stock cubes (enough for 500ml of stock)
-- 1 tbsp maple syrup, to taste
-- 1 can light coconut milk OR 2 tbsp cashew butter + 300ml plant milk
+- 1 can light coconut milk OR 1-2 tbsp cashew butter + 200ml plant milk
+- 1 tbsp maple syrup (optional, to taste, probably only necessary if using canned tomatoes)
 
 #### Directions:
 
