@@ -1,3 +1,4 @@
+- [Dishoom Black Dal](#dishoom-black-dal)
 - [Bean and Veg Coconut Curry](#bean-and-veg-coconut-curry)
 - [Vegan Pad Thai](#vegan-pad-thai)
 - [Vegan Chocolate Milkshake](#vegan-chocolate-milkshake)
@@ -20,6 +21,45 @@
 - [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
+Dishoom Black Dal
+================================================================================
+
+- serves 4
+- 1 hour
+
+#### Spice Paste Ingredients
+
+- 1 tbsp coriander seeds
+- 2 tsp cumin seeds
+- 5 whole cloves
+- 2 cardamom pods
+- 1 bay leaf
+- 2 star anise
+- 1/2 tsp black peppercorns
+- 1/2 tsp black mustard seeds
+- 1/2 tsp cinnamon
+- 1/2 tsp garam masala
+- 1/2 tsp chili powder (optional)
+- 2.5 ounces (about 75g) tomato paste
+- 4 cloves garlic
+- 2 tbsp frozen ginger (or thumb-size piece fresh)
+- 1 can light coconut milk
+- 1 tbsp cashew butter
+- 1-2 tbsp maple or agave syrup
+
+#### Rest of Ingredients
+
+- 350g black lentils
+- 1 onion
+- 1 tbsp oil
+- 1 liter water
+
+#### Directions
+
+1. Add oil and onion to a pot and carmelize, covered, for 10-20 minutes.
+1. Quickly toast the whole spices in a hot pan, then blend together with rest of spice paste ingredients.
+1. When onions are ready, add lentils, water, and spice paste to pot. Simmer covered for 45-60 minutes, until lentils are tender.
 
 Bean and Veg Coconut Curry
 ================================================================================
@@ -71,7 +111,7 @@ Vegan Pad Thai
 
 - 3 tbsp roasted (unsalted) peanuts (25-30g)
 - 2 tbsp light cooking oil
-- 3-4 tbsp pomegranate molasses or tamarind sauce*
+- 2 tbsp pomegranate molasses or tamarind sauce*
 - 2 tbsp maple or agave syrup
 - 1 tbsp tamari sauce
 - 2 tbsp vegan fish sauce or more tamari
