@@ -611,26 +611,25 @@ Mom's (veganized) thanksgiving stuffing
 
 #### Ingredients:
 
-- 1 cup vegan butter
-- 2 large Stocks Celery, Coarsely Chopped
-- 1 large Onion
-- 1 lb (400 g) Vegan Sausage
-- 12 oz (340 g) Pepperidge Farm Herb-Seasoned Cubed Stuffing
-- 1 cup (240 ml) Wild rice, cooked
-- 1 cup (100 g) Sliced almonds
-- 1/2 tsp Dried thyme
-- 1/2 tsp Black pepper
-- 1/2 cup (120 ml) Brandy
-- 2 cups (500 ml) Veg Broth
+- 1 cup (240g) vegan butter
+- 2 stocks celery, chopped
+- 1 onion
+- 12 oz (340g) vegan sausage
+- 12 oz (340g) Pepperidge Farm Herb-Seasoned cubed stuffing
+- 1 cup (240ml) wild rice, cooked (about 50g dry)
+- 1 cup (100g) sliced almonds
+- 1/2 cup (120ml) brandy
+- 2 cups (500 ml) veg broth
+- 1/2 tsp dried thyme
+- 1/2 tsp black pepper
 
 #### Directions:
 
-1. Melt half the butter in a large skillet over medium heat. Add celery and onion and saute for 10 minutes. Transfer to a large mixing bowl.
-1. Cook sausage in skillet until brown, transfer to mixing bowl.
-1. Add stuffing mix, cooked wild rice and almonds. Finely dice Turkey liver and heart and add to stuffing mix.
-1. Stir. Add thyme and pepper.
-1. Heat rest of butter and stock in a small saucepan just until butter melts. Pour over stuffing mixture and add the Brandy.
-1. Stuffing can be placed in a casserole and baked 1/2 hour to an hour.
+1. Melt half the butter in a dutch oven over medium heat. Add celery and onion and saute for 10 minutes.
+1. Add sausage to pot and cook, stirring occasionally and allowing to brown.
+1. Add stuffing mix, cooked wild rice, almonds, and thyme and pepper. Stir.
+1. Heat rest of butter, stock, and brandy in a small saucepan just until butter melts. Pour over stuffing mixture and stir.
+1. Place stuffing in a casserole and bake 30-60 minutes.
 
 
 Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
