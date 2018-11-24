@@ -611,7 +611,7 @@ Mom's (veganized) thanksgiving stuffing
 
 #### Ingredients:
 
-- 1 cup (240g) vegan butter
+- 1 cup (220g) vegan butter
 - 2 stocks celery, chopped
 - 1 onion
 - 12 oz (340g) vegan sausage
@@ -629,7 +629,7 @@ Mom's (veganized) thanksgiving stuffing
 1. Add sausage to pot and cook, stirring occasionally and allowing to brown.
 1. Add stuffing mix, cooked wild rice, almonds, and thyme and pepper. Stir.
 1. Heat rest of butter, stock, and brandy in a small saucepan just until butter melts. Pour over stuffing mixture and stir.
-1. Place stuffing in a casserole and bake 30-60 minutes.
+1. Place stuffing in a casserole and bake uncovered for about 30 minutes.
 
 
 Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
