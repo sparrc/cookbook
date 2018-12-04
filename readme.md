@@ -34,19 +34,18 @@ Dishoom Black Dal
 - 2 tsp cumin seeds
 - 5 whole cloves
 - 2 cardamom pods
-- 1 bay leaf
-- 2 star anise
+- 2 bay leaves
+- 1 star anise
 - 1/2 tsp black peppercorns
 - 1/2 tsp black mustard seeds
+- 1/2 tsp turmeric
 - 1/2 tsp cinnamon
-- 1/2 tsp garam masala
 - 1/2 tsp chili powder (optional)
 - 2.5 ounces (about 75g) tomato paste
 - 4 cloves garlic
 - 2 tbsp frozen ginger (or thumb-size piece fresh)
 - 1 can light coconut milk
 - 1 tbsp cashew butter
-- 1-2 tbsp maple or agave syrup
 
 #### Rest of Ingredients
 
@@ -54,6 +53,7 @@ Dishoom Black Dal
 - 1 onion
 - 1 tbsp oil
 - 1 liter water
+- 1-2 tbsp maple or agave syrup, to taste
 
 #### Directions
 
