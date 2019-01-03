@@ -1,4 +1,5 @@
 - [Dishoom Black Dal](#dishoom-black-dal)
+- [Banana Bread](#banana-bread)
 - [Bean and Veg Coconut Curry](#bean-and-veg-coconut-curry)
 - [Vegan Pad Thai](#vegan-pad-thai)
 - [Vegan Chocolate Milkshake](#vegan-chocolate-milkshake)
@@ -21,6 +22,7 @@
 - [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Mariscos](#paella-de-mariscos)
+
 
 Dishoom Black Dal
 ================================================================================
@@ -60,6 +62,34 @@ Dishoom Black Dal
 1. Add oil and onion to a pot and carmelize, covered, for 10-20 minutes.
 1. Quickly toast the whole spices in a hot pan, then blend together with rest of spice paste ingredients.
 1. When onions are ready, add lentils, water, and spice paste to pot. Simmer covered for 45-60 minutes, until lentils are tender.
+
+Banana Bread
+================================================================================
+
+- serves 5-6
+- 1 hour
+
+#### Ingredients
+
+- 3-4 very ripe bananas
+- 50g vegetable oil (or ~75g margarine)
+- 2 tbsp plant milk (only if batter needs more liquid to mix)
+- 1 tbsp brandy or bourbon
+- 60g white sugar
+- 200g plain flour
+- 1 tbsp chia seeds
+- 1 tsp baking soda
+- 1 tsp baking powder
+- 1/4 tsp salt
+- 1/4 tsp nutmeg
+- 1/2 tsp cinnamon
+- 75g walnut pieces
+
+#### Directions:
+
+1. Mash the bananas with the vegetable oil.
+2. Add the rest of the ingredients, folding in the walnuts last.
+3. Mix well with a wooden spoon and pour into a bread pan, bake at 350 F (175 C) for 50-60 minutes.
 
 Bean and Veg Coconut Curry
 ================================================================================
