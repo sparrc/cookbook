@@ -21,7 +21,7 @@
 - [Cranberry Sauce](#cranberry-sauce)
 - [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
-- [Paella de Mariscos](#paella-de-mariscos)
+- [Paella de Verduras](#paella-de-verduras)
 
 
 Dishoom Black Dal
@@ -731,45 +731,38 @@ Roast for 20-30 minutes, until edges of the cauliflower are toasty.
 and garnish with mint, pomegranate seeds, and more feta.
 
 
-Paella de Mariscos
+Paella de Verduras
 ================================================================================
 
-- 5 large portions
+- 4 portions
 - 1.5 hours
+
+#### Sofrito Ingredients:
+
+- 2 onions, diced finely
+- 1 red bell pepper, diced finely (optional: cut spears and reserve for topping)
+- 1 can diced tomatoes
+- 2 cloves garlic, chopped
+- 3 tbsp oil
 
 #### Ingredients:
 
-- 1  Onion
-- 1 can Diced Tomatoes
-- 2 tbsp Olive Oil
-- 4 cups Seafood broth
-- 1  Green Bell Pepper
-- 1  Red Bell Pepper
-- 1 1/4 cup Bomba Rice
-- 3/4 lb Dover Sole, or Halibut
+- 1 liter (4 cups) veg broth
+- 1 green bell pepper, diced (optional: cut spears and reserve for topping)
+- 250g (1 1/2 cup) Bomba Rice
 - 1 pinch saffron
-- 1 lb Mixed seafood
-- 1/2 lb Shrimp
+- 2 medium carrots, diced
+- 150g frozen peas, thawed
+- 4-6 artichoke hearts (optional: for topping)
 
 #### Directions:
 
 1. Preheat oven to 400 degrees, with rack in middle.
-1. **sofrito:** Heat olive oil in paella pan on medium heat.
-Roughly blend onion and tomatoes in a blender, and add them to the pan,
-add salt to taste. In a separate pot, bring seafood broth to a simmer, covered.
-Cook onion and tomato, stirring occasionally until dark brownish red.
-This will take around 30-40 minutes.
-1. Chop green and red bell peppers. Chop fish into bite-size pieces.
-As sofrito finishes cooking, Add bell peppers and cook an additional 5 minutes.
-Remove seafood broth from heat and stir in fish and saffron.
-Add rice to sofrito and stir until blended, then add broth to the everything.
-Let rice cook, stirring occasionally and rotating paella pan for about 15 minutes.
-1. Add seafood to paella and stir into mixture, minus shrimp and clams/mussels.
-Insert any clams and/or mussels into the rice, hinge-side down.
-Arrange shrimp on top of rice. Cover paella with tin foil and finish in oven
-for 10-12 minutes. If liquid remains, put oven on low broil and cook away
-liquid without burning top of paella.
-
-
-
+1. **sofrito:** Heat oil in paella pan on medium heat. Add sofrito ingredients. Cook, stirring occasionally, for 30-40 minutes, until sofrito is a dark reddish-brown.
+1. As sofrito finishes cooking, add green bell pepper and carrots. Cook for 10 minutes.
+1. Add rice to sofrito and stir until blended, then add broth and saffron.
+1. Let rice cook, stirring occasionally and rotating paella pan for about 15-20 minutes. Add peas halfway through.
+1. Insert optional pepper spears and artichoke hearts into top of paella.
+1. Cover paella with tin foil and finish in oven for ~12 minutes.
+1. If liquid remains, put oven on low broil and cook away liquid without burning top of paella.
 
