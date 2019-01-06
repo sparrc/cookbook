@@ -485,38 +485,34 @@ Channa Saag and Cardamom Rice
 
 - 150g basmati rice
 - 3 cardamom pods
+- 1 bay leaf
 - 350ml water
 
 #### Paste Ingredients
 
 - 4 cloves garlic
-- 3 small tomatoes (about 200g), (canned tomatoes can be used if drained)
+- 3 small tomatoes (about 150-200g)
 - 1 tbsp frozen ginger
-- 1 tsp garam masala
-- 1 tsp coriander
-- 1/2 tsp cumin
-- 1/2 tsp turmeric
-- 1/2 tsp mustard seeds
-- 1/4 tsp cayenne (or 1/2 tsp chili powder)
+- 1 tbsp curry powder
+- 50g toasted (unsalted) cashews (or cashew butter)
+- 100ml water, as needed
 
 #### Ingredients
 
 - 2 cans chickpeas, drained
-- 300g spinach or chard (or mix), chopped roughly
+- 250-300g spinach or chard (or mix), chopped roughly
 - 1 veg stock cubes (enough for 500ml of stock)
-- 1 can light coconut milk OR 1-2 tbsp cashew butter + 200ml plant milk
-- 1 tbsp maple syrup (optional, to taste, probably only necessary if using canned tomatoes)
+- 1 tbsp maple or agave syrup
 
 #### Directions:
 
-1. Preheat the oven to 400F (200C).
-1. Start cooking the rice with the cardamom pods.
+1. Start cooking the rice with the cardamom pods and bay leaf.
+1. (optional: roast chickpeas in the oven before adding to curry)
 1. Blend together all paste ingredients.
-1. Add the paste to a deep pot with 1 tbsp oil and cook over low heat for 15-20 minutes.
-1. Mix the chickpeas with oil and salt, roast in the oven until lightly browned, ~20 minutes.
-1. Add the chopped spinach, stock cube, maple syrup, and coconut milk to the pot, cover and cook, stirring occasionally, until spinach is wilted.
-1. Use an immersion blender to roughly blend the spinach into the sauce, then bring back to a simmer for 10-15 minutes. Salt to taste.
-1. Add the roasted chickpeas to the curry and heat through. Serve with the cardamom rice.
+1. Add the paste to a deep pot with 1 tbsp oil and cook over low heat for 15 minutes.
+1. Add the chopped spinach, stock cube, and maple syrup, cover and cook, stirring occasionally, until spinach is wilted.
+1. Use an immersion blender to roughly blend the spinach into the sauce, then bring back to a simmer for ~10 minutes.
+1. Add the chickpeas to the curry and heat through. Serve with the cardamom rice.
 
 
 Squash and Apricot Tagine
