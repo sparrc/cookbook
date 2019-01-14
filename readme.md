@@ -72,17 +72,16 @@ Banana Bread
 #### Ingredients
 
 - 3-4 very ripe bananas
-- 50g vegetable oil (or ~75g margarine)
-- 2 tbsp plant milk (only if batter needs more liquid to mix)
+- 3 tbsp (about 45g) veg oil
+- 1-2 tbsp plant milk (only if batter needs more liquid to mix)
 - 1 tbsp brandy or bourbon
-- 60g white sugar
+- 50-60g (4-5 tbsp) sugar
 - 200g plain flour
 - 1 tbsp chia seeds
-- 1 tsp baking soda
-- 1 tsp baking powder
+- 3 tsp baking powder
 - 1/4 tsp salt
 - 1/4 tsp nutmeg
-- 1/2 tsp cinnamon
+- 1/4 tsp cinnamon
 - 75g walnut pieces
 
 #### Directions:
@@ -490,7 +489,7 @@ Channa Saag and Cardamom Rice
 
 #### Paste Ingredients
 
-- 4 cloves garlic
+- 1 clove garlic (optional)
 - 3 small tomatoes (about 150-200g)
 - 1 tbsp frozen ginger
 - 1 tbsp curry powder
