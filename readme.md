@@ -73,13 +73,12 @@ Banana Bread
 
 - 3-4 very ripe bananas
 - 50g vegetable oil (or ~75g margarine)
-- 2 tbsp plant milk (only if batter needs more liquid to mix)
+- 1-2 tbsp plant milk (only if batter needs more liquid to mix)
 - 1 tbsp brandy or bourbon
-- 60g white sugar
+- 50-60g white sugar
 - 200g plain flour
 - 1 tbsp chia seeds
-- 1 tsp baking soda
-- 1 tsp baking powder
+- 2 tsp baking powder
 - 1/4 tsp salt
 - 1/4 tsp nutmeg
 - 1/2 tsp cinnamon
