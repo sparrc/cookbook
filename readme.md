@@ -71,14 +71,13 @@ Banana Bread
 
 #### Ingredients
 
-- 3-4 very ripe bananas
-- 3 tbsp (about 45g) veg oil
-- 1-2 tbsp plant milk (only if batter needs more liquid to mix)
-- 1 tbsp brandy or bourbon
-- 50-60g (4-5 tbsp) sugar
+- 3 large very ripe bananas
+- 3 tbsp (about 45g) veg oil or margarine
+- 1 tbsp brandy or bourbon (optional)
+- 1/4 cup (60g) maple syrup
 - 200g plain flour
-- 1 tbsp chia seeds
-- 3 tsp baking powder
+- 1-2 tbsp chia seeds
+- 2 tsp baking powder
 - 1/4 tsp salt
 - 1/4 tsp nutmeg
 - 1/4 tsp cinnamon
@@ -87,7 +86,7 @@ Banana Bread
 #### Directions:
 
 1. Mash the bananas with the vegetable oil.
-2. Add the rest of the ingredients, folding in the walnuts last.
+2. Add the rest of the ingredients, folding in the walnuts and baking powder last.
 3. Mix well with a wooden spoon and pour into a bread pan, bake at 350 F (175 C) for 50-60 minutes.
 
 Bean and Veg Coconut Curry
