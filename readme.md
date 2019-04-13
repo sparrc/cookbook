@@ -74,20 +74,21 @@ Banana Bread
 - 3 large very ripe bananas
 - 3 tbsp (about 45g) veg oil or margarine
 - 1 tbsp brandy or bourbon (optional)
-- 1/4 cup (60g) maple syrup
-- 200g plain flour
-- 1-2 tbsp chia seeds
-- 2 tsp baking powder
+- 1/4 cup (60ml) maple syrup
+- 225g plain flour (or mix, I use 75g whole-grain spelt and 150g white flour)
+- 2 tbsp chia seeds
 - 1/4 tsp salt
-- 1/4 tsp nutmeg
 - 1/4 tsp cinnamon
-- 75g walnut pieces
+- 50g walnut pieces
+- 1.5 tsp baking powder
+- extra walnut or pecan pieces for topping
 
 #### Directions:
 
 1. Mash the bananas with the vegetable oil.
 2. Add the rest of the ingredients, folding in the walnuts and baking powder last.
-3. Mix well with a wooden spoon and pour into a bread pan, bake at 350 F (175 C) for 50-60 minutes.
+3. Mix well with a spatula and pour into a bread pan, then top with extra nuts.
+4. bake at 350 F (175 C) for 50-60 minutes.
 
 Bean and Veg Coconut Curry
 ================================================================================
