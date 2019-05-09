@@ -453,25 +453,24 @@ Lentil and Bell Pepper Stew
 
 - 60g olive oil
 - 3 garlic cloves, crushed
-- 2 medium red onions, peeled and finely diced
+- 2 onions, red or yellow, peeled and finely diced
+- 1 bunch green onions, chopped
 - 2 red bell peppers, chopped (or 5-6 carrots, in which case add to lentils earlier)
 - 250g tomatoes, chopped (any type)
-- 250g puy lentils
+- 250g black/pardina/puy lentils
 - 500ml vegetable stock
+- 1000ml water
 - 3 tbsp nutritional yeast
-- 100ml marsala or red wine
-- 1/2 tsp cayenne
-- 1 tsp sweet paprika
-- Salt and black pepper
+- 1 tsp paprika, about half smoked half sweet
 
 #### Directions:
 
 1. Heat oil in a heavy pot, then add onions and garlic and fry for about 10 minutes, til it's sticking and browning.
-1. Add cayenne and lentils and cook for 5-10 more minutes.
-1. Add tomatoes, stock, yeast, wine, 500ml water, and paprika and bring to a boil.
+1. Add lentils and tomatoes and cook for ~5 minutes.
+1. Add stock, green onions, yeast, water, and paprika and bring to a boil.
 1. Simmer for 30 minutes uncovered.
 1. Add bell peppers and simmer 10 more minutes.
-1. Serve the stew warm.
+1. Serve the stew warm with rice.
 
 
 Channa Saag and Cardamom Rice
