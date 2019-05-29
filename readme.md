@@ -71,21 +71,22 @@ Banana Bread
 
 #### Ingredients
 
-- 3 large very ripe bananas
-- 3 tbsp (about 45g) veg oil or margarine
-- 1 tbsp brandy or bourbon (optional)
+- 3 very ripe bananas
+- 1/4 cup (60ml) olive oil
 - 1/4 cup (60ml) maple syrup
-- 225g plain flour (or mix, I use 75g whole-grain spelt and 150g white flour)
-- 2 tbsp chia seeds
+- 1 tbsp brandy or bourbon (optional)
+- 225g flour (I usually use 125g whole-grain spelt and 100g white flour)
+- 1 heaping tbsp chia seeds
 - 1/4 tsp salt
 - 1/4 tsp cinnamon
-- 50g walnut pieces
+- 1/2 tsp vanilla extract
+- 60g walnut pieces
 - 1.5 tsp baking powder
-- extra walnut or pecan pieces for topping
+- extra walnut pieces for topping (optional)
 
 #### Directions:
 
-1. Mash the bananas with the vegetable oil.
+1. Mash the bananas with the oil and maple syrup.
 2. Add the rest of the ingredients, folding in the walnuts and baking powder last.
 3. Mix well with a spatula and pour into a bread pan, then top with extra nuts.
 4. bake at 350 F (175 C) for 50-60 minutes.
@@ -451,16 +452,16 @@ Lentil and Bell Pepper Stew
 
 #### Ingredients:
 
-- 60g olive oil
+- 1/4 cup (60ml) oil
 - 3 garlic cloves, crushed
-- 2 onions, red or yellow, peeled and finely diced
+- 1 onions, red or yellow, peeled and finely diced
 - 1 bunch green onions, chopped
-- 2 red bell peppers, chopped (or 5-6 carrots, in which case add to lentils earlier)
+- 2 red bell peppers, chopped (or 3-4 carrots, in which case add to lentils earlier)
 - 250g tomatoes, chopped (any type)
 - 250g black/pardina/puy lentils
 - 500ml vegetable stock
 - 1000ml water
-- 3 tbsp nutritional yeast
+- 2 tbsp nutritional yeast
 - 1 tsp paprika, about half smoked half sweet
 
 #### Directions:
