@@ -1,3 +1,4 @@
+- [Gazpacho](#gazpacho)
 - [Dishoom Black Dal](#dishoom-black-dal)
 - [Banana Bread](#banana-bread)
 - [Bean and Veg Coconut Curry](#bean-and-veg-coconut-curry)
@@ -23,6 +24,27 @@
 - [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Verduras](#paella-de-verduras)
 
+
+Gazpacho
+================================================================================
+
+- serves 2
+- quick
+
+#### Ingredients
+
+- 1 lb (500g) tomatoes
+- 1/2 cucumber, peeled
+- 1 clove garlic
+- 2 tbsp (30ml) olive oil
+- 25g crusty bread (about 1-2 slices baguette)
+- 1 tbsp balsamic vinegar (or red wine or sherry)
+- 1/4 cup (60ml) water
+- 1/2 tsp salt
+
+#### Directions
+
+1. Blend everything! Serve with more crusty bread.
 
 Dishoom Black Dal
 ================================================================================
