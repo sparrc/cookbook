@@ -515,22 +515,21 @@ Channa Saag and Cardamom Rice
 - 3 small tomatoes (about 150-200g)
 - 1 tbsp frozen ginger
 - 1 tbsp curry powder
-- 50g toasted (unsalted) cashews (or cashew butter)
-- 100ml water, as needed
+- 1 tbsp agave syrup
+- 1 veg stock cubes (enough for 500ml of stock)
+- 1 can low- or high-fat coconut milk (or sub 75g cashews + 250ml water)
 
 #### Ingredients
 
 - 2 cans chickpeas, drained
 - 250-300g spinach or chard (or mix), chopped roughly
-- 1 veg stock cubes (enough for 500ml of stock)
-- 1 tbsp maple or agave syrup
 
 #### Directions:
 
 1. Start cooking the rice with the cardamom pods and bay leaf.
 1. (optional: roast chickpeas in the oven before adding to curry)
 1. Blend together all paste ingredients.
-1. Add the paste to a deep pot with 1 tbsp oil and cook over low heat for 15 minutes.
+1. Add the paste to a deep pot with oil and cook over low heat for 15 minutes.
 1. Add the chopped spinach, stock cube, and maple syrup, cover and cook, stirring occasionally, until spinach is wilted.
 1. Use an immersion blender to roughly blend the spinach into the sauce, then bring back to a simmer for ~10 minutes.
 1. Add the chickpeas to the curry and heat through. Serve with the cardamom rice.
