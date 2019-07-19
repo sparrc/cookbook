@@ -499,30 +499,30 @@ Lentil and Bell Pepper Stew
 Channa Saag and Cardamom Rice
 ================================================================================
 
-- 2 portions
-- 40 minutes
+- 4 portions
+- 30 minutes
 
 #### Rice Ingredients
 
-- 150g basmati rice
+- 250g basmati rice
 - 3 cardamom pods
 - 1 bay leaf
-- 350ml water
+- 550ml water
 
 #### Paste Ingredients
 
 - 1 clove garlic (optional)
 - 3 small tomatoes (about 150-200g)
 - 1 tbsp frozen ginger
-- 1 tbsp curry powder
+- 1 tbsp (heaping) curry powder (preferably 'south Indian' or 'madras' style)
 - 1 tbsp agave syrup
 - 1 veg stock cubes (enough for 500ml of stock)
-- 1 can low- or high-fat coconut milk (or sub 75g cashews + 250ml water)
+- 1 can regular coconut milk (or sub 75g cashews + 250ml water)
 
 #### Ingredients
 
-- 2 cans chickpeas, drained
-- 250-300g spinach or chard (or mix), chopped roughly
+- 2 cans chickpeas, drained (subbing cooked potatoes works well too)
+- 500g (~1 lb) spinach or chard (or mix), chopped roughly
 
 #### Directions:
 
@@ -530,9 +530,9 @@ Channa Saag and Cardamom Rice
 1. (optional: roast chickpeas in the oven before adding to curry)
 1. Blend together all paste ingredients.
 1. Add the paste to a deep pot with oil and cook over low heat for 15 minutes.
-1. Add the chopped spinach, stock cube, and maple syrup, cover and cook, stirring occasionally, until spinach is wilted.
-1. Use an immersion blender to roughly blend the spinach into the sauce, then bring back to a simmer for ~10 minutes.
-1. Add the chickpeas to the curry and heat through. Serve with the cardamom rice.
+1. Add the chopped spinach, cover and cook, stirring occasionally, until spinach is wilted.
+1. Use an immersion blender to roughly blend the spinach into a sauce.
+1. Add the chickpeas to the sauce and heat through. Serve with the cardamom rice.
 
 
 Squash and Apricot Tagine
