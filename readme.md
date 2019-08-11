@@ -116,7 +116,7 @@ Banana Bread
 Bean and Veg Coconut Curry
 ================================================================================
 
-- serves 3
+- serves 4
 - 30 minutes
 
 #### Curry Paste Ingredients
@@ -124,10 +124,10 @@ Bean and Veg Coconut Curry
 - 1 tbsp cumin seeds
 - 1 tbsp coriander seeds
 - 1 tbsp frozen ginger (or thumb-size piece fresh)
-- 1 heaped tsp garam masala
+- 1 tsp garam masala
 - 1/2 tsp smoked paprika
 - 1/2 tsp black pepper
-- 1/2 tsp chili powder (or 1 tsp?)
+- 1/2 tsp chili powder, to taste (optional)
 - 1 cube veg stock (enough for 500ml)
 - 1 can chopped tomatoes
 - 2 cloves of garlic
@@ -136,22 +136,23 @@ Bean and Veg Coconut Curry
 #### Veg Ingredients
 
 - 1 tbsp oil
-- 1 leek, chopped (or 3 scallions)
+- 1/2 onion, chopped
 - 1/2 head cauliflower, diced into small pieces
 - 1 can garbanzo beans, drained
 - 1 can black beans, drained
-- 1 can light coconut milk
+- 1 can coconut milk
 - 1/2 juice of a lime
 - 100g spinach (optional)
-- soy yogurt to serve
+- soy yogurt to serve (optional)
 
 #### Directions
 
 1. Start cooking rice.
-1. Toast the cumin and coriander seeds in oil in a fry pan over medium heat for ~2 minutes.
+1. Toast the cumin and coriander seeds in a fry pan over medium heat for ~2 minutes.
 1. Put all of the paste ingredients into a blender and blitz until smooth.
-1. Add leeks and cauliflower to a deep pan over medium-high heat.
-1. Once veg are a bit soft (~5 minutes), add coconut milk, beans, curry paste and lime juice and cook until veg are tender and desired consistency is reached.
+1. Add onion and cauliflower to a deep pan over medium-high heat, salt and cover.
+1. Once veg are a bit soft (~5 minutes), add curry paste.
+1. When veg is fully cooked (~10 minutes), add coconut milk, beans, and lime juice and serve once heated.
 
 Vegan Pad Thai
 ================================================================================
