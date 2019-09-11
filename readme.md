@@ -54,36 +54,34 @@ Dishoom Black Dal
 
 #### Spice Paste Ingredients
 
-- 1 tbsp coriander seeds
-- 2 tsp cumin seeds
+- 1 tbsp whole coriander seeds
+- 1 tbsp whole cumin seeds
 - 5 whole cloves
 - 2 cardamom pods
-- 2 bay leaves
-- 1 star anise
-- 1/2 tsp black peppercorns
-- 1/2 tsp black mustard seeds
-- 1/2 tsp turmeric
-- 1/2 tsp cinnamon
+- 1 tsp black peppercorns
+- 1 tsp paprika (not smoked)
+- 1/4 tsp cinnamon
 - 1/2 tsp chili powder (optional)
-- 2.5 ounces (about 75g) tomato paste
 - 4 cloves garlic
 - 2 tbsp frozen ginger (or thumb-size piece fresh)
-- 1 can light coconut milk
-- 1 tbsp cashew butter
+- 1 tbsp tomato paste
+- 1 can coconut milk
+- 1 can diced tomatoes
 
 #### Rest of Ingredients
 
-- 350g black lentils
-- 1 onion
+- 300g black lentils
+- 1 onion, chopped
+- 2 carrots, chopped small
 - 1 tbsp oil
-- 1 liter water
-- 1-2 tbsp maple or agave syrup, to taste
+- 700ml water
+- 1-2 tbsp agave syrup, to taste
 
 #### Directions
 
 1. Add oil and onion to a pot and carmelize, covered, for 10-20 minutes.
 1. Quickly toast the whole spices in a hot pan, then blend together with rest of spice paste ingredients.
-1. When onions are ready, add lentils, water, and spice paste to pot. Simmer covered for 45-60 minutes, until lentils are tender.
+1. When onions are ready, add lentils, carrots, water, and spice paste to pot. Simmer covered for 30-40 minutes, until lentils are tender.
 
 Banana Bread
 ================================================================================
