@@ -1,8 +1,9 @@
+- [Shepherds Pie](#shepherds-pie)
 - [Gazpacho](#gazpacho)
 - [Dishoom Black Dal](#dishoom-black-dal)
 - [Banana Bread](#banana-bread)
 - [Bean and Veg Coconut Curry](#bean-and-veg-coconut-curry)
-- [Vegan Pad Thai](#vegan-pad-thai)
+- [Pad Thai](#pad-thai)
 - [Vegan Chocolate Milkshake](#vegan-chocolate-milkshake)
 - [Ethiopian Turmeric Yellow Split Peas (Yekik Alicha)](#ethiopian-turmeric-yellow-split-peas-yekik-alicha)
 - [Ethiopian Berbere Lentils (Yemisir Wot)](#ethiopian-berbere-lentils-yemisir-wot)
@@ -21,8 +22,50 @@
 - [Thai Curry](#thai-curry)
 - [Cranberry Sauce](#cranberry-sauce)
 - [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
-- [Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds](#cumin-roasted-cauliflower-with-yogurt-and-pomegranate-seeds)
 - [Paella de Verduras](#paella-de-verduras)
+
+
+Shepherd's Pie
+================================================================================
+
+- serves 4
+- 1 hour
+- variation: in place of the carrots, peas, and scallions, use a 10 oz bag of frozen mixed veggies.
+
+#### Filling Ingredients
+
+- 1 large onion, diced
+- 3 large carrots
+- 1/2 lb (250g) mushrooms, chopped
+- 3 tablespoons flour
+- 1 teaspoon dried thyme
+- 1/2 cup (~90g) brown or green lentils
+- 3 cups (750ml) vegetable stock
+- 1/2 cup (100ml) white wine (optional)
+- 1/2 cup (~75g) frozen peas
+- 1 small bunch scallions
+
+#### Mashed Potato Ingredients
+
+- 2 1/2 pounds yukon gold potatoes
+- 3 tablespoons vegan butter
+- 2 tablespoons extra virgin olive oil
+- splash almond or oat milk
+- 1/2 tsp salt
+
+#### Directions
+
+1. Cut potatoes and boil for 10-12 minutes, mix in butter and oil, and mash.
+1. In a large pan, saute onions and carrot about 5 minutes.
+1. Add mushrooms and saute for 5-10 minutes more, until mushrooms release liquid.
+1. Add flour and thyme and cook for 1 minute.
+1. Add veg stock, white wine, and lentils. Cover and cook 20 minutes.
+1. Preheat oven to 425 F.
+1. Add frozen peas and scallions and cook 10 more minutes.
+1. Pour lentil mixture into an 8x8 (2 quart/liter) baking dish and top with mashed potatoes.
+1. Run the tines of a fork over the potatoes.
+1. Bake in the oven for 15 minutes, and finish 5 minutes under broil.
+1. NOTE: place baking dish on a baking sheet, as some of the gravy will boil over.
 
 
 Gazpacho
@@ -152,7 +195,7 @@ Bean and Veg Coconut Curry
 1. Once veg are a bit soft (~5 minutes), add curry paste.
 1. When veg is fully cooked (~10 minutes), add coconut milk, beans, and lime juice and serve once heated.
 
-Vegan Pad Thai
+Pad Thai
 ================================================================================
 
 - serves 3-4
@@ -715,35 +758,6 @@ Mom's (veganized) thanksgiving stuffing
 1. Add stuffing mix, cooked wild rice, almonds, and thyme and pepper. Stir.
 1. Heat rest of butter, stock, and brandy in a small saucepan just until butter melts. Pour over stuffing mixture and stir.
 1. Place stuffing in a casserole and bake uncovered for about 30 minutes.
-
-
-Cumin Roasted Cauliflower with Yogurt and Pomegranate Seeds
-================================================================================
-
-- 2 portions
-- 35-45 minutes
-
-#### Ingredients:
-
-- 1 head Cauliflower
-- 1 tsp Cumin Seeds
-- 2 tbsp Olive Oil
-- 1/2 tsp Kosher Salt
-- 1/2 tsp Ground Pepper
-- 1/4 cup Crumbled Feta
-- Plain or Greek Yogurt
-- Chopped mint leaves
-- Pomegranate Seeds
-
-#### Directions:
-
-1. Preheat oven to 425. Brush a large baking sheet with half the olive oil.
-Cut your cauliflower into bite-size florets.
-Toss florets with remaining olive oil, cumin seeds, salt, and pepper and
-spread evenly on tray.
-Roast for 20-30 minutes, until edges of the cauliflower are toasty.
-1. Blend yogurt with Feta and a pinch of salt. Dollop onto cauliflower
-and garnish with mint, pomegranate seeds, and more feta.
 
 
 Paella de Verduras
