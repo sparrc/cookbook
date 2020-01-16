@@ -15,7 +15,7 @@
 - [Mushroom Soup](#mushroom-soup)
 - [Pancakes](#pancakes)
 - [Lentil and bell pepper stew](#lentil-and-bell-pepper-stew)
-- [Channa Saag and Cardamom Rice](#channa-saag-and-cardamom-rice)
+- [Channa Saag](#channa-saag)
 - [Squash and Apricot tagine](#squash-and-apricot-tagine)
 - [Butternut Squash Chilli](#butternut-squash-chilli)
 - [Chorizo and Lentil One-pot](#chorizo-and-lentil-one-pot)
@@ -538,7 +538,7 @@ Lentil and Bell Pepper Stew
 1. Serve the stew warm with rice.
 
 
-Channa Saag and Cardamom Rice
+Channa Saag
 ================================================================================
 
 - 4 portions
@@ -546,36 +546,38 @@ Channa Saag and Cardamom Rice
 
 #### Rice Ingredients
 
-- 250g basmati rice
-- 3 cardamom pods
-- 1 bay leaf
-- 550ml water
+- 300g basmati rice
+- 650ml water
 
-#### Paste Ingredients
+#### Base Ingredients
 
-- 1 clove garlic (optional)
+- 1 onion
+- 2 cloves garlic
+- 1 tbsp curry powder (preferably 'south Indian' or 'madras' style)
+- 1 tsp garam masala
+- 1 tsp cumin
+- 1 tsp coriander
+- 1 tsp salt
+- 1 can regular coconut milk (or sub 75g cashews + 350ml water)
+- 2 cups (500ml) water
 - 3 small tomatoes (about 150-200g)
-- 1 tbsp frozen ginger
-- 1 tbsp (heaping) curry powder (preferably 'south Indian' or 'madras' style)
-- 1 tbsp agave syrup
-- 1 veg stock cubes (enough for 500ml of stock)
-- 1 can regular coconut milk (or sub 75g cashews + 250ml water)
 
 #### Ingredients
 
 - 2 cans chickpeas, drained (subbing cooked potatoes works well too)
-- 500g (~1 lb) spinach or chard (or mix), chopped roughly
+- 500g (~1 lb) dark greens (spinach/chard/kale/etc), rough stalks removed.
+- 1 bunch cilantro
 
 #### Directions:
 
-1. Start cooking the rice with the cardamom pods and bay leaf.
+1. Start cooking the rice.
 1. (optional: roast chickpeas in the oven before adding to curry)
-1. Blend together all paste ingredients.
-1. Add the paste to a deep pot with oil and cook over low heat for 15 minutes.
-1. Add the chopped spinach, cover and cook, stirring occasionally, until spinach is wilted.
-1. Use an immersion blender to roughly blend the spinach into a sauce.
-1. Add the chickpeas to the sauce and heat through. Serve with the cardamom rice.
-
+1. Cook onions and garlic in a large pot with oil for about 5-10 minutes.
+1. Add spices and cook additional 10 minutes.
+1. Add salt, tomatoes, water and coconut milk and bring to simmer.
+1. Add greens and cilantro and cover, simmer til wilted, stirring occasionally.
+1. Use an immersion blender to roughly blend everything into a sauce.
+1. Add the chickpeas to the sauce and heat through. Serve with rice.
 
 Squash and Apricot Tagine
 ================================================================================
