@@ -301,7 +301,7 @@ Ethiopian Cabbage (Tikil Gomen)
 ================================================================================
 
 - 5 side dishes or 2 as a main
-- 40 minutes
+- 30 minutes
 
 #### Ingredients
 
@@ -311,7 +311,7 @@ Ethiopian Cabbage (Tikil Gomen)
 - 1/2 large head cabbage, shredded (about 400g)
 - 300-350g potatoes, diced into small pieces
 - 2 cloves garlic, chopped
-- 2 tsp veggie bouillon or 1 tsp salt
+- 1 tsp salt
 - 1 tsp fresh or frozen ginger
 - 1/2 tsp ground cumin
 - 1/2 tsp ground turmeric
@@ -320,10 +320,8 @@ Ethiopian Cabbage (Tikil Gomen)
 #### Directions:
 
 1. Heat the oil in a heavy pot over medium heat.
-1. Cook the carrots, onion, and garlic in the hot oil about 10 minutes.
-1. Stir in the salt, pepper, cumin, turmeric, and cabbage and cook another 5 minutes.
-1. Add the potatoes; cover.
-1. Reduce heat to medium-low and cook until potatoes are soft, 20 to 30 minutes, deglazing/scraping the pot every 5 minutes. 
+1. Cook the potatoes, carrots, onion, and garlic in the hot oil about 10 minutes.
+1. Stir in the salt, pepper, cumin, turmeric, and cabbage and cook until cabbage is soft and wilted, about 15 minutes.
 
 Baked Miso Eggplant
 ================================================================================
