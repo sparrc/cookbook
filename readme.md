@@ -135,15 +135,16 @@ Banana Bread
 #### Ingredients
 
 - 3 very ripe bananas
-- 1/4 cup (60ml) olive oil
+- 1/4 cup (60ml) olive oil (or 5 tbsp butter)
 - 1/4 cup (60ml) maple syrup
 - 1 tbsp brandy or bourbon (optional)
-- 225g flour (I usually use 125g whole-grain spelt and 100g white flour)
-- 1 heaping tbsp chia seeds
+- 200g flour
+- 1/2 tbsp flax seeds
+- 1/2 tbsp poppy seeds
 - 1/4 tsp salt
-- 1/4 tsp cinnamon
+- 1/4 tsp cinnamon or pumpkin pie spice
 - 1/2 tsp vanilla extract
-- 60g walnut pieces
+- 45g walnut pieces
 - 1.5 tsp baking powder
 - extra walnut pieces for topping (optional)
 
