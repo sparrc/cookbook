@@ -129,31 +129,30 @@ Dishoom Black Dal
 Banana Bread
 ================================================================================
 
-- serves 5-6
+- serves 8
 - 1 hour
 
 #### Ingredients
 
-- 3 very ripe bananas
-- 1/4 cup (60ml) olive oil (or 5 tbsp butter)
-- 1/4 cup (60ml) maple syrup
-- 1 tbsp brandy or bourbon (optional)
-- 200g flour
-- 1/2 tbsp flax seeds
-- 1/2 tbsp poppy seeds
-- 1/4 tsp salt
-- 1/4 tsp cinnamon or pumpkin pie spice
-- 1/2 tsp vanilla extract
-- 45g walnut pieces
-- 1.5 tsp baking powder
-- extra walnut pieces for topping (optional)
+- 4 very ripe bananas
+- 1/3 cup (80ml) olive oil
+- 1/3 cup (80ml) maple syrup
+- 1 tbsp vinegar (white or apple cider)
+- 2 tbsp brandy or bourbon whisky (can sub water)
+- 1/4 tsp cinnamon
+- 2 tsp ground flax seeds
+- 2 tsp poppy seeds
+- 1 tsp baking soda
+- 250g flour
+- 60g walnut pieces
 
 #### Directions:
 
-1. Mash the bananas with the oil and maple syrup.
-2. Add the rest of the ingredients, folding in the walnuts and baking powder last.
-3. Mix well with a spatula and pour into a bread pan, then top with extra nuts.
-4. bake at 350 F (175 C) for 50-60 minutes.
+1. Mix all wet ingredients with the bananas and mash well.
+1. Add the spices, seeds, and baking soda and mix into liquid.
+1. Stir in flour and walnuts.
+1. Mix well with a spatula and pour into a bread pan.
+1. Bake at 350 F (175 C) for 55-60 minutes.
 
 Bean and Veg Coconut Curry
 ================================================================================
@@ -770,29 +769,30 @@ Paella de Verduras
 #### Sofrito Ingredients:
 
 - 2 onions, diced finely
-- 1 red bell pepper, diced finely (optional: cut spears and reserve for topping)
+- 1 red bell pepper, diced finely (optional: reserve 4 spears for topping)
 - 1 can diced tomatoes
 - 2 cloves garlic, chopped
-- 3 tbsp oil
+- 4 tbsp (1/4 cup) oil
 
 #### Ingredients:
 
-- 1 liter (4 cups) veg broth
-- 1 green bell pepper, diced (optional: cut spears and reserve for topping)
-- 250g (1 1/2 cup) Bomba Rice
-- 1 pinch saffron
+- 1 green bell pepper, diced (optional: reserve 4 spears for topping)
+- 125g (8 oz) white mushrooms, chopped small
 - 2 medium carrots, diced
-- 150g frozen peas, thawed
-- 4-6 artichoke hearts (optional: for topping)
+- 1/2 large zuchini, diced
+- 100g green beans, chopped
+- 300g (2 cup) Bomba Rice
+- 1 liter (4 cups) veg broth
+- 1/2 liter (500ml) water
+- 1 pinch saffron
 
 #### Directions:
 
+1. **sofrito:** Heat oil in paella pan on medium-low heat. Add sofrito ingredients. Cook, stirring occasionally, for 30-40 minutes, until sofrito is a dark reddish-brown.
+1. As sofrito finishes cooking, add rest of vegetables. Cook for 10 minutes.
+1. Add rice and stir until blended, then add broth and saffron.
 1. Preheat oven to 400 degrees, with rack in middle.
-1. **sofrito:** Heat oil in paella pan on medium heat. Add sofrito ingredients. Cook, stirring occasionally, for 30-40 minutes, until sofrito is a dark reddish-brown.
-1. As sofrito finishes cooking, add green bell pepper and carrots. Cook for 10 minutes.
-1. Add rice to sofrito and stir until blended, then add broth and saffron.
-1. Let rice cook, stirring occasionally and rotating paella pan for about 15-20 minutes. Add peas halfway through.
-1. Insert optional pepper spears and artichoke hearts into top of paella.
-1. Cover paella with tin foil and finish in oven for ~12 minutes.
-1. If liquid remains, put oven on low broil and cook away liquid without burning top of paella.
+1. Let rice cook, stirring occasionally and rotating paella pan for about 15-20 minutes.
+1. Place optional pepper spears on top of paella.
+1. Cover paella with tin foil and finish in oven for ~12 minutes covered, then 5 minutes uncovered, until liquid has evaporated.
 
