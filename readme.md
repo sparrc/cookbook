@@ -25,15 +25,16 @@
 Shepherd's Pie
 ================================================================================
 
-- serves 4
+- serves 4-5
 - 1 hour
-- variation: in place of the carrots, peas, and scallions, use a 10 oz bag of frozen mixed veggies.
 
 #### Filling Ingredients
 
+- 1/4 cup (60ml) oil
 - 1 large onion, diced
 - 3 large carrots
-- 1/2 lb (250g) mushrooms, chopped
+- 1/2 tsp salt
+- 8 oz (250g) mushrooms, diced small
 - 3 tablespoons flour
 - 1 teaspoon dried thyme
 - 1/2 cup (~90g) brown or green lentils
@@ -44,26 +45,23 @@ Shepherd's Pie
 
 #### Mashed Potato Ingredients
 
-- 2 1/2 pounds yukon gold potatoes
+- 2 1/2 pounds russet potatoes, peeled and chopped
 - 3 tablespoons vegan butter
-- 2 tablespoons extra virgin olive oil
-- splash almond or oat milk
+- 2 tablespoons oil
+- splash of oat milk
 - 1/2 tsp salt
 
 #### Directions
 
-1. Cut potatoes and boil for 10-12 minutes, mix in butter and oil, and mash.
-1. In a large pan, saute onions and carrot about 5 minutes.
-1. Add mushrooms and saute for 5-10 minutes more, until mushrooms release liquid.
+1. Cut potatoes and boil in salted water for 10-12 minutes, mix in butter and oil, and mash.
+1. In a saute pan, saute onions and carrot about 5-10 minutes.
+1. Add mushrooms and saute for 5-10 minutes more, until mushrooms release all liquid.
 1. Add flour and thyme and cook for 1 minute.
-1. Add veg stock, white wine, and lentils. Cover and cook 20 minutes.
-1. Preheat oven to 425 F.
-1. Add frozen peas and scallions and cook 10 more minutes.
-1. Pour lentil mixture into an 8x8 (2 quart/liter) baking dish and top with mashed potatoes.
+1. Add veg stock, white wine, and lentils. Cover and cook 30 minutes, adding peas and scallions about halfway through.
+1. Preheat oven to 450 F.
+1. Pour lentil mixture into a 3 quart/3 liter baking dish and top with mashed potatoes.
 1. Run the tines of a fork over the potatoes.
-1. Bake in the oven for 15 minutes, and finish 5 minutes under broil.
-1. NOTE: place baking dish on a baking sheet, as some of the gravy will boil over.
-
+1. Bake in the oven for 10 minutes, and finish 10 minutes under high broil til browned.
 
 Gazpacho
 ================================================================================
@@ -680,35 +678,39 @@ Mom's (veganized) thanksgiving stuffing
 Paella de Verduras
 ================================================================================
 
-- 4 portions
+- 4-6 portions
 - 1.5 hours
 
 #### Sofrito Ingredients:
 
 - 2 onions, diced finely
-- 1 red bell pepper, diced finely (optional: reserve 4 spears for topping)
-- 1 can diced tomatoes
+- 2 red bell peppers, diced finely (optional: reserve 4 spears for topping)
+- 100g tomatoes, preferably grape tomatoes, chopped/mashed finely
 - 2 cloves garlic, chopped
-- 4 tbsp (1/4 cup) oil
+- 5 tbsp (1/3 cup) oil
+
+#### Broth Ingredients:
+
+- 1 liter (1 quart) veg broth
+- 1/2 liter (500ml) water
+- 1 large pinch saffron
+- 1 heaping tsp paprika
 
 #### Ingredients:
 
-- 1 green bell pepper, diced (optional: reserve 4 spears for topping)
-- 125g (8 oz) white mushrooms, chopped small
+- 250g (8 oz) white mushrooms, chopped small
 - 2 medium carrots, diced
 - 1/2 large zuchini, diced
-- 100g green beans, chopped
+- 125g (4 oz) green beans, chopped
 - 300g (2 cup) Bomba Rice
-- 1 liter (4 cups) veg broth
-- 1/2 liter (500ml) water
-- 1 pinch saffron
 
 #### Directions:
 
-1. **sofrito:** Heat oil in paella pan on medium-low heat. Add sofrito ingredients. Cook, stirring occasionally, for 30-40 minutes, until sofrito is a dark reddish-brown.
-1. As sofrito finishes cooking, add rest of vegetables. Cook for 10 minutes.
-1. Add rice and stir until blended, then add broth and saffron.
-1. Preheat oven to 400 degrees, with rack in middle.
+1. **sofrito:** Heat oil in paella pan on medium-low heat. Add sofrito ingredients and salt generously. Cook, stirring occasionally, for 30-40 minutes, until sofrito is a dark reddish-brown.
+1. Add broth ingredients to a pot and simmer very low, covered.
+1. As sofrito finishes cooking, add rest of vegetables and salt generously. Cook for 10 minutes.
+1. Add rice and stir until blended, then add broth.
+1. Preheat oven to 425 degrees, with rack in middle.
 1. Let rice cook, stirring occasionally and rotating paella pan for about 15-20 minutes.
 1. Place optional pepper spears on top of paella.
 1. Cover paella with tin foil and finish in oven for ~12 minutes covered, then 5 minutes uncovered, until liquid has evaporated.
