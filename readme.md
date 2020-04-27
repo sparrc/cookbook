@@ -130,11 +130,10 @@ Banana Bread
 #### Ingredients
 
 - 4 very ripe bananas
-- 1/3 cup (80ml) olive oil
+- 5 tbsp melted vegan butter or olive oil
 - 1/3 cup (80ml) maple syrup
 - 1 tbsp vinegar (white or apple cider)
 - 2 tbsp brandy or bourbon whisky (can sub water)
-- 1/4 tsp cinnamon
 - 2 tsp ground flax seeds
 - 2 tsp poppy seeds
 - 1 tsp baking soda
