@@ -465,13 +465,13 @@ Channa Saag
 
 - 1 onion
 - 2 cloves garlic
+- 2 large carrots
 - 1 tbsp curry powder (preferably 'south Indian' or 'madras' style)
 - 1 tsp garam masala
 - 1 tsp cumin
 - 1 tsp coriander
 - 1 tsp salt
 - 1 can regular coconut milk (or sub 75g cashews + 350ml water)
-- 2 cups (500ml) water
 - 3 small tomatoes (about 150-200g)
 
 #### Ingredients
@@ -483,12 +483,11 @@ Channa Saag
 #### Directions:
 
 1. Start cooking the rice.
-1. (optional: roast chickpeas in the oven before adding to curry)
-1. Cook onions and garlic in a large pot with oil for about 5-10 minutes.
-1. Add spices and cook additional 10 minutes.
-1. Add salt, tomatoes, water and coconut milk and bring to simmer.
+1. Cook onions, carrots and garlic in a large pot with oil for about 5-10 minutes.
+1. Add salt and spices and cook additional 5 minutes.
+1. Add tomatoes and coconut milk and bring to simmer.
 1. Add greens and cilantro and cover, simmer til wilted, stirring occasionally.
-1. Use an immersion blender to roughly blend everything into a sauce.
+1. Use an immersion blender to roughly blend everything into a sauce, adding water if needed.
 1. Add the chickpeas to the sauce and heat through. Serve with rice.
 
 Squash and Apricot Tagine
