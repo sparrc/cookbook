@@ -30,7 +30,7 @@ Shepherd's Pie
 
 #### Filling Ingredients
 
-- 1/4 cup (60ml) oil
+- 3 tbsp salted vegan butter
 - 1 large onion, diced
 - 3 large carrots
 - 1/2 tsp salt
@@ -46,10 +46,8 @@ Shepherd's Pie
 #### Mashed Potato Ingredients
 
 - 2 1/2 pounds russet potatoes, peeled and chopped
-- 3 tablespoons vegan butter
-- 2 tablespoons oil
+- 5 tbsp salted vegan butter
 - splash of oat milk
-- 1/2 tsp salt
 
 #### Directions
 
