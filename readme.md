@@ -92,17 +92,15 @@ Dishoom Black Dal
 
 - 1 tbsp whole coriander seeds
 - 1 tbsp whole cumin seeds
-- 5 whole cloves
-- 2 cardamom pods
 - 1 tsp black peppercorns
-- 1 tsp paprika (not smoked)
-- 1/4 tsp cinnamon
+- 1 tsp salt
+- 1 tsp garam masala
+- 1 tsp paprika
 - 1/2 tsp chili powder (optional)
 - 4 cloves garlic
-- 2 tbsp frozen ginger (or thumb-size piece fresh)
 - 1 tbsp tomato paste
 - 1 can coconut milk
-- 1 can diced tomatoes
+- 250g tomatoes (or half 1 can diced tomatoes)
 
 #### Rest of Ingredients
 
@@ -110,14 +108,13 @@ Dishoom Black Dal
 - 1 onion, chopped
 - 2 carrots, chopped small
 - 1 tbsp oil
-- 700ml water
-- 1-2 tbsp agave syrup, to taste
+- 750ml water
 
 #### Directions
 
 1. Add oil and onion to a pot and carmelize, covered, for 10-20 minutes.
 1. Quickly toast the whole spices in a hot pan, then blend together with rest of spice paste ingredients.
-1. When onions are ready, add lentils, carrots, water, and spice paste to pot. Simmer covered for 30-40 minutes, until lentils are tender.
+1. When onions are ready, add lentils, carrots, water, and spice paste to pot. Simmer covered for 25-30 minutes, until lentils are tender.
 
 Banana Bread
 ================================================================================
@@ -632,9 +629,9 @@ Cranberry Sauce
 
 #### Ingredients:
 
-- 300 g Cranberries
+- 12 oz (350g) Cranberries
 - 250 ml Water
-- 100-125 g Sugar
+- 125 g Sugar
 
 #### Directions:
 
@@ -650,15 +647,15 @@ Mom's (veganized) thanksgiving stuffing
 
 #### Ingredients:
 
-- 1 cup (220g) vegan butter
+- 1 cup (220g) salted vegan butter
 - 2 stocks celery, chopped
 - 1 onion
-- 12 oz (340g) vegan sausage
+- 8 oz (225g) button mushrooms, chopped small
 - 12 oz (340g) Pepperidge Farm Herb-Seasoned cubed stuffing
 - 1 cup (240ml) wild rice, cooked (about 50g dry)
 - 1 cup (100g) sliced almonds
 - 1/2 cup (120ml) brandy
-- 2 cups (500 ml) veg broth
+- 2 cups (500 ml) low-sodium veg broth
 - 1/2 tsp dried thyme
 - 1/2 tsp black pepper
 
