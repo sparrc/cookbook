@@ -677,11 +677,12 @@ Paella de Verduras
 
 #### Sofrito Ingredients:
 
-- 2 onions, diced finely
-- 2 red bell peppers, diced finely (optional: reserve 4 spears for topping)
-- 100g tomatoes, preferably grape tomatoes, chopped/mashed finely
-- 2 cloves garlic, chopped
+- 1 large onion, diced finely
+- 2 red bell peppers, diced finely
+- 500g tomatoes, blended
+- 3 cloves garlic, blended
 - 5 tbsp (1/3 cup) oil
+- 1/2 tsp salt
 
 #### Broth Ingredients:
 
@@ -692,7 +693,7 @@ Paella de Verduras
 
 #### Ingredients:
 
-- 250g (8 oz) white mushrooms, chopped small
+- 250g (8 oz) white mushrooms
 - 2 medium carrots, diced
 - 1/2 large zuchini, diced
 - 125g (4 oz) green beans, chopped
@@ -700,12 +701,11 @@ Paella de Verduras
 
 #### Directions:
 
-1. **sofrito:** Heat oil in paella pan on medium-low heat. Add sofrito ingredients and salt generously. Cook, stirring occasionally, for 30-40 minutes, until sofrito is a dark reddish-brown.
+1. **sofrito:** Heat oil in paella pan on medium-low heat. Add sofrito ingredients. Cook, stirring occasionally, for 30-40 minutes, until sofrito is a dark reddish-brown.
 1. Add broth ingredients to a pot and simmer very low, covered.
 1. As sofrito finishes cooking, add rest of vegetables and salt generously. Cook for 10 minutes.
 1. Add rice and stir until blended, then add broth.
 1. Preheat oven to 425 degrees, with rack in middle.
 1. Let rice cook, stirring occasionally and rotating paella pan for about 15-20 minutes.
-1. Place optional pepper spears on top of paella.
-1. Cover paella with tin foil and finish in oven for ~12 minutes covered, then 5 minutes uncovered, until liquid has evaporated.
+1. Cook paella in oven for ~12 minutes uncovered, until liquid has evaporated.
 
