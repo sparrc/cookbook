@@ -126,22 +126,19 @@ Banana Bread
 #### Ingredients
 
 - 4 very ripe bananas
-- 5 tbsp melted vegan butter or olive oil
-- 1/3 cup (80ml) maple syrup
-- 1 tbsp vinegar (white or apple cider)
+- 5 tbsp (75g) olive oil
+- 1/3 cup (80g) maple syrup
 - 2 tbsp brandy or bourbon whisky (can sub water)
-- 2 tsp ground flax seeds
-- 2 tsp poppy seeds
-- 1 tsp baking soda
+- 4 tsp poppy seeds
+- 2 tsp baking powder
 - 250g flour
-- 60g walnut pieces
 
 #### Directions:
 
-1. Mix all wet ingredients with the bananas and mash well.
-1. Add the spices, seeds, and baking soda and mix into liquid.
-1. Stir in flour and walnuts.
-1. Mix well with a spatula and pour into a bread pan.
+1. Mix all wet ingredients with the bananas and mash well (can use blender too).
+1. Add all dry ingredients except poppy seeds and mix well.
+1. Stir in poppy seeds.
+1. Pour into a bread pan.
 1. Bake at 350 F (175 C) for 55-60 minutes.
 
 Bean and Veg Coconut Curry
