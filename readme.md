@@ -1,3 +1,5 @@
+- [Roasted Red Pepper Pesto](#roasted-red-pepper-pesto)
+- [Basil Pesto](#basil-pesto)
 - [Shepherds Pie](#shepherds-pie)
 - [Gazpacho](#gazpacho)
 - [Dishoom Black Dal](#dishoom-black-dal)
@@ -21,6 +23,50 @@
 - [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
 - [Paella de Verduras](#paella-de-verduras)
 
+
+Roasted Red Pepper Pesto
+================================================================================
+
+- serves 2-3 (about 1 lb dry pasta)
+- 30 minutes
+
+#### Ingredients
+
+- 40g pine nuts
+- 50g olive oil
+- 75g water
+- 1 tbsp tomato paste
+- 1 oven-roasted red bell pepper
+- 1-2 small cloves garlic
+- 1 tsp sweet paprika
+- 1/2 tsp black pepper
+- 1/2 tsp salt
+- 1 tbsp nutritional yeast
+
+#### Directions
+
+1. Combine and blend all ingredients, adding more water and/or oil as needed.
+
+Basil Pesto
+================================================================================
+
+- serves 2-3 (about 1 lb dry pasta)
+- 30 minutes
+
+#### Ingredients
+
+- 80g basil (1 large bunch), thick stems removed
+- 50g olive oil
+- 50g water
+- 1/2 tsp salt
+- 40g pine nuts
+- 2 small garlic cloves
+- 1/2 lime or small lemon juice
+- 1 tbsp nutritional yeast
+
+#### Directions
+
+1. Combine and blend all ingredients, adding more water and/or oil as needed.
 
 Shepherd's Pie
 ================================================================================
