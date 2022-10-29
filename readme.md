@@ -71,38 +71,37 @@ Basil Pesto
 Shepherd's Pie
 ================================================================================
 
-- serves 4-5
+- serves 5-6
 - 1.5 hours
 
 #### Filling Ingredients
 
-- 3 tbsp salted vegan butter
+- 5 tbsp salted vegan butter
 - 1 large onion, diced
-- 3 large carrots
+- 4 large carrots
 - 1/2 tsp salt
 - 8 oz (250g) mushrooms, diced small
-- 3 tablespoons flour
+- 4 tablespoons flour
 - 2 teaspoons dried thyme
-- 90g brown or green lentils
-- 750ml vegetable stock
+- 150g brown or green lentils
+- 1.25l vegetable stock
 - 150ml white wine
-- 75g frozen peas
-- 1 small bunch scallions
+- 100g frozen peas
 
 #### Mashed Potato Ingredients
 
-- 2 1/2 pounds russet potatoes, peeled and chopped
-- 5 tbsp salted vegan butter
+- 3.5 pounds russet potatoes, peeled and chopped
+- 8 tbsp salted vegan butter
 - splash of oat milk
 
 #### Directions
 
 1. Cut potatoes and boil in salted water for 10-12 minutes, mix in butter and oil, and mash.
-1. In a saute pan, saute onions and carrot about 5-10 minutes.
+1. In a saute pan, melt butter and then saute onions and carrot about 5-10 minutes.
 1. Add mushrooms and saute for 5-10 minutes more, until mushrooms release all liquid.
 1. Add flour, thyme and salt and cook for 1 minute.
 1. Deglaze pan with white wine.
-1. Add veg stock and lentils. Cover and cook 30 minutes, adding peas and scallions about halfway through.
+1. Add veg stock and lentils. Cover and cook 30 minutes, adding peas about halfway through.
 1. Preheat oven to 450 F.
 1. Pour lentil mixture into a 3 quart/3 liter baking dish and top with mashed potatoes.
 1. Run the tines of a fork over the potatoes.
