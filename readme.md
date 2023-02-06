@@ -131,36 +131,34 @@ Gazpacho
 Dishoom Black Dal
 ================================================================================
 
-- serves 4
+- serves 5-6
 - 1 hour
 
-#### Spice Paste Ingredients
+#### Ingredients
 
-- 1 tbsp whole coriander seeds
-- 1 tbsp whole cumin seeds
-- 1 tsp black peppercorns
-- 1 tsp salt
+- 1/2 cup oil
+- 1 onion
+- 2 carrots, chopped small
+
+- 1 tbsp cumin
+- 1 tbsp curry powder
+- 1 tsp black pepper
 - 1 tsp garam masala
 - 1 tsp paprika
-- 1/2 tsp chili powder (optional)
-- 4 cloves garlic
-- 1 tbsp tomato paste
-- 1 can coconut milk
-- 250g tomatoes (or half 1 can diced tomatoes)
+- 5 cloves garlic
+- 5 tbsp tomato paste (or 1 6oz can)
 
-#### Rest of Ingredients
-
-- 300g black lentils
-- 1 onion, chopped
-- 2 carrots, chopped small
-- 1 tbsp oil
-- 750ml water
+- 2 cans coconut milk
+- 1 liter boiling water
+- 4 cubes veggie bouillon
+- 400g black lentils
 
 #### Directions
 
-1. Add oil and onion to a pot and carmelize, covered, for 10-20 minutes.
-1. Quickly toast the whole spices in a hot pan, then blend together with rest of spice paste ingredients.
-1. When onions are ready, add lentils, carrots, water, and spice paste to pot. Simmer covered for 25-30 minutes, until lentils are tender.
+1. Add oil, onion, carrots to a pot and cook down 10-20 minutes.
+1. Add spices, garlic, and tomato paste to pot and cook 2-3 minutes.
+1. Add coconut milk, water, bouillon, and lentils. Simmer for 30-40 minutes, stirring occasionally to prevent the bottom sticking.
+1. Optionally add 10oz frozen peas/carrots about halfway through cooking.
 
 Banana Bread
 ================================================================================
