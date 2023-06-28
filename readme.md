@@ -1,8 +1,11 @@
+- [Chickpea Salad](#chickpea-salad)
+- [Pancake/Waffle Mix](#pancake-waffle-mix)
+- [Alphabet Soup](#alphabet-soup)
 - [Roasted Red Pepper Pesto](#roasted-red-pepper-pesto)
 - [Basil Pesto](#basil-pesto)
 - [Shepherds Pie](#shepherds-pie)
 - [Gazpacho](#gazpacho)
-- [Dishoom Black Dal](#dishoom-black-dal)
+- [Dal Makhani](#dal-makhani)
 - [Banana Bread](#banana-bread)
 - [Bean and Veg Coconut Curry](#bean-and-veg-coconut-curry)
 - [Pad Thai](#pad-thai)
@@ -23,6 +26,74 @@
 - [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
 - [Paella de Verduras](#paella-de-verduras)
 
+Chickpea Salad
+================================================================================
+
+- serves 4
+- 30 minutes
+
+#### Ingredients
+
+- 1 can of chickpeas, rinsed and drained, roughly mashed
+- 4 tbsp (60ml) vegan mayo
+- 4-5 cherry tomatoes, diced
+- 1 celery stalk, diced
+- 1 dill pickle spear, diced (about 1/4 cup)
+- 1 tsp dijon mustard
+- 1/2 tsp salt
+- 1 tsp paprika
+- 2 tablespoons of red onion, diced (optional)
+
+#### Directions
+
+1. Mix all ingredients!
+2. variation: add 1/4 lb (125g) dry macaroni elbows (cooked).
+
+Pancake/Waffle Mix
+================================================================================
+
+- serves 5
+- 30 minutes
+
+#### Ingredients
+
+- 300g all-purpose flour
+- 2 tbsp baking powder
+- 3/4 tsp salt
+- 3 tbsp sugar
+- 500g soy milk
+- 3 tbsp canola oil
+
+#### Directions
+
+1. Mix all dry ingredients in bowl, then feed add wet ingredients and mix with a whisk. Leave some lumps and x d don't overmix. Feel free to add blueberries to all or some of the batter.
+
+Alphabet Soup
+================================================================================
+
+- serves 5
+- 60 minutes
+
+#### Ingredients
+
+- 1/2 cup oil
+- 2 tsp italian seasoning
+- 1/4 tsp thyme
+- 1/4 tsp black pepper
+- 5 garlic cloves
+- 1 onion
+- 2.5 liters veg broth
+- 500ml water
+- 1 package frozen mixed veggies (10 oz / 270g)
+- 1 bay leaf
+- 6 ounce can tomato paste
+- 100g pardina lentils
+
+#### Directions
+
+1. Add oil, seasoning, garlic, and onion to pot and cook for 5-10 minutes.
+2. Add rest of ingredients to pot EXCEPT alphabet pasta, simmer for 30 minutes.
+3. Add alphabet pasta and cook according to package instructions (usually 10-12 minutes).
 
 Roasted Red Pepper Pesto
 ================================================================================
@@ -128,10 +199,10 @@ Gazpacho
 
 1. Blend everything! Serve with more crusty bread.
 
-Dishoom Black Dal
+Dal Makhani
 ================================================================================
 
-- serves 5-6
+- serves 6-7
 - 1 hour
 
 #### Ingredients
@@ -139,26 +210,24 @@ Dishoom Black Dal
 - 1/2 cup oil
 - 1 onion
 - 2 carrots, chopped small
-
-- 1 tbsp cumin
-- 1 tbsp curry powder
+- 2 tsp curry powder (preferably kashmiri)
+- 2 tsp garam masala
 - 1 tsp black pepper
-- 1 tsp garam masala
-- 1 tsp paprika
+- 1 tbsp paprika
+- 1 tsp smoked paprika
 - 5 cloves garlic
-- 5 tbsp tomato paste (or 1 6oz can)
-
+- 1 6oz can tomato paste
 - 2 cans coconut milk
 - 1 liter boiling water
-- 4 cubes veggie bouillon
+- 4 cubes veggie bouillon (enough for 2 liters/quarts broth)
 - 400g black lentils
 
 #### Directions
 
 1. Add oil, onion, carrots to a pot and cook down 10-20 minutes.
 1. Add spices, garlic, and tomato paste to pot and cook 2-3 minutes.
-1. Add coconut milk, water, bouillon, and lentils. Simmer for 30-40 minutes, stirring occasionally to prevent the bottom sticking.
-1. Optionally add 10oz frozen peas/carrots about halfway through cooking.
+1. Add coconut milk, water, bouillon, and lentils. Simmer on very low for 40-90 minutes, stirring occasionally to prevent the bottom sticking.
+1. Optionally add 10oz frozen peas/carrots/corn about halfway through cooking.
 
 Banana Bread
 ================================================================================
