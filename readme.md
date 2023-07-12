@@ -1,3 +1,4 @@
+- [Orzo Salad with Asparagus](#orzo-salad-with-asparagus)
 - [Chickpea Salad](#chickpea-salad)
 - [Pancake/Waffle Mix](#pancake-waffle-mix)
 - [Alphabet Soup](#alphabet-soup)
@@ -26,6 +27,35 @@
 - [Mom's (veganized) thanksgiving stuffing](#moms-veganized-thanksgiving-stuffing)
 - [Paella de Verduras](#paella-de-verduras)
 
+
+Orzo Salad with Asparagus
+================================================================================
+
+- serves 4
+- 30 minutes
+
+#### Pasta Ingredients
+
+- 1 liter (4 cups) veggie broth
+- 1 lb orzo
+- 1 can kidney beans, drained
+- 1-2 bunches asparagus, chopped and blanched ~5-7 minutes
+
+#### Dressing Ingredients
+
+- 1/2 cup olive oil
+- 1/4 cup white wine vinegar
+- 1 tbsp agave
+- 1 tsp salt
+- pepper to taste
+
+#### Directions
+
+1. Blanch the asparagus in veggie broth.
+1. Remove and cook the orzo in the same broth, drain when ready.
+1. Combine all dressing ingredients in lidded jar or blender.
+1. Combine all pasta ingredients and then mix in dressing.
+
 Chickpea Salad
 ================================================================================
 
@@ -49,7 +79,7 @@ Chickpea Salad
 1. Mix all ingredients!
 2. variation: add 1/4 lb (125g) dry macaroni elbows (cooked).
 
-Pancake/Waffle Mix
+Pancake Waffle Mix
 ================================================================================
 
 - serves 5
