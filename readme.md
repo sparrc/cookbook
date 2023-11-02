@@ -244,7 +244,8 @@ Dal Makhani
 - 2 tsp garam masala
 - 1 tsp black pepper
 - 1 tbsp paprika
-- 1 tsp smoked paprika
+- 1 tsp garlic powder
+- 1 tsp onion powder
 - 5 cloves garlic
 - 1 6oz can tomato paste
 - 2 cans coconut milk
@@ -267,11 +268,11 @@ Banana Bread
 
 #### Ingredients
 
-- 4 very ripe bananas
-- 5 tbsp (75g) olive oil
-- 1/3 cup (80g) maple syrup
-- 2 tbsp brandy or bourbon whisky (can sub water)
-- 4 tsp poppy seeds
+- 3 very ripe bananas (350g peeled)
+- 5 tbsp (70g) olive oil
+- 5 tbsp (70g) maple syrup
+- 1 tbsp brandy or bourbon whisky (can sub water)
+- 2 tsp poppy seeds
 - 2 tsp baking powder
 - 250g flour
 
